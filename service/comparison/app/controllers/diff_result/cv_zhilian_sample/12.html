@@ -1,0 +1,602 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="1" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">对韩合作、品牌推广</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">产品主管、品牌经理、市场策划/企划经理/主管、商务经理/主管</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2016年03月02日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JR222148949R90250006000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                        <span class="resume-left-tips-right"><a href="http://rd2.zhaopin.com/s/resusech/searchUserResume.asp?um_id=JR222148949" target="_blank">查看所有简历</a></span>
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://mypics.zhaopin.com/pic/2013/8/1/A11475603FC44742AA41096A53384A28.jpg">
+        <img alt="" src="http://mypics.zhaopin.com/pic/2013/8/1/A11475603FC44742AA41096A53384A28.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;28岁(1988年6月)&nbsp;&nbsp;&nbsp;&nbsp;4年工作经验&nbsp;&nbsp;&nbsp;&nbsp;硕士&nbsp;&nbsp;&nbsp;&nbsp;未婚</span>
+        <br />
+        现居住地：北京 朝阳区 | 户口：北京 | 群众 | 有海外工作/学习经验
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>北京、韩国</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>不显示职位月薪范围</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>产品主管、品牌经理、市场策划/企划经理/主管、商务经理/主管</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>快速消费品（食品/饮料/烟酒/日化）、娱乐/体育/休闲、媒体/出版/影视/文化传播、汽车/摩托车、互联网/电子商务</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">做事积极，刻苦专注，有强烈的时间观念和协调能力，能很好的整合多方资源推动项目按时完成。<br />韩语能力优秀，在韩工作学习2年时间，在韩国新闻出版界有一部分人脉资源。</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2013.09 - 至今&nbsp;&nbsp;内蒙古伊利实业集团股份有限公司&nbsp;&nbsp;（2年6个月）</h2>
+            <h5>推广活动评审专员</h5>
+            <div class="resume-preview-dl">
+                快速消费品（食品/饮料/烟酒/日化） | 企业性质：上市公司 | 规模：10000人以上
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、整合营销工作<br />牵头制定集团各重点产品的整合营销工作，配合集团领导确定集团年度重点营销项目。推进节日整合营销，统一终端形象，打造集团化节日营销。<br /><br />2、母品牌推广活动<br />根据母品牌定位及调性，策划线下活动落地推广方案并执行，促进自媒体传播，积累品牌资产。如：参观伊利全球产业链项目、参观工厂、牧场等活动。<br /><br />3、跨界整合创新<br />推动集团行销创新工作与互联网结合，完成最新科技在市场终端及营销工作中的应用（全景可视化技术应用，空气盒子硬件与智能奶杯的应用等），促进与互联网巨头的战略合作等，如腾讯、百度等。<br /><br />4、广促品的管理<br />针对事业部终端业务需求，牵头建立广促品样品库平台，并定期举办选品会，帮助业务部门选好、选对广促品，拉动业绩增长。<br /><br />5、团队管理：带领1名管理培训生，负责对集团行销库进行常规管理，制定年度淘汰及准入机制。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2012.03 - 2013.08&nbsp;&nbsp;韩国高丽大学&nbsp;&nbsp;（1年5个月）</h2>
+            <h5>对外联络部-外事专员</h5>
+            <div class="resume-preview-dl">
+                学术/科研 | 企业性质：其它
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>协助对外联络部长处理大陆地区政府及相关单位合作洽淡业务。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2011.03 - 2011.06&nbsp;&nbsp;联想集团&nbsp;&nbsp;（3个月）</h2>
+            <h5>国际化业务处 | 技术支持/维护工程师【实习】 | 1000-2000元/月</h5>
+            <div class="resume-preview-dl">
+                计算机硬件 | 企业性质：上市公司 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>负责韩国市场的运营支援</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2011.01 - 2011.03&nbsp;&nbsp;华夏银行&nbsp;&nbsp;（2个月）</h2>
+            <h5>北京分行 人力资源部 | 招聘专员 【实习】 | 1000-2000元/月</h5>
+            <div class="resume-preview-dl">
+                基金/证券/期货/投资 | 企业性质：上市公司 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>负责华夏银行北京分行2011年校园招聘的整体工作，宣讲，简历筛选，组织笔试及面试。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.10 - 2010.01&nbsp;&nbsp;共青团北京市委员会&nbsp;&nbsp;（3个月）</h2>
+            <h5>大学中专工作部 | 执行主席助理 | 1000元/月以下</h5>
+            <div class="resume-preview-dl">
+                政府/公共事业/非盈利机构 | 企业性质：国家机关
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>负责“关心服务寒假留校大学生”活动的策划，筹备及执行工作。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2015.08 - 2015.09&nbsp;&nbsp;“参观伊利全球产业链”项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>项目负责人：对整体活动进行策划及筹备</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>项目描述：根据集团走出去战略，推动伊利海外生产基地的推广与传播，组织中国消费者对伊利新西兰生产基地进行探访，通过用社会化营销的手法将事件进行扩大传播。<br />项目成就：微博话题量突破2亿，境外媒体主动报道，消费者满意度100%。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2015.06 - 2015.07&nbsp;&nbsp;“伊利奔跑吧兄弟专场”项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>项目负责人：负责对整体活动的策划及设计，明星的筛选及邀请。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>项目描述：业界首次“直播综艺”，邀请明星（李晨、张艺兴）带领消费者参观伊利，借鉴《奔跑吧兄弟》真人秀模式，通过网络直播，将伊利优秀品质以综艺节目的形式软性的传递给消费者。<br />项目成绩：90分钟在线观看人数突破860万，创“综艺直播”先河。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2014.12 - 2015.12&nbsp;&nbsp;“伊利全球产业链可视化”项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>项目负责人：负责项目的策划、立项及内部资源协调及对接百度，推进项目上线。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>项目描述：通过借助互联网，运用可视化相关技术将伊利全球各地的工厂、牧场的环境、生产设施等进行在线可视化还原，让消费者可以通过PC及手机端实时看到伊利产品生产的全过程。 <br />项目成绩：访问量突破3500万；获得品牌数字资产榜液态奶行业第一。<br />访问地址：https://www.baidu.com/link?url=TSu4RUeE2zeUoPi-QZFuNIyj7ITshsqVy94qsc7Z4wkRJD-WmS90jbqvMdNszRIiRr63yPAgiVM5NXH3lIy1Z1jVEKnSyKJMhf9h0Osfhty0ju7Qy65o_3Lc8PSfXTCdn-tJkWs5KM4LCvxDOgnUYq&amp;wd=&amp;eqid=dbf920c500053a1a000000025623b039</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2014.06 - 2015.07&nbsp;&nbsp;“爸爸去哪儿参观伊利牧场”项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>项目负责人：制定参观牧场活动方案及植入方案，并推进执行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>项目描述：借势“爸爸去哪儿”栏目热播，完成2次对湖南卫视爸爸去哪儿栏目的伊利牧场专场（呼伦贝尔、新疆天山）的筹划及具体植入方案设计，并协助栏目组进行伊利专场的拍摄工作，包括勘景选景、植入脚本确定、前期拍摄场地搭建、植入物料制作、现场实际拍摄协调等工作。并设计栏目播出后对拍摄地伊利牧场进行开放参观工作。<br />项目成绩：同时段收视率冠军；专场辐射周期内QQ星产品销量环比增长117%。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2014.03 - 2015.10&nbsp;&nbsp;“爸爸去哪儿参观伊利工厂”项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>项目负责人：负责项目的整体策略制定，全国线下活动的整体策划。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>项目描述：结合“爸爸去哪儿”权益，创新性的打造了重体验、重亲情的“爸爸去哪儿参观伊利工厂”活动。将母品牌的品质营销落地，与各事业部重点产品、重点渠道进行整合。<br />项目成绩：获得BRANDZ颁发的中国最具价值中国品牌中在食品行业第一名；活动消费者满意率也达到了95%；有99%的消费者在参观工厂后，表示对伊利品牌的信任感及好感度有提升，被誉为全国开放工厂经典案例。</td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2011.09 - 2013.08&nbsp;&nbsp;韩国高丽大学&nbsp;&nbsp;传播学&nbsp;&nbsp;硕士<br />
+2007.09 - 2011.09&nbsp;&nbsp;中央民族大学&nbsp;&nbsp;中国少数民族语言文学&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">培训经历</h3>
+            <h2>2014.10 - 2014.10&nbsp;&nbsp;团队合作、创新思维</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>伊利集团商学院</td>
+                        </tr>   
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">证书</h3>
+            <h2>2013.12&nbsp;&nbsp;大学英语四级</h2>
+            <h2>2010.07&nbsp;&nbsp;韩国语等级证书（六级）</h2>
+            <h2>2008.12&nbsp;&nbsp;普通话等级证书（一级乙等）</h2>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">在校学习情况</h3>
+            <h2>曾获 国家级</h2>
+
+            <h2>2011.09 曾获 国家级 中韩政府奖学金</h2>    
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">奖项描述：</td>
+                        <td>国家公派留学</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2009.02 曾获 省区级 北京市优秀学生干部</h2>    
+            <h2>2009.02 曾获 省区级 北京市优秀学生干部</h2>    
+
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">活动描述：</td>
+                        <td>担任韩国高丽大学公派生联谊会副会长	2012.03 ~ 2013.03<br />担任中国朝鲜族学生中心(KSC)秘书长	2009.12 ~ 2011.03<br />组建并担任中央民族大学朝文记者团团长	2009.01 ~ 2010.06<br />担任中央民族大学校学生会学习部部长	2008.09 ~ 2009.04<br />担任中央民族大学玲珑泉杂志社美术编辑	2008.03 ~ 2009.12<br />担任班级学习委员	2007.09 ~ 2011.07</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">在校实践经验</h3>
+            <h2>2012.06 - 2012.11&nbsp;&nbsp;韩国言论学会会长竞选团队</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>主要负责竞选者的形象维护及宣传工作</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2010.01 - 2010.07&nbsp;&nbsp;电影《平壤之约》剧本翻译（中翻韩、韩翻中）</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>电影《平壤之约》剧本翻译（中翻韩、韩翻中）十万字</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2009.10 - 2010.12&nbsp;&nbsp;教育部国家大学生创新实验计划(NMOE)</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>研究调查吉林省散居地区朝鲜族学校的发展状况以及对现状提出解决方案。</td>
+                    </tr>
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+韩语：读写能力精通 | 听说能力精通<br />
+        </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">专业技能</h3>
+        <div class="resume-preview-dl">
+C1 驾驶执照：熟练 | 12个月<br />
+Photoshop：熟练 | 36个月<br />
+Dreamwaver：良好 | 12个月<br />
+        </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">兴趣爱好</h3>
+        <div class="resume-preview-dl">电影、羽毛球、看纪录片</div>
+    </div>
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+        <div class="resume-preview-button previewLayer8 smpevent" data-smpaction="printresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon8"></span>打印简历
+        </div>
+        <div class="resume-preview-button previewLayer1 smpevent" data-smpaction="savetocomputer" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon1"></span>保存到我的电脑
+        </div>
+        <div class="resume-preview-button previewLayer2 smpevent" data-smpaction="forwardemail" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon2"></span>转发简历到邮箱
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=122214894&amp;Timestamp=635925370078279094&amp;Callback=&amp;signature=0dbacc0b6385d56c23c41570f8ccc3bd&amp;comid=30727358&amp;comname=深圳爱拼信息科技有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="成庆" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="3" />
+    <input type="hidden" name="resume_id" id="resume_id" value="199445999" />
+    <input type="hidden" name="extId" id="extId" value="JR222148949R90250006000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="对韩合作、品牌推广" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="122214894" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="深圳爱拼信息科技有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="深圳爱拼信息科技有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="30727358" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="663547786" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="30727358" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JR222148949R90250006000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+        <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+            <p class="mtTitle">更多靠谱人才</p>
+            <div class="mtChatCon">
+                <ul></ul>
+            </div>
+            <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+        </div>
+    
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+    
+    
+    <script src="http://img07.zpin.net.cn/2014/rd2/js/timecountdown.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://img08.zpin.net.cn/2014/rd2/js/rob_time.js"></script>
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

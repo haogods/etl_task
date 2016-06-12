@@ -1,0 +1,139 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "6个月", 
+            "skillName": "驾驶", 
+            "skillLevel": "良好"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "汤彪", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13590442614", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": "1574331265@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月16日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "法学", 
+        "nowPoliStatus": "中共党员(含预备党员)", 
+        "nowAddress": "深圳", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "上饶", 
+        "dob": "1989年9月", 
+        "gender": "男", 
+        "age": "27岁", 
+        "recentSchName": "东华理工大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "2年工作经验"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力良好", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "喜爱运动，比如打篮球，羽毛球，爬爬山，等等", 
+        "pubWork": "", 
+        "schoolExp": "\n曾获 院校级 一等奖\n2012.11 曾获 院校级 2012 年东华理工 篮球赛冠军\n\n\n\n奖项描述：\n院与院比拼，有受伤，有失落，但是最终赢得关荣。\n\n\n\n\n\n\n活动描述：\n本人身为学生会体育部长，多次组织并参加学校运动会，并取得优越的成绩；多次组织学院同学参加郊游活动，促使同学们相互交流，互帮互助，让大学生活更加愉快。", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "汤彪", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "做事仔细，好学，领悟力强，具有亲和力，乐于帮助。", 
+        "socialActie": "", 
+        "stuPractice": "\n2013.07 - 2013.09  深圳志成厂印刷\n\n\n\n实践描述：\n办公室协调员、处理相关客户应急工、打印、复印相关文件、处理经理报销开支费用以及审核资料投递。理解了文员工作的流程和如何处理好与员工和客户的相关关系，让自己得到很好的锻炼，工作经验得到更好的提升。\n\n\n\n2012.07 - 2012.10  南昌全有家居店\n\n\n\n实践描述：\n市场推广和售后服务。培养了本人的服务意识，强烈的责任心，并且学会了一些与领导及同事之间相处之道;学会了与人沟通的一些技巧，并体会到了人与人之间沟通的重要性", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "物流/仓储、贸易/进出口、检验/检测/认证", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "物流/仓储、市场、采购/贸易", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2014.06", 
+            "eduDesc": "", 
+            "schName": "东华理工大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.10", 
+            "majorName": "法学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_zhilian://JM264866433R90250000000", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "津泽印刷(深圳）有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.04", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "1年5个月", 
+            "incLocation": "", 
+            "jobPosition": "物流专员", 
+            "witness": "", 
+            "incType": "外商独资", 
+            "jobDesc": "\n主要是负责公司的海陆空运输。联系国内外客户确认走货，联系船公司或者货代，安排订舱，收到SO后，安排拖车公司提柜，通知报关行做商检、报关，跟踪柜子是否放行，做单证，做CO.做FROM A，做补料和ISF给船公司或做账单等等，", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.09", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "4001-6000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "100-499人"
+        }
+    ]
+}

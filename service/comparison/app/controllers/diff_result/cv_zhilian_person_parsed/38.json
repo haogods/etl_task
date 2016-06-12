@@ -1,0 +1,179 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "12个月", 
+            "skillName": "AutoCAD高级运用工程师", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月08日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM248770704R90250000000", 
+        "recentMajorName": "热能与动力工程", 
+        "nowPoliStatus": "群众", 
+        "nowAddress": "赤峰", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "赤峰", 
+        "dob": "1989年2月", 
+        "gender": "男", 
+        "age": "27岁", 
+        "recentSchName": "内蒙古工业大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "5年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2011.07", 
+            "certName": "驾驶执照", 
+            "certDesc": "c1小车本", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2010.09", 
+            "certName": "AutoCAD", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainDesc": "学习安全规程，以及事故案例分析。", 
+            "trainAgency": "通辽热电有限责任公司", 
+            "trainCert": "", 
+            "trainStart": "2011.07", 
+            "trainTitle": "安全操作相关", 
+            "trainEnd": "2011.08"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "", 
+            "trainDesc": "风电运行流程以及相关。", 
+            "trainAgency": "华电辉腾锡勒风电", 
+            "trainCert": "", 
+            "trainStart": "2011.03", 
+            "trainTitle": "风电运行相关", 
+            "trainEnd": "2011.05"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "能熟练使用excel、word、PS等办公相关软件", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "胡文涛个人简历", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "热能与动力工程专业本科毕业。在校期间多次参加校内活动，并多次参与社团组织活动，取得了良好的活动效果。具备良好的沟通与策划能力。    毕业后在热电厂任职三年。具有钻研精神，曾在公司内部参与规程修改。工作认真负责，有耐心，工作期间处理过一些运行突发情况，并且工作期间无障碍事故发生。善于写作，曾在公司内部数次发表文章、新闻等稿件。    在英派斯健身工作期间，负责协助人事相关工作。做事细心，耐心。踏实认真，积极热情。    熟练掌握AutoCAD、excel、word等相关软件。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "检验/检测/认证、环保、学术/科研", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "2001-4000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "后勤人员、行政专员/助理、安全管理、科研管理人员", 
+        "expLocations": "天津、河北", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.07", 
+            "schName": "内蒙古工业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.09", 
+            "majorName": "热能与动力工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "英派斯健身", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.10", 
+            "incIndustrys": "教育/培训/院校", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "人力资源专员/助理", 
+            "jobDesc": "\n发布招聘信息，筛选应聘人员简历；组织、监督员工考勤；协助、组织安排应聘人员面试；协助主管对已入职员工进行入职，调动，离职等工作；协助组织员工培训等工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "中电投蒙东能源内蒙古通辽市通辽热电有限责任公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2014.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.07", 
+            "incIndustrys": "电气/电力/水利", 
+            "jobDuration": "3年1个月", 
+            "incEmployee": "500-999人", 
+            "incType": "国企", 
+            "jobPosition": "运行值班员", 
+            "jobDesc": "\n负责本岗位所辖设备的检查、监视、调整、操作，以及启停与事故处理。对运行中设备的参数进行记录与检查。按生产需求及时处理所辖设备运行方式状态。在当班期间认真执行“两票三制”。按规定做好事故预想，定时对所辖设备进行全面巡视，对设备所存在的缺陷及时填写缺陷通知单，报班长&值长，通知检修处理。", 
+            "witness": ""
+        }
+    ]
+}

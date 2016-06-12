@@ -1,0 +1,266 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "30个月", 
+            "skillName": "熟练安装Linux和Server 2008系统", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "18个月", 
+            "skillName": "熟悉Apache、Mysql、PHP、DNS、Postfix等服务的安装和配置", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "3", 
+            "skillDuration": "18个月", 
+            "skillName": "熟悉Linux系统日常的维护和操作", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "4", 
+            "skillDuration": "18个月", 
+            "skillName": "熟悉Linux系统日常的维护和操作", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "5", 
+            "skillDuration": "18个月", 
+            "skillName": "熟悉Linux系统日常的维护和操作", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "6", 
+            "skillDuration": "6个月", 
+            "skillName": "熟悉Linux系统中安全控件的配置", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "7", 
+            "skillDuration": "18个月", 
+            "skillName": "了解Cisco路由器、交换机的基本配置", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "8", 
+            "skillDuration": "18个月", 
+            "skillName": "了解Server 2008服务器系统", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "9", 
+            "skillDuration": "36个月", 
+            "skillName": "计算机故障的排查和维修", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "10", 
+            "skillDuration": "12个月", 
+            "skillName": "小型网络的搭建、部署和故障排查", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "11", 
+            "skillDuration": "12个月", 
+            "skillName": "摄像头、打印机的安装和配置", 
+            "skillLevel": "良好"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月03日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "计算机信息管理", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "太原", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "太原", 
+        "dob": "1995年8月", 
+        "gender": "男", 
+        "age": "21岁", 
+        "recentSchName": "太原科技大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.05", 
+            "certName": "全国计算机应用技术证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2015.05", 
+            "certName": "RHCSA", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "公寓网络重新搭建", 
+            "proStart": "2015.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "大概可能是300户公寓的网络重新部署     PPPOE软件服务器的购买和安装     对其他楼层的交换的测线和从新安装     通过Ip登录后台创建账号等", 
+            "softwareEnv": "", 
+            "proDuty": "网络环境的重新搭建", 
+            "proAchievement": "", 
+            "proEnd": "2015.11"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "校园网络搭建", 
+            "proStart": "2015.05", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "对山西财经大学分校区进行网络升级", 
+            "softwareEnv": "", 
+            "proDuty": "为安装的路由和交换机测试是否正常工作，是否可以正常连接。使用ICMP协议进行测试。", 
+            "proAchievement": "", 
+            "proEnd": "2015.06"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "简历 IT/运维  管理 1年 ", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "我是一个积极向上的人，拥有良好的团队意识，对待工作向来是负责严谨，好的性格使我在工作时更容易和同事们进行沟通来将工作更好的完成，对新鲜事物比较感兴趣，可以让我不断进步，休息时候打打球，玩玩游戏能让我的思维更加敏捷，更好的进行工作。", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "IT服务(系统/数据/维护)、互联网/电子商务、计算机硬件、广告/会展/公关、通信/电信/网络设备、网络游戏、专业服务/咨询(财会/法律/人力资源等)、教育/培训/院校、航空/航天研究与制造、媒体/出版/影视/文化传播", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "2001-4000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "IT运维/技术支持、客服/售前/售后技术支持、销售业务", 
+        "expLocations": "太原", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "至今", 
+            "eduDesc": "", 
+            "schName": "太原科技大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2013.08", 
+            "majorName": "计算机信息管理", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "cvId": "cv_zhilian://24", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "北京金伦联合", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.08", 
+            "incIndustrys": "IT服务(系统/数据/维护)", 
+            "jobDuration": "3个月", 
+            "incLocation": "", 
+            "jobPosition": "售后网络工程师", 
+            "witness": "", 
+            "incType": "民营", 
+            "jobDesc": "\n平常工作有一下几点 1.对客户公司的计算机故障的处理和维护等 2.对客户网络和电话的故障处理和维护等 3.对客户打印机的调试和视频会议拨号等 4.对客户摄像头的故障排查和解决等", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.11", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "4001-6000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "20-99人"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "松河软件有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.03", 
+            "incIndustrys": "IT服务(系统/数据/维护)", 
+            "jobDuration": "4个月", 
+            "incLocation": "", 
+            "jobPosition": "IT技术支持/维护工程师", 
+            "witness": "", 
+            "incType": "民营", 
+            "jobDesc": "\n1. 对Linux系统状态进行确认，查看系统有无错误日志报告。2. 对公司的Linux服务器进行服务监控，确保系统服务在正常运作。3.对数据库进行备份，查看是否正常备份数据。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.07", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "2001-4000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "20-99人"
+        }
+    ]
+}

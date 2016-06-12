@@ -1,0 +1,208 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "30个月", 
+            "skillName": "熟练掌握office、excel、powerpoint等常用办公软件", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月08日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR427541401R90250001000", 
+        "recentMajorName": "心理学", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "东莞", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "辽源", 
+        "dob": "1991年2月", 
+        "gender": "女", 
+        "age": "25岁", 
+        "recentSchName": "华中师范大学", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "3年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2012.05", 
+            "certName": "心理咨询师三级", 
+            "certDesc": "助理社工师", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2012.05", 
+            "certName": "人力资源三级", 
+            "certDesc": "助理社工师", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2010.12", 
+            "certName": "大学英语四级", 
+            "certDesc": "助理社工师", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2013.08", 
+            "certName": "执业资格证书", 
+            "certDesc": "助理社工师", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "中南民族大学", 
+            "trainDesc": "演讲与口才的训练、潜能开发之魔鬼训练、500强企业团队建设、幽默自信性格的训练、沟通谈判的技巧、超级人际关系艺术等等。", 
+            "trainAgency": "每位教育西点军校", 
+            "trainCert": "", 
+            "trainStart": "2010.01", 
+            "trainTitle": "人际沟通与就业指导", 
+            "trainEnd": "2010.02"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力良好", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "百村观察调研组", 
+            "proStart": "2011.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "主要是维持并建立新的调研关系，为后续调查者进行铺垫，为国家调研项目进行资料的收集。", 
+            "softwareEnv": "", 
+            "proDuty": "调研员负责对自己所管辖领域的农户进行问卷访谈，获取第一手资料，然后进行报告的撰写。", 
+            "proAchievement": "", 
+            "proEnd": "2011.08"
+        }
+    ], 
+    "others": {
+        "otherHobby": "辩论、表演，都曾获得过院里或校里的奖励。擅长沟通与交流，语言能力比较强。富有亲和力，容易和人打成一片。同时喜欢一些球类运动，比如羽毛球、排球等，劳逸结合。", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "萌妹纸找工作咯", 
+        "gainHoner": "", 
+        "schoolExp": "\n曾获 国家级 三等奖\n2012.10 曾获 院校级 校三好学生\n2013.06 曾获 院校级 校优秀毕业生\n\n\n\n活动描述：\n国家励志奖学金", 
+        "religion": "", 
+        "selfIntro": "外向、积极阳光、乐观开朗的性格让我赢得了较好的人际关系，与同学、老师等沟通良好，做事认真负责、善于总结与思考、细腻且有洞察力，同时具有团队精神与反思精神、能接受不同意见；个人比较擅长辩论、表演、舞蹈（啦啦操类型），爱好看书、打羽毛球、浏览资讯等。性格优势是亲和力与感染力强。能够与不同人群建立较融洽的关系。在校期间帮助同学解决了很多情绪上以及心理上的小问题，赢得了大家的认可。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": " \n2012.07 - 2012.07  暑期支教\n\n\n\n实践描述：\n到某农村小学进行支教，通过活动形式让孩子们更易接受一些新的知识及技能。同时在校期间多次参加院里组织的志愿者活动，并获得院里的社区活动积极分子。还参加了校学工部的勤工俭学的活动，曾经担任清洁助理，获得了“清洁之星”称号。还有一些家教、义卖等兼职活动。", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "其他", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "6001-8000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "人力资源、教育/培训、互联网产品/运营管理、咨询/顾问/调研/数据分析、其他", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2013.06", 
+            "schName": "华中师范大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.03", 
+            "majorName": "心理学", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2013.06", 
+            "schName": "华中师范大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.09", 
+            "majorName": "社会工作", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "东莞市乐雅社会工作服务中心", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2016.01", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.07", 
+            "incIndustrys": "政府/公共事业/非盈利机构", 
+            "jobDuration": "2年6个月", 
+            "incEmployee": "100-499人", 
+            "incType": "其它", 
+            "jobPosition": "社会工作者/社工", 
+            "jobDesc": "\n东莞市共青团、总工会方面：辅助政府部门进行大型活动的策划、媒体联络、场地安排、微信宣传、活动实施、后续报道、新闻稿撰写等工作；活动方面：与不同社区、企业、学校、社会组织等团体合作开展一些专业性活动，比如知识讲座、志愿者培训、趣味性活动、环保活动、心理讲座、法律宣传等等活动。入驻企业：在New balance中国加工厂裕成鞋厂内，与企业工会，员工生活辅助中心合作开展员工康乐活动，企业大型活动，并辅助文宣和杂志编辑文员进行企业宣传刊物的编辑校订，员工关系处理等问题。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "上海薪得付信息技术有限公司", 
+            "jobSalary": "1000元/月以下", 
+            "jobEnd": "2013.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "operation", 
+            "jobStart": "2013.03", 
+            "incIndustrys": "外包服务", 
+            "jobDuration": "1个月", 
+            "incEmployee": "100-499人", 
+            "incType": "外商独资", 
+            "jobPosition": "薪资福利专员/助理", 
+            "jobDesc": "\n学习SAP及easy系统的操作，收集录入客户的人员基本信息、组织信息及所有跟薪资相关的信息。", 
+            "witness": ""
+        }
+    ]
+}

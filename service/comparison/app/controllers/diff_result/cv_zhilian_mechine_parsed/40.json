@@ -1,0 +1,292 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月08日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "车辆工程", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "天津 红桥区", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "石家庄", 
+        "dob": "1991年9月", 
+        "gender": "男", 
+        "age": "25岁", 
+        "recentSchName": "河北工业大学城市学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": ""
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.06", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2014.03", 
+            "certName": "全国计算机等级二级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2014.09", 
+            "certName": "全国计算机等级三级A", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2015.09", 
+            "certName": "全国计算机等级四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2014.07", 
+            "certName": "全国职业能力等级证书（高级IT硬件维修工程师）", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "6", 
+            "certTime": "2014.12", 
+            "certName": "全国职业能力等级证书（UG）", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "7", 
+            "certTime": "2013.03", 
+            "certName": "高等教育市场营销资格证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "8", 
+            "certTime": "2013.03", 
+            "certName": "高等教育公共关系资格证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "9", 
+            "certTime": "2013.11", 
+            "certName": "校级四等奖学金", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "10", 
+            "certTime": "2013.11", 
+            "certName": "校级优秀学生干部", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "中国（天津）职业技能公共实训中心", 
+            "trainContent": "", 
+            "trainDesc": "学习《逆向工程》相关知识,并学会使用Geomagic Studio 11这款软件来进行相关逆向工程的操作", 
+            "trainAgency": "中国（天津）职业技能公共实训中心", 
+            "trainCert": "", 
+            "trainStart": "2015.05", 
+            "trainTitle": "逆向工程", 
+            "trainEnd": "2015.05"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "中国（天津）职业技能公共实训中心", 
+            "trainContent": "", 
+            "trainDesc": "学习PLC自动化生产线相关知识,并能够简单使用德国西门子公司（Siemens）生产的S7-300进行相关指定操作.", 
+            "trainAgency": "中国（天津）职业技能公共实训中心", 
+            "trainCert": "", 
+            "trainStart": "2015.05", 
+            "trainTitle": "PLC自动化生产线", 
+            "trainEnd": "2015.05"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "篮球、跑步、音乐、旅行", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "glory": "2013年11月份获得校级优秀学生干部", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "车辆工程/机械设计/制造/维修 天津", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "作为一名90后，我深深的感觉到我们这一代人缺少老一辈沉稳、吃苦耐劳、任劳任怨、坚韧不拔以及刻苦钻研的精神。我在四年大学生涯中着重锻炼自己的意志力和坚韧的品格，同时四年的班长经历让我深深的体会到了责任的重大意义。我能够在艰苦的环境下不放弃，坚持完成任务，在履行好自己的职责前提下，不断学习，不断更新自己，向老一辈证明：我们90后也能行！", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "IT服务(系统/数据/维护)、保险、汽车/摩托车、大型设备/机电设备/重工业、加工制造（原料加工/模具）", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "应届毕业生", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "机械设计/制造/维修、技工/操作工、汽车制造、汽车销售与服务、保险", 
+        "expLocations": "天津", 
+        "expJobTypes": "兼职、实习、全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "至今", 
+            "eduDesc": "", 
+            "schName": "河北工业大学城市学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2012.09", 
+            "majorName": "车辆工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_zhilian://40", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "中国（天津）职业技能公共实训中心", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.05", 
+            "incIndustrys": "教育/培训/院校", 
+            "jobDuration": "", 
+            "incLocation": "", 
+            "jobPosition": "实习生", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "\n学习《逆向工程》相关知识,并学会使用Geomagic Studio 11这款软件来进行相关逆向工程的操作;学习PLC自动化生产线相关知识,并能够简单使用德国西门子公司（Siemens）生产的S7-300进行相关指定操作.", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.05", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "天津凯撒科技有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.11", 
+            "incIndustrys": "专业服务/咨询(财会/法律/人力资源等)", 
+            "jobDuration": "1年", 
+            "incLocation": "", 
+            "jobPosition": "人力资源专员/助理", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "\n 在凯撒科技公司实习期间负责简历的收集、档案的整理、协助公司开展相应的培训以及其他事宜。此次实习让我对人力方面相关事宜有所了的同时，也锻炼了我的协助组织和收集数据的能力。这一年的实习我最大的收获是得到领导和同事的肯定，他们既是我的老师，也是我很好的朋友。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.11", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "石家庄铁路局", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.01", 
+            "incIndustrys": "交通/运输", 
+            "jobDuration": "1个月", 
+            "incLocation": "", 
+            "jobPosition": "志愿者/义工", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "\n在春运期间我作为铁路志愿者负责引导旅客出站、指导旅客购票和为旅客讲解石家庄新火车站的布局。通过在石家庄新火车站的实习磨练了我的意志，也消磨了我浮躁心理，踏踏实实为每一位旅客服务。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2014.02", 
+            "underNum": "", 
+            "itemId": "3", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "必胜客欢乐餐厅（天津大悦城）", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.06", 
+            "incIndustrys": "酒店/餐饮", 
+            "jobDuration": "1年5个月", 
+            "incLocation": "", 
+            "jobPosition": "兼职", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "\n在内勤负责制作菜品和披萨以及烧烤，必胜客兼职的这一年多的时间里，我体会到了百胜集团先进的管理理念，大家族式的管理模式可以给员工极大的归属感和荣誉感，能够很好的激发员工的服务热情。同时，百胜“追求卓越、以人为本、群策群力”的企业文化也深深的印在我心里，做一个追求卓越、能与他人精诚合作的人。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2014.11", 
+            "underNum": "", 
+            "itemId": "4", 
+            "jobSalary": "1000-2000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }
+    ]
+}

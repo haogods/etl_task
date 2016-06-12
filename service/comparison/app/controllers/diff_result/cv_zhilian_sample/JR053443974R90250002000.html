@@ -1,0 +1,514 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">六年物流行业工作经验(UPS：Terminal Ops+DH...</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">物流经理/主管、货运代理、水运/空运/陆运操作</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2016年03月18日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JR053443974R90250002000</span>
+                    </div>
+
+<div class="resume-left-tips-span" id="tagDiv">
+    
+        <span class="editor-layer-icon check smpevent"  title="" id="tagClassHeader" data-smpaction="addtags" data-smpposition="resumedetail"></span>
+        <span class="resume-left-tips-id tips-id-color smpevent" id="addTagHeader" data-smpaction="addtags" data-smpposition="resumedetail">添加标签</span>
+        <span class="check-close" title="" id="deleteTagHeader" dev_guid="6143589260" style="display:none"></span>
+</div>
+                <div class="resume-left-tips-span tips-span-right">
+                        <img id="changeLanguageImg" src="/img/ajaxLoading.gif" alt="loading" style="display: none" />
+                        <span class="resume-left-tips-right"><a href="javascript:;" onclick="switchlang('2');">英文简历</a></span>
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="English" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="6143589260" />
+</div>
+    <div id="resumeDetail">
+        
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div id="userName" class="main-title-fl fc6699cc" style="height: 54px;" alt="温根魏">
+            温根魏
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://mypics.zhaopin.com/pic/2015/7/12/9AAC0EE97C0C4462BC4F7733DFE1129B.jpg">
+        <img alt="" src="http://mypics.zhaopin.com/pic/2015/7/12/9AAC0EE97C0C4462BC4F7733DFE1129B.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;31岁(1985年7月)&nbsp;&nbsp;&nbsp;&nbsp;7年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;未婚</span>
+        <br />
+        现居住地：深圳  | 户口：福建 | 团员 | 有海外工作/学习经验
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+            <div class="feedbackD_show">
+                <div class="feedbackD_cont">
+                    <div class="feedbackD" id="feedbackD02">
+                        <div>
+                            <span>
+                                <em><b>18665826452</b></em>
+                                <em><i class="mail">526128840@qq.com</i></em>
+                            </span>
+                        </div>
+                            <input class="__ga__searchresultTab_mianshiyaoqing_001 invite" type="button" value="发面试邀请" style="background-color: #ec6100; display: block; left: 288px;" data-fromd="1" />
+                            <input type="hidden" value="1" id="fromd" />
+                    </div>
+                </div>
+            </div>
+            <div class="printcontack">
+                <p><b>18665826452</b></p>
+                <p><b>526128840@qq.com</b></p>
+            </div>
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>深圳</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>6001-8000元/月</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前处于离职状态，可立即上岗</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>物流经理/主管、货运代理、水运/空运/陆运操作</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>交通/运输、物流/仓储</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">本人热心诚恳、乐观向上，有良好的思想品德和职业素质，并有良好的团队协作和敬业精神；<br /><br />本人能熟练操作word、excel等办公软件及办公室事务，具有较好的内外协作能力，有六年以上的工作经验。工作认真细致，有团结协作精神；<br /><br />抱有全身心投入，细心负责的工作态度，热爱学习，勇于探索，喜欢挑战性的工作；<br /><br />对工作认真负责，诚实稳重，逻辑清晰、服从公司安排。工作中会很用心地去履行自己的职责，选择了就会很好地去执行。<br /></div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2011.04 - 2015.06&nbsp;&nbsp;DHL Global Forwarding (敦豪全球货运(中国)有限公司深圳分公司)&nbsp;&nbsp;（4年2个月）</h2>
+            <h5>助理主管（Assistant Executive） | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                物流/仓储 | 企业性质：外商独资 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>DHL Global Forwarding (敦豪全球货运(中国)有限公司深圳分公司)，其主要经营：物流运输（空运，海运，陆运等等） /货代/ 运输服务方案解决/ 国内运输 /货运代理等产品。<br />在职期间，负责国际空运进出口操作，主要从事国际空运进口操作，并担任助理主管 (Assistant Supervisor) 的职务；其主要工作内容简要地可以概括为：接收(origin提货/或是收到Shipper发货的要求)-origin出口报关- origin安排航空运输（根据不同的运输贸易条款：DDP/FOB etc.）-货物到港(转仓至海关监管区DHL仓库，并进行仓储管理)/通知客户安排进口报关或是公司协助客户清关（处理清关期间的异常情况，例如：货物破损，电子舱单数据等）-清完关后安排派送或是consignee自行安排提货。另一项主要工作职责：需要定期维护海关监管仓库TAPA认证，TAPA协会将监督和负责仓库系统、培训、TAPA认证审核、资格。另一方面，由于涉及到费用清算的环节，我们需要结合本地Vendors的各项货物成本（per shpt 最小化每票货的实际成本，以达到收益的最大化），和公司的收入一齐录进系统，并通知财务安排收款，开票等事宜。<br />工作期间，由于工作的需要，也有涉及空运出口的业务和与报关员同事的长时间沟通/交流，也渐渐熟悉国际进口货物报关(深圳机场口岸/皇岗口岸)的相关知识。<br />在职期间，很荣幸地多次被提名并当选为深圳或华南区的优秀员工，也被领导指派参加管理人员的相关培训。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.09 - 2011.03&nbsp;&nbsp;UPS（United Parcel Service 美国联合包裹速递服务公司）&nbsp;&nbsp;（1年6个月）</h2>
+            <h5>空运操作（Team Leader） | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                交通/运输 | 企业性质：外商独资 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>UPS（United Parcel Service 美国联合包裹速递服务公司）<br />工作地点：深圳宝安国际机场 UPS亚太转运中心 (Air Terminal Hub)。<br />就职期间，主要从事空运操作 / 地面处理 / 航空货物配载（根据不同机型的载货量与燃油量）/ 同时与机组人员的沟通，交流（确保航班的适航性/ 准点率）/ 仓储管理以及物料/仓库管理，航空集装器(ULD)的合理调配与管理。<br />在Air Terminal正式运作之前，被公司委派至UPS上海国际转运中心学习、培训2个月，以便借鉴上海的操作经验并结合当地的操作流程和规章制度，从而可以更快地投入到自身的工作中去。<br />就职期间，本人担任Team Leader （Air Terminal Operation）的职务，也渐渐熟知航空普货运输（Cargo）与国际包裹快递业务（Parcel/Express）相结合的操作流程和运用；同时，也提升了与国外各个站点的沟通能力和处理紧急情况的应变能力以及对于航空集装器(ULD)的合理调配/利用，尤其是其适航性的查验。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2004.09 - 2008.06&nbsp;&nbsp;西安翻译学院&nbsp;&nbsp;英语&nbsp;&nbsp;本科<br />
+2004.09 - 2008.06&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">培训经历</h3>
+            <h2>2009.09 - 2009.10&nbsp;&nbsp;国际包裹快递业务的地面操作与处理以及航空货运危险品的识别(Class1-Class9 )与处理</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>UPS上海国际转运中心</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>国际包裹快递业务的地面操作与处理以及航空货运危险品的识别(Class1-Class9 )与处理 合格证书</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>国际包裹快递业务，航空地面规范操作和仓储存放处理的规章制度，航空货运危险品的识别与处理以及航空集装器的存放与调配。</td>
+                        </tr>
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">证书</h3>
+            <h2>2005.03&nbsp;&nbsp;大学英语四级</h2>
+            <h2>2007.03&nbsp;&nbsp;大学英语六级</h2>
+            <h2>2007.09&nbsp;&nbsp;全国计算机等级二级</h2>
+            <h2>2005.03</h2>
+            <h2>2007.03</h2>
+            <h2>2007.09</h2>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">在校学习情况</h3>
+
+            <h2>2006.06 曾获 院校级 三好学生</h2>    
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">奖项描述：</td>
+                        <td>2006年6月荣获西安翻译学院国际关系学院英语系“三好学生”称号。</td>
+                    </tr>
+                </table>
+            </div> 
+
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">活动描述：</td>
+                        <td>在校期间担任了校学生会，宣传部副部长的职务。同时也参加了校<br /><br />合唱团以及其他的社团活动，并且代表学校参加了西安各大高校举<br /><br />办的合唱比赛。借由寒暑假的时间，参加了销售以及家教的兼职工<br /><br />作。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+英语：读写能力熟练 | 听说能力良好<br />
+听说能力<br />
+        </div>
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">兴趣爱好</h3>
+        <div class="resume-preview-dl">热爱音乐，最爱中国的古典音乐和欧美音乐。<br />热爱运动，喜欢游泳和跑步。<br />喜欢看书，还有旅行。</div>
+    </div>
+
+    <div class="resume-preview-all" style="display: none;" id="coverletterPanel" data="letterid=0&ver=0">
+        <h3 class="fc6699cc">求职信</h3>
+        <div class="resume-preview-dl">
+            <p>{$letter_content$}</p>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">附件</h3>
+        <div class="resume-preview-attachment clearfix">
+                <dl>
+                    <dt><a href="http://mypics.zhaopin.com/pic/2015/8/26/8044EB7FDE0040F7A62CFC7E4BB65E11.jpg" target="_blank">
+                        <img src="http://mypics.zhaopin.com/pic/2015/8/26/8044EB7FDE0040F7A62CFC7E4BB65E11.jpg" border="0" width="160" height="220" alt="" /></a></dt>
+                    <dd>杰出员工获奖证书</dd>
+                </dl>
+                <dl>
+                    <dt><a href="http://mypics.zhaopin.com/pic/2015/8/26/8317D7567B1A4B07B3A1096C868B5A67.jpg" target="_blank">
+                        <img src="http://mypics.zhaopin.com/pic/2015/8/26/8317D7567B1A4B07B3A1096C868B5A67.jpg" border="0" width="160" height="220" alt="" /></a></dt>
+                    <dd>杰出员工获奖证书</dd>
+                </dl>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div id="commentBlock">
+
+    </div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer1 smpevent" data-smpaction="savetocomputer" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon1"></span>保存到我的电脑
+        </div>
+        <div class="resume-preview-button previewLayer2 smpevent" data-smpaction="forwardemail" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon2"></span>转发简历到邮箱
+        </div>
+        <div class="resume-preview-button previewLayer3 smpevent" data-smpaction="movefavoritefolder" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon3"></span>移到简历夹
+        </div>
+        <div class="resume-preview-button previewLayer4 smpevent" data-smpaction="recommendposition" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon4"></span>推荐职位
+        </div>
+        <div class="resume-preview-button previewLayer6 smpevent" data-smpaction="movetoresumebank" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon6"></span>保存到人才储备
+        </div>
+        <div class="resume-preview-button previewLayer7" isdelete="2">
+            <span class="resume-preview-button-span preview-icon7"></span>放入回收箱
+        </div>
+        <div class="resume-preview-button previewLayer9 smpevent" data-smpaction="addcomments" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon9"></span>添加评语
+        </div>
+        <div class="resume-preview-button previewLayer14 smpevent" data-smpaction="addtags" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon13"></span>添加标签
+        </div>
+        <div class="resume-preview-button complaints-resume">
+            <span class="resume-preview-button-span complaints-icon"></span>举报该简历
+        </div>
+        <div class="resume-preview-button previewLayer8 smpevent" data-smpaction="printresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon8"></span>打印简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+        <input type="hidden" id="invite_sms_license" value="t2dt6byrQiq0rLGKgngVUWtadHEoUc7GIIvBoTKSvn37UJQPOIiZxFPDyrcq1QiQaCD8XXQssqOEALI7Tf7a29IFg9lHGRYtOI0ElBMp7qag0BQg9CNu9NSvXsOOp9honpKAwleYvtC/SqEVDYWbB/HykWwTOm/InkAFzYVSR3kAyCXbqkMt7Zrpxb327+i8n9yqF0InDBnsT57IaA9kT4CCvHm3lKYWxfLNblNoJxucWwUow5Xd5V4SpV9zSaIrKb0iJyrVkWHDIqgxkulA52bK+7xDr2dSkDcbmugmZMYKsSrjtmT2HJ6T3+YHrryrRMw2lEGEmCDwZ8/YEToqA+FzaK9No9uyjqYEwJkdTUZt8w+RQw78zaucIMyKuBaXrqTFrybTIjDy+UTT6HM8NvsR6WvVkqbDOy1eaGj9CYCQImoJzyGsYTMvuMrUYuEP+oBFLC2PBcf8pkchFp6T5w==" />
+        <input type="checkbox" name="chkid_sendinfo" userinfo_forsend="温根魏$105344397$526128840@qq.com$18665826452$6143589260$" id="sendNotify" checked="checked" style="display:none;" />
+    <input type="hidden" value="AppId=1&amp;Id=105344397&amp;Timestamp=635938963190276513&amp;Callback=&amp;signature=02f0c4c84e562b7af84f5408ce723a8e&amp;comid=15224761&amp;comname=深圳市柏威国际货运代理有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="温根魏" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="3" />
+    <input type="hidden" name="resume_id" id="resume_id" value="230240283" />
+    <input type="hidden" name="extId" id="extId" value="JR053443974R90250002000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="六年物流行业工作经验(UPS：Terminal Ops+DHL：Global Forwarding)&#160;&#160; 深圳&#160;&#160;职位：助理主管" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="105344397" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="深圳市柏威国际货运代理有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="深圳市柏威国际货运代理有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="15224761" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M3" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="201559569" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="15224761" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="6143589260" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JR053443974R90250002000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="2" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvinterview" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+        <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+            <p class="mtTitle">更多靠谱人才</p>
+            <div class="mtChatCon">
+                <ul></ul>
+            </div>
+            <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+        </div>
+    
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="1" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+    
+    
+    <script src="http://img07.zpin.net.cn/2014/rd2/js/timecountdown.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://img08.zpin.net.cn/2014/rd2/js/rob_time.js"></script>
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

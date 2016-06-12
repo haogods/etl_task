@@ -1,0 +1,155 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "42个月", 
+            "skillName": "汽车检测与维修", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月03日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM365047303R90250000000", 
+        "recentMajorName": "汽车检查与维修", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "广州 天河区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "湛江", 
+        "dob": "1990年11月", 
+        "gender": "男", 
+        "age": "26岁", 
+        "recentSchName": "广州市交通技师学院", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": ""
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "广州市交通技师学院", 
+            "trainDesc": "1.对汽车各种零部件的机械制图认识 2.汽车发动机的各种故障进行排查修复和拆装 3.汽车底盘的了解和拆装4.汽车冷气维修 5.汽车电路进行实练操作和排除", 
+            "trainAgency": "广州市交通技师学院", 
+            "trainCert": "汽车检测与维修高级证", 
+            "trainStart": "2010.09", 
+            "trainTitle": "汽车检测与维修", 
+            "trainEnd": "2013.06"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "售前/售后技术支持工程师 3年 广州", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "1.本人具有进取精神和团队精神，有较强的动手能力,吃苦耐劳,工作细心周到 2.对待工作认真负责，善于沟通、协调有较强的组织能力与团队精神;活泼开朗、乐观上进 、有爱心并善于施教并行、上进心强、勤于学习能不断提高自身的能力与综合素质.", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "汽车/摩托车", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "4001-6000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "售前/售后技术支持工程师、售前/售后技术支持管理", 
+        "expLocations": "广州、深圳", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2013.07", 
+            "schName": "广州市交通技师学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.09", 
+            "majorName": "汽车检查与维修", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "广州拓卡电子有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.01", 
+            "incIndustrys": "电子技术/半导体/集成电路", 
+            "jobDuration": "2年2个月", 
+            "incEmployee": "", 
+            "incType": "民营", 
+            "jobPosition": "售前/售后技术支持工程师", 
+            "jobDesc": "\n本人的工作性质GPS导航安装，测试，和gps使用过程中出现问题解决、客服的技术支持和讲解、处理机器故障和售后机器问题记录，协助团队处理售后所有问题。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "广州路华保时捷3s维修中心", 
+            "jobSalary": "1000-2000元/月", 
+            "jobEnd": "2013.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.06", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "1年3个月", 
+            "incEmployee": "20-99人", 
+            "incType": "合资", 
+            "jobPosition": "汽车维修/保养", 
+            "jobDesc": "\n1.对车辆故障进行检查和判断，维修，保养，汽车空调系统维修和消毒，车辆部分进行拆装 保养检查项目：1.检查转向器、横拉杆、直拉杆，各转向臂连接紧固情况。 2.检查调整空气压缩机、发动机和风扇皮带松紧度及固定情况。 3.检查制动阀、制动管道有无漏气，检查液压制动主缸的制动液面高度，按规定添加制动液。 4.检查调整离合器踏板，制动踏板的自由行程，检查制动踏板固定轴以及开口销是否完好、可靠。 5.检查、紧固全车各部位连接及螺栓。 6.检查轮胎气压，并检查轮胎有无损伤。 7.检查灯光、线路、刮水器开关是否齐全完好。喇叭音量音调是否正常，各种仪表的工作是否良好", 
+            "witness": ""
+        }
+    ]
+}

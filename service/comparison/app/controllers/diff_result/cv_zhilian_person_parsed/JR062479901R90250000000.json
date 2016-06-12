@@ -1,0 +1,192 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "100个月", 
+            "skillName": "驾驶", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "孔德政", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13370176685", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "tiankong8566@163.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR062479901R90250000000", 
+        "recentMajorName": "工商管理", 
+        "nowPoliStatus": "群众", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "北京", 
+        "dob": "1985年6月", 
+        "gender": "男", 
+        "age": "31岁", 
+        "recentSchName": "山东农业大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "8年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2013.09", 
+            "certName": "煤炭检验资格证", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "南宁地铁注浆抢险项目", 
+            "proStart": "2014.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目是南宁市重点项目，随着地铁建设规模的不断扩大，基坑也随之向“密、深、大”的方向发展，注浆加固技术是基坑安全和保护周边环境的功能重要保证，所以尤其需要更加先进的注浆加固技术。", 
+            "softwareEnv": "", 
+            "proDuty": "负责地铁注浆、抢险项目投标及管理，如期顺利完成项目，保证了安全和质量。", 
+            "proAchievement": "", 
+            "proEnd": "2015.12"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "煤矿视频监控系统和煤矿水处理系统安装项目", 
+            "proStart": "2012.02", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "煤矿监控系统和煤矿水处理系统是关系煤矿安全和环保的重要设备，该项目的质量直接关系到煤矿的安全和环保，需要对技术了解和细致的管理。", 
+            "softwareEnv": "", 
+            "proDuty": "负责项目的执行，处理施工问题，维护客户关系，开拓新业务，项目如期完成，得到客户好评。", 
+            "proAchievement": "", 
+            "proEnd": "2012.06"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "进口设备代理项目", 
+            "proStart": "2010.05", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该代理项目是公司的主要业务之一，主要代理知名煤炭设备生产企业的产品，并将产品销售给煤矿企业。西门子、艾柯夫、西玛格、久益等公司是重要的煤炭设备生产企业，与他们签订产品的代理协议对公司是非常重要的。", 
+            "softwareEnv": "", 
+            "proDuty": "负责项目洽谈，合同签订，设备的报关、检验、物流运输，结算以及员工技术培训等工作，整个项目实施的过程顺利，共与西门子、艾柯夫、西玛格、久益等公司签订价值5亿元的合同，获得客户的一致认可。", 
+            "proAchievement": "", 
+            "proEnd": "2011.10"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "1、八年市场推广、产品销售、客户维护、运输管理、项目实施经验，六年管理经验，熟悉商业谈判，善于维护客户关系，具有较强的市场开拓能力，熟悉互联网运营及微信营销；2、项目管理能力较强，能够在复杂环境下灵活控制项目组织工作； 3、踏实稳重、勤奋好学，有较强学习能力和分析解决问题能力；4、具有良好的团队合作意识和职业道德素质，有持续的工作激情和不断开拓创新的精神。", 
+        "socialActie": "", 
+        "workLoc": "北京", 
+        "stuPractice": "", 
+        "jobPositionFor": "市场销售主管(北京分公司)", 
+        "jobIncNameFor": "深圳市柏威国际货运代理有限公司", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务、广告/会展/公关、媒体/出版/影视/文化传播、物流/仓储、交通/运输、贸易/进出口", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "10001-15000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "销售管理、市场、广告/会展、互联网产品/运营管理、物流/仓储", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2007.07", 
+            "schName": "山东农业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "工商管理", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "directUnder": "", 
+            "incName": "北京圆之翰矿山工程技术有限公司", 
+            "jobSalary": "10001-15000元/月", 
+            "jobEnd": "2016.02", 
+            "leaveReason": "", 
+            "underNum": "2人", 
+            "achieveDesc": "创业公司，协作总经理全面管理公司。成功投的南宁地铁注浆项目，并负责整个项目的实施管理。", 
+            "reportTo": "总裁", 
+            "annualIncome": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.09", 
+            "incIndustrys": "外包服务", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "20-99人", 
+            "incType": "民营", 
+            "jobPosition": "总经理助理", 
+            "jobDesc": "\n负责公司办公室及经营的全面工作；协助总经理开拓市场，负责前期投标准备和项目管理工作；跟进项目进度，与项目部、财务部协作，监督审核项目计划费用，催收应收账款；负责单位内部人员考核，办公室人员及车辆管理。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "directUnder": "", 
+            "incName": "中煤科技集团公司", 
+            "jobSalary": "10001-15000元/月", 
+            "jobEnd": "2014.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "与西门子、艾柯夫、西玛格、久益等公司签订价值5亿元的进口设备代理合同。按计划完成设备销售任务，并负责设备到客户的运输管理。维护与山煤国际能源、中铁物流、武钢集团等30家公司贸易往来关系。", 
+            "reportTo": "部门经理", 
+            "annualIncome": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.02", 
+            "incIndustrys": "能源/矿产/采掘/冶炼", 
+            "jobDuration": "6年7个月", 
+            "incEmployee": "500-999人", 
+            "incType": "国企", 
+            "jobPosition": "销售经理", 
+            "jobDesc": "\n按照销售计划，分解销售目标，制订各个季度、各月度的销售计划；负责销售计划的组织实施与监控，并审核结算；负责项目投标及项目实施管理、验收及回款；负责客户资源的整合，开发与维护重点客户；统筹协调销售与财务部、经营部等多部门的协作，保障业务的顺畅流转；负责销售产品的市场推广。", 
+            "witness": ""
+        }
+    ]
+}

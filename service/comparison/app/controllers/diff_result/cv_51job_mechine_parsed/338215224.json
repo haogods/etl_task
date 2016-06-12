@@ -1,0 +1,148 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2015-12-22", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "年薪6-8万", 
+        "annualIncome": "", 
+        "recentMajorName": "电气工程及其自动化", 
+        "nowAddress": "西宁", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "BU销售代表", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "家具/家电/玩具/礼品", 
+        "nowInc": "西宁海锐奥商贸有限公司（海尔西宁中心）", 
+        "nowHukou": "西宁", 
+        "dob": "1992年12月", 
+        "gender": "男", 
+        "age": "23岁", 
+        "recentSchName": "青海大学昆仑学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "应届毕业生 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "在为期三个月的培训期间，我们先后进行了个人自信的提升和与人的沟通的培训，还进行了产品知识的学习和运用，国庆的帮促等。并且，前往安徽和湖南搞了两场活动，活动效果非常好。", 
+            "trainAgency": "海尔空调黄埔一期", 
+            "trainCert": "", 
+            "trainStart": "2015.8", 
+            "trainTitle": "培训合格毕业证书", 
+            "trainEnd": "2015.11"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "未通过", 
+            "languageName": "英语等级"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "无", 
+            "languageName": "日语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "2011 /10--2015 /7校团总支宣传部干事在校内下达校团委团总支的指示和文件给每个班。联合学生会在校内开展一系列的活动。", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "个人认为，自己在与人沟通时的能力较强，且对待工作也是认真负责。与他人相处时，也是非常随和的。缺点就是时而有些粗心大意，有时也会躲懒。", 
+        "socialActie": "", 
+        "stuPractice": "2011 /12--2012 /1过年前三星手机的帮促2012年过年前在国美，移动营业厅，电信营业厅，三星手机专卖店帮促。2011 /10--2011 /10国庆期间三星手机的帮促国庆期间，在苏宁第一次做兼职，三星手机的帮促。", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "家具/家电/玩具/礼品，奢侈品/收藏品/工艺品/珠宝，酒店/旅游", 
+        "dutyTime": "待定", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "销售经理，销售代表", 
+        "expLocations": "西宁", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2015.7", 
+            "eduDesc": "", 
+            "schName": "青海大学昆仑学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.9", 
+            "majorName": "电气工程及其自动化", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_51job://338215224", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "西宁海锐奥商贸有限公司（海尔西宁中心）", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "空调", 
+            "jobStart": "2015.8", 
+            "incIndustrys": "家具/家电/玩具/礼品", 
+            "jobDuration": "4个月", 
+            "incLocation": "", 
+            "jobPosition": "BU销售代表", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "1.支持区域，为用户提供更好的购买体验。2.营销方案的执行，店面零售的推进。3.销售指标的收集和反馈。4.终端现场的出样管理，价格管理和三品到门店。5.提供产品的下单预测，国美，苏宁的销售下单。  由于，入职刚半个月就去了青岛总部参加培训且跟随团队在湖南和安徽搞活动。所以，刚回到西宁，就赶上了一场活动。因为之前参加过，所以活动的流程和步骤都了解。并且，带领临促给所挂靠门店带来了好的业绩。", 
+            "jobAchievement": "", 
+            "jobEnd": "至今", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "50-150人"
+        }
+    ]
+}

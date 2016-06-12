@@ -1,0 +1,484 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName"></strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">部门/事业部管理、副总裁/副总经理</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年12月29日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM021386679R90250001000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://rd.zhaopin.com/img/lookResumes.jpg">
+        <img alt="" src="http://rd.zhaopin.com/img/lookResumes.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年12月)&nbsp;&nbsp;&nbsp;&nbsp;8年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+        <br />
+        现居住地：重庆 南岸区 | 户口：重庆 | 群众
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>重庆、成都</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>不显示职位月薪范围</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>部门/事业部管理、副总裁/副总经理</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>房地产/建筑/建材/工程、物业管理/商业中心</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">8年房地产从业经历，有综合体、购物中心、商业街区、社区商业及旅游地产的实操经验；<br />对房地产项目盈利模式、开发策略、项目定位、规划布局、招售执行、经营管理及企业形象推广等有较深的认识；熟悉国际、国内主力店、餐饮、零售服饰、生活配套等品牌以及其开店的工程需求、商务条件及合作模式；<br />有广泛的招商渠道及丰富的客户资源，长期与众多品牌商家保持良好关系；<br />具备前瞻性思考能力及良好的人际沟通和谈判技巧，执行力强；<br />有较好的团队统筹协调及管理能力；<br />善于整合资源，有较好的战略推动及执行能力。</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2013.03 - 至今&nbsp;&nbsp;益佳地产&nbsp;&nbsp;（2年9个月）</h2>
+            <h5>招商经理</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程 | 企业性质：合资 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、根据公司发展战略及项目年度经营计划，编制商业板块的整体工作计划，并负责监督落实；<br />2、统筹项目市场调研、前期研策、定位和商业规划，并对商业资源进行收集、整理并及时反馈市场动态等相关信息，提供合理化建议，为项目发展策略提供依据，并制定项目招商、销售策略及执行方案；<br />3、负责引进项目主力店、五星级酒店、战略合作品牌商户及其他与项目相合适的商户，安排并执行双边商务洽谈及合同谈判，确保各项招商工作有序开展；<br />4、统筹商业街的专项策划、销售、推广及经营工作，以实现快速旺场、资金回笼及助推其他在售物业的销售；<br />5、统筹与合作商家签约仪式的筹备及相关宣传工作；<br />6、统筹对顾问公司的考察、选择及维护管理；<br />7、组织做好客户服务、商家管理，协助客户关怀管理；<br />8、负责对接项目所在地政府相关部门的沟通及协调工作；<br />9、主持并督促部门人员全面完成职责范围内的各项工作，控制部门内部费用支出，提高部门工作效率；<br />10、协助人力资源部进行下属人员的招聘、培训、职业发展、绩效考评等工作，向人力资源部提出部门人员的任免建议，并参与决策；<br />11、完成上级领导交办的其他工作。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.09 - 2013.02&nbsp;&nbsp;重庆东和(实业)集团&nbsp;&nbsp;（3年5个月）</h2>
+            <h5>招商经理</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程 | 企业性质：民营 | 规模：500-999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、参与项目前期研策、论证及设计，提供商业定位、规划及设计参考意见及建议；<br />2、负责市场调研，制定项目业态规划、品牌落位、招商策略、招商政策等方案；<br />3、负责项目主力店、五星级酒店、餐饮、娱乐业态的引进；<br />4、准备招商材料，对目标商家并对其进行考察、评估及反馈，安排双边进行会谈，组织签订合同或协议；<br />4、负责协调商户进退场、设计、装修等工作，并维护与商户间的良好的合作关系；<br />5、与公司各部门包括工程、物管、市场推广、法务等进行沟通，推动各项工作的顺利进行。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.10 - 2009.08&nbsp;&nbsp;重庆（香港）美联营销策划有限公司&nbsp;&nbsp;（1年10个月）</h2>
+            <h5>客户经理</h5>
+            <div class="resume-preview-dl">
+                中介服务 | 企业性质：上市公司 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、商铺销售、招商；<br />2、写字楼销售。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2013.03 - 至今&nbsp;&nbsp;世纪城</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、根据公司发展战略及项目年度经营计划，编制商业板块的整体工作计划，并负责监督落实；<br />2、统筹项目市场调研、前期研策、定位和商业规划，并对商业资源进行收集、整理并及时反馈市场动态等相关信息，提供合理化建议，为项目发展策略提供依据，并制定项目招商、销售策略及执行方案；<br />3、负责引进项目主力店、五星级酒店、战略合作品牌商户及其他与项目相合适的商户，安排并执行双边商务洽谈及合同谈判，确保各项招商工作有序开展；<br />4、统筹商业街的专项策划、销售、推广及经营工作，以实现快速旺场、资金回笼及助推其他在售物业的销售；<br />5、统筹与合作商家签约仪式的筹备及相关宣传工作；<br />6、统筹对顾问公司的考察、选择及维护管理；<br />7、组织做好客户服务、商家管理，协助客户关怀管理；<br />8、负责对接项目所在地政府相关部门的沟通及协调工作；<br />9、主持并督促部门人员全面完成职责范围内的各项工作，控制部门内部费用支出，提高部门工作效率；<br />10、协助人力资源部进行下属人员的招聘、培训、职业发展、绩效考评等工作，向人力资源部提出部门人员的任免建议，并参与决策；<br />11、完成上级领导交办的其他工作。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>佳乐世纪城系“西博会”重大签约项目，用地面积1856亩，建筑规模300余万㎡，集金融、商贸、商务、酒店、主题公园、城市观光旅游、高品质住宅于一体的现代化城市中心。建成后的商业面积近200万㎡，涵盖购物中心、金融街、酒店商务集群、城市公寓、城市广场、名店名品街区、美食餐饮街区、酒吧娱乐街区、风情文化街区、婚庆主题公园、BLOCK社区生活中心等等。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.03 - 至今&nbsp;&nbsp;国际城</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、根据公司发展战略及项目年度经营计划，编制商业板块的整体工作计划，并负责监督落实；<br />2、统筹项目市场调研、前期研策、定位和商业规划，并对商业资源进行收集、整理并及时反馈市场动态等相关信息，提供合理化建议，为项目发展策略提供依据，并制定项目招商、销售策略及执行方案；<br />3、负责引进项目主力店、五星级酒店、战略合作品牌商户及其他与项目相合适的商户，安排并执行双边商务洽谈及合同谈判，确保各项招商工作有序开展；<br />4、统筹商业街的专项策划、销售、推广及经营工作，以实现快速旺场、资金回笼及助推其他在售物业的销售；<br />5、统筹与合作商家签约仪式的筹备及相关宣传工作；<br />6、统筹对顾问公司的考察、选择及维护管理；<br />7、组织做好客户服务、商家管理，协助客户关怀管理；<br />8、负责对接项目所在地政府相关部门的沟通及协调工作；<br />9、主持并督促部门人员全面完成职责范围内的各项工作，控制部门内部费用支出，提高部门工作效率；<br />10、协助人力资源部进行下属人员的招聘、培训、职业发展、绩效考评等工作，向人力资源部提出部门人员的任免建议，并参与决策；<br />11、完成上级领导交办的其他工作。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>佳乐国际城位于新都区蜀龙大道南段777号，地处毗河生态保护区和198公园带，享受198郁金香公园、泥巴沱风景区、毗河生态景观带等9大自然景观资源。项目总占地532亩，总投资约30亿元，30万余㎡的的高端主题商业规划，将打造区域商业中心。项目衔接蜀龙大道五期城市快速通道，便捷享受地铁三号线一公里生活圈，为北改核心区域，新兴高尚住宅区。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.09 - 2013.02&nbsp;&nbsp;重庆东和广场</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、参与项目前期研策、论证及设计，提供商业定位、规划及设计参考意见及建议；<br />2、负责市场调研，制定项目业态规划、品牌落位、招商策略、招商政策等方案；<br />3、负责项目主力店、五星级酒店、餐饮、娱乐业态的引进；<br />4、准备招商材料，对目标商家并对其进行考察、评估及反馈，安排双边进行会谈，组织签订合同或协议；<br />4、负责协调商户进退场、设计、装修等工作，并维护与商户间的良好的合作关系；<br />5、与公司各部门包括工程、物管、市场推广、法务等进行沟通，推动各项工作的顺利进行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>重庆东和广场-总建筑面积约30万平方米，位于重庆两江新区核心—冉家坝&amp;新牌坊商圈，是重庆市区的八大城市副中心之一，亦是重庆首席富人区，即重庆北新贵区。是重庆唯一集市政广场、地标建筑、景观大道和3条轨道交通枢纽站于一体的高端商业项目，得到了重庆市政府及渝北区政府的大力支持，除授予本项目“总部经济基地”、“现代商业服务业基地”外，还享受“两江新区”发展的一系列优惠政策，将打造重庆东和广场成为集大型百货、生活超市、复合式餐饮、多元化娱乐、购物体验、品牌展示、文化交流、高端宴会及商务配套服务于一体的多功能体验式购物广场。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.09 - 2013.02&nbsp;&nbsp;东和城</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、参与项目前期研策、论证及设计，提供商业定位、规划及设计参考意见及建议；<br />2、负责市场调研，制定项目业态规划、品牌落位、招商策略、招商政策等方案；<br />3、负责项目主力店、五星级酒店、餐饮、娱乐业态的引进；<br />4、准备招商材料，对目标商家并对其进行考察、评估及反馈，安排双边进行会谈，组织签订合同或协议；<br />4、负责协调商户进退场、设计、装修等工作，并维护与商户间的良好的合作关系；<br />5、与公司各部门包括工程、物管、市场推广、法务等进行沟通，推动各项工作的顺利进行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>东和城，位于江北区核心商业地带--北城天街之上，如果说北城天街为天街下段打了一支强心剂，那么复苏的天街上段将在东和地产等众多品牌地产商的共襄盛举下，掀起更加疯狂的投资热浪。未来，天街将成为解放碑之后的商业投资新领地。项目通过超级主力店及时尚商铺满足天街上段的生活购物需求;创意SOHO商务公寓&quot;西塔、东塔&quot;打造创意产业基地，汇聚时尚智力精英运筹帷幄，创意天街;精品住宅--引领&quot;两面派&quot;生活，缔造&quot;天街新时代生活新主张&quot;。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.09 - 2013.02&nbsp;&nbsp;成都东和广场</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、参与项目前期研策、论证及设计，提供商业定位、规划及设计参考意见及建议；<br />2、负责市场调研，制定项目业态规划、品牌落位、招商策略、招商政策等方案；<br />3、负责项目主力店、五星级酒店、餐饮、娱乐业态的引进；<br />4、准备招商材料，对目标商家并对其进行考察、评估及反馈，安排双边进行会谈，组织签订合同或协议；<br />4、负责协调商户进退场、设计、装修等工作，并维护与商户间的良好的合作关系；<br />5、与公司各部门包括工程、物管、市场推广、法务等进行沟通，推动各项工作的顺利进行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>成都东和广场占据成都中央商务区核心地段，项目占地约15.36亩，总建筑规模约20万方，汇聚大型综合性艺术剧院、超五星级酒店、甲级写字楼、高档购物中心等复合业态于一体。建成后，将成为成都中央商务区内最有影响力的地标建筑之一，并产生良好的经济及社会效益。</td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2003.09 - 2007.07&nbsp;&nbsp;重庆工商大学&nbsp;&nbsp;旅游管理&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+
+
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+英语：读写能力良好 | 听说能力良好<br />
+        </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">专业技能</h3>
+        <div class="resume-preview-dl">
+驾驶：熟练 | 13个月<br />
+计算机／IT：熟练 | 80个月<br />
+商业地产研策、定位、规划、招商、销售、运营。：熟练 | 60个月<br />
+        </div>
+    </div>
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=602138667&amp;Timestamp=635871624281582850&amp;Callback=&amp;signature=2830243ac2bf6f02a891f8942b64f4b4&amp;comid=75176229&amp;comname=广州硕荣贸易有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="黄均" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="207852731" />
+    <input type="hidden" name="extId" id="extId" value="JM021386679R90250001000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="602138667" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="广州硕荣贸易有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="广州硕荣贸易有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="75176229" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656562614" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="75176229" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM021386679R90250001000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,332 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "96个月", 
+            "skillName": "精通", 
+            "skillLevel": "96个月"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2015年11月08日", 
+        "overSea": "1", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "新加坡麻省理工学院联合化学药物工程", 
+        "nowPoliStatus": "中共党员(含预备党员)", 
+        "nowAddress": "国外", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "博士", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "西安", 
+        "dob": "1983年11月", 
+        "gender": "男", 
+        "age": "32岁", 
+        "recentSchName": "新加坡国立大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2005.09", 
+            "certName": "全国计算机等级三级B", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2010.01", 
+            "certName": "托福", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2003.12", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2004.07", 
+            "certName": "大学英语六级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2004.09", 
+            "certName": "全国计算机等级二级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "6", 
+            "certTime": "2006.12", 
+            "certName": "驾驶执照", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "7", 
+            "certTime": "2009.12", 
+            "certName": "GRE", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "新加坡", 
+            "trainContent": "", 
+            "trainDesc": "学习结晶的基本原理及其在药物工业生产中的应用", 
+            "trainAgency": "麻省理工学院", 
+            "trainCert": "", 
+            "trainStart": "2010.09", 
+            "trainTitle": "药物工业中的结晶", 
+            "trainEnd": "2010.10"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力精通 | 听说能力精通", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "以转录激活因子样效应物核酸酶(TALEN)对人体细胞基因敲除", 
+            "proStart": "2015.02", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "构建了自己的转录激活因子样效应物核酸酶组装试剂盒和单体核酸文库，表达自定义转录激活因子样效应物核酸酶(TALEN)对人体细胞目标基因进行基因敲出以构建用于蛋白质类药物生产的高效表达细胞系", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "哺乳动物细胞培养基的优化", 
+            "proStart": "2015.02", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "通过培养基成分对培养时间分析，优化培养基相关组分构成，配制可用于培养哺乳动物细胞并高效表达单抗类蛋白质药物的培养基", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "中空纤维膜生物反应器中芳基烯烃的双羟基化反应", 
+            "proStart": "2014.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "基于中空纤维膜生化反应器的两相体系在芳基烯烃双羟基氧化制备手性二醇生物转化过程中有效减少了底物毒性并提高了反应效率", 
+            "proAchievement": "", 
+            "proEnd": "2014.12"
+        }, 
+        {
+            "itemId": "4", 
+            "hardwareEnv": "", 
+            "proName": "甘氨酸铝聚甲基丙烯酸环氧丙基酯制备羟化物载体", 
+            "proStart": "2013.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "通过合成甘氨酸铝为涂层的聚甲基丙烯酸环氧丙基酯制备选择性羟基化合物吸附载体", 
+            "proAchievement": "", 
+            "proEnd": "2014.05"
+        }, 
+        {
+            "itemId": "5", 
+            "hardwareEnv": "", 
+            "proName": "表达多组分P450单加氧酶的重组菌的构建", 
+            "proStart": "2013.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "克隆Cellulosimicrobium cellulans 菌种中全部18个多组分P450 单加氧酶在E. coli 宿主中逐一进行异源表达", 
+            "proAchievement": "", 
+            "proEnd": "2014.06"
+        }, 
+        {
+            "itemId": "6", 
+            "hardwareEnv": "", 
+            "proName": "单克隆抗体中氨基酸的检测", 
+            "proStart": "2013.03", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "通过高效液相准确定量分析单克隆抗体水解物中若干氨基酸，为高通量筛选哺乳动物细胞系提供了准确依据", 
+            "proAchievement": "", 
+            "proEnd": "2013.06"
+        }, 
+        {
+            "itemId": "7", 
+            "hardwareEnv": "", 
+            "proName": "细胞的磁性固定化", 
+            "proStart": "2011.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "通过将细菌细胞和磁性纳米颗粒在吡咯烷存在的缓冲液中共培养使得细胞自身磁性化，成为一种潜在的新型的细胞及酶的固定化技术", 
+            "proAchievement": "", 
+            "proEnd": "2012.06"
+        }, 
+        {
+            "itemId": "8", 
+            "hardwareEnv": "", 
+            "proName": "多相体系中的生物氧化反应", 
+            "proStart": "2011.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "以离子液体和高分子树脂为吸附载体构建了多相体系，该体系有效地提高了手性药物中间体生物氧化制备过程的生产率及选择性", 
+            "proAchievement": "", 
+            "proEnd": "2014.06"
+        }, 
+        {
+            "itemId": "9", 
+            "hardwareEnv": "", 
+            "proName": "Cellulosimicrobiumcellulans菌种中柠檬烯羟化酶的纯化", 
+            "proStart": "2010.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "在以乙苯为唯一碳源的限制种培养Cellulosimicrobium cellulans 并诱导该菌种大量表达柠檬烯羟化酶 (Limonene hydroxylase)，通过后续细胞破壁、高速离心以及快速蛋白层析仪 (FPLC) 对该羟化酶进行分离纯化", 
+            "proAchievement": "", 
+            "proEnd": "2011.06"
+        }, 
+        {
+            "itemId": "10", 
+            "hardwareEnv": "", 
+            "proName": "混合糖作为碳源的发酵", 
+            "proStart": "2008.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "木质纤维素制备生物乙醇前期预处理过程使半纤维素水解为葡萄糖和木糖的混合碳源，以此混合碳源培养重组大肠杆菌可显著提高蛋白的表达量", 
+            "proAchievement": "", 
+            "proEnd": "2009.05"
+        }
+    ], 
+    "others": {
+        "otherHobby": "书法", 
+        "pubWork": "", 
+        "schoolExp": "\n曾获 院校级 三等奖\n曾获 院校级 三等奖\n2004.12 曾获 院校级 优秀学生干部\n\n\n\n奖项描述：\n校学生会副主席\n\n\n\n\n\n\n活动描述：\n学习成绩优秀", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "glory": "优秀学生干部，三等奖学金，优秀研究生论文，全国奥林匹克竞赛数学和化学三等奖", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "您给我平台，我还您传奇！", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "您好，我叫高鹏飞，从本科到博士一直在从事生物技术，主要涉及的有：基因敲出，工程菌构建，多相生物氧化反应，细胞系的构建，蛋白质分离纯化，单克隆抗体氨基酸检测，工程菌高密度发酵，生物过程的优化，基于中控纤维膜反应器的生物氧化反应。英语也是我的特长，听说写流利。计算机方面，常用的软件和部分专业软件如Word, Excel, PPT, Matlab, ChemDraw等等都没有问题。我是一个表达沟通能力很强的人，知识面宽广多样，做事很认真细心，为人处世较周到。", 
+        "socialActie": "", 
+        "stuPractice": "\n2008.05 - 2010.02\n2005.07 - 2005.08  环保实习生\n\n\n\n实践描述：\n在中国石油兰州石化公司炼油厂从事污水处理实习\n\n\n\n2004.07 - 2004.07  化工实习\n\n\n\n实践描述：\n在陕西兴化化学股份有限公司从事化工生产实习\n\n\n\n2004.07 - 2004.07\n2003.07 - 2003.08  金工实习\n\n\n\n实践描述：\n在西安交大校办机械厂从事金工实习和简单机械加工制造\n\n\n\n2003.07 - 2003.07\n2002.07 - 2002.07", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "医药/生物工程、学术/科研、教育/培训/院校、跨领域经营", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "生物/制药/医疗器械", 
+        "expLocations": "北京、西安", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2015.01", 
+            "eduDesc": "", 
+            "schName": "新加坡国立大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.07", 
+            "majorName": "新加坡麻省理工学院联合化学药物工程", 
+            "eduDiploma": "博士"
+        }, 
+        {
+            "itemId": "2", 
+            "eduType": "", 
+            "eduEnd": "2009.07", 
+            "eduDesc": "", 
+            "schName": "西北大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2006.09", 
+            "majorName": "生物化工", 
+            "eduDiploma": "硕士"
+        }, 
+        {
+            "itemId": "3", 
+            "eduType": "", 
+            "eduEnd": "2006.07", 
+            "eduDesc": "", 
+            "schName": "西北大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2002.09", 
+            "majorName": "生物工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_zhilian://JM326286996R90250000000", 
+    "jobList": []
+}

@@ -1,0 +1,169 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "31521600", 
+        "recentMajorName": "会计学", 
+        "nowPoliStatus": "", 
+        "nowAddress": "上海", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "影视/媒体/艺术/文化/出版", 
+        "nowInc": "荣宝斋（上海）拍卖有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "29 岁", 
+        "recentSchName": "上海应用技术学院", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "5 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "工作上恪守原则，谨慎细心，与人和善相处，对自己有一定要求。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "基金/证券/期货/投资;影视/媒体/艺术/文化/出版;广告/公关/市场推广/会展", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，急寻新工作", 
+        "expSalary": "8.40万（7000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "会计/会计师;会计助理/文员", 
+        "expLocations": "上海", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.07", 
+            "schName": "上海应用技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2006.09", 
+            "majorName": "会计学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "荣宝斋（上海）拍卖有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.08", 
+            "incIndustrys": "影视/媒体/艺术/文化/出版", 
+            "jobDuration": "3年7个月", 
+            "incEmployee": "1-49人", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "jobAchievement": "从刚入职的出纳到现在的会计岗位，工作认真负责，领悟能力较强，并且获得领导信任兼任客服部副经理一职。", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "1 ", 
+                    "report": "财务经理", 
+                    "location": "上海", 
+                    "positionStart": "2012/08", 
+                    "department": "财务部", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "经常往来于银行对公业务；独立完成银行、现金日记账，月末结账，并制作会计报表；每月税务系统报税及发票完税；全面负责公司应收应付业务的处理；熟悉office软件、用友U8/NC系统的操作；参与各季度拍卖活动（会场咨询、结算、整理客户资料等，会后各项对账结算、开票、整理会后资料、核对POS机结算情况等工作）。同时兼任客服部副经理，协助经理管理客户合同，并维护公司客户关系，协助客服工作的同时来帮助财务工作的进行。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "上海爱迅国际货运代理有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2012.07", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.02", 
+            "incIndustrys": "交通/物流/运输", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "1-49人", 
+            "incType": "外商独资?外企办事处", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "jobAchievement": "及时尽责的完成工作 面对反复大量的工作却并未出错", 
+                    "positionEnd": "2012/07", 
+                    "subTimeSize": "0 ", 
+                    "report": "财务经理", 
+                    "location": "上海", 
+                    "positionStart": "2011/02", 
+                    "department": "财务部", 
+                    "jobPosition": "出纳", 
+                    "jobDesc": "对出纳工作、银行业务熟悉；会编制银行、现金日记账；每月底负责银行对账；日常网银支付；代缴关税；开具增值税发票；填写各类凭证及支票，外汇收付款。"
+                }
+            ]
+        }
+    ]
+}

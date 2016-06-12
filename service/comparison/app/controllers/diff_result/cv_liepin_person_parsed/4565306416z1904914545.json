@@ -1,0 +1,233 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-14", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "21871371", 
+        "recentMajorName": "建筑工程", 
+        "nowPoliStatus": "", 
+        "nowAddress": "无锡", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "副总经理", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "房地产开发/建筑/建材/工程", 
+        "nowInc": "北京勒泰投资有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "46 岁", 
+        "recentSchName": "扬州大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "21 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产开发/建筑/建材/工程", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "成本总监", 
+        "expLocations": "无锡;泰州", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "1995.07", 
+            "schName": "扬州大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1991.09", 
+            "majorName": "建筑工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "北京勒泰投资有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.01", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "1年2个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "?\t目前一期在建总建筑面积约为70.1万平方米，其中地上约56.7万平方米，地下13.4万平方米，包括文化、旅游、商业、酒店、办公、住宅等业态；其中文化旅游部分包括：卡丁车场、剧场、电影院、冰场、健身中心、KTV、水世界等。", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "8 ", 
+                    "report": "总经理", 
+                    "location": "唐山", 
+                    "positionStart": "2015/01", 
+                    "department": "成本部", 
+                    "jobPosition": "副总经理", 
+                    "jobDesc": "?\t建立成本管理体系，负责项目投资估算、成本测算和分析；?\t负责项目可研成本、目标成本的编制，进行成本合约分解，对每个工程成本控制单元进行分项成本细化，形成项目目标成本分解指标；?\t组织、指导和协调招标专员完成各招标计划及招标工作；参与各项合同（协议）文件的审核，参与各类合同的谈判、制订及管理工作，保障公司利益；?\t负责工程实施过程中进度产值审核和工程付款的审核； ?\t审核项目成本管理月报，全面、准确地反映项目成本目标执行情况（动态成本），做好项目施工过程中的成本预警；?\t组织编写项目总成本与年度成本分析报告；?\t项目的结算审核。?\t制定团队发展计划，对所带团队进行企业文化、精神文明等方面的教育和宣传，贯彻公司企业精神，负责对技术骨干的培训和培养，执行公司人才发展和培养计划。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "苏州、北京", 
+            "jobSalary": "", 
+            "jobEnd": "2014.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.06", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "1年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "?\t花桥水岸世家：项目占地14.67万平米，规划总建筑面积约36.9万平米，其中地上建筑面积约28.72万平米，地下建筑面积约8.18万平米。业态包括8栋6~7层的多层洋房、2栋11层、4栋32~33层、3栋24层、5栋17~18层住宅、13栋独栋别墅、22栋联排别墅、6栋叠拼、沿街商铺、地下车库、物业及配套用房以及商业综合服务中心等。项目一期78000平米年底交付,二期主体结构施工中。", 
+                    "positionEnd": "2014/12", 
+                    "subTimeSize": "5 ", 
+                    "report": "总经理", 
+                    "location": "苏州", 
+                    "positionStart": "2013/06", 
+                    "department": "成本部", 
+                    "jobPosition": "成本总监", 
+                    "jobDesc": "1、项目招标的组织及实施2、工程预结算与成本控制3、合约管理组织实施4、成本及合同管理5、招投标采购6、组织重大专项验收、竣工验收工作。7、完成领导交办的其他工作。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "万达集团", 
+            "jobSalary": "", 
+            "jobEnd": "2013.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2007.03", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "6年3个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "?\t广州增城万达广场，占地总面积约164亩，规划总建筑面积约37.70万平方米，包括酒店、办公楼和商业步行街，目前大商业四层，soho公寓15层，五星酒店五层。", 
+                    "positionEnd": "2013/06", 
+                    "subTimeSize": "11 ", 
+                    "location": "广州", 
+                    "positionStart": "2012/08", 
+                    "department": "广州万达成本部", 
+                    "jobPosition": "成本经理", 
+                    "jobDesc": "目标成本与责任成本编制、负责全过程成本控制、经济合同的管理、招标采购、结算等工作"
+                }, 
+                {
+                    "itemId": 2, 
+                    "jobAchievement": "?\t芜湖镜湖万达广场，占地面积6.8万方，总建面31万方，商业、办公楼、住宅、酒店。项目前期进入，开业后调动。", 
+                    "positionEnd": "2012/08", 
+                    "subTimeSize": "7 ", 
+                    "location": "芜湖", 
+                    "positionStart": "2011/03", 
+                    "department": "芜湖万达成本部", 
+                    "jobPosition": "成本经理", 
+                    "jobDesc": "目标成本与责任成本编制、负责全过程成本控制、经济合同的管理、招标采购、结算等工作"
+                }, 
+                {
+                    "itemId": 3, 
+                    "jobAchievement": "?\t襄樊万达商业广场，占地面积13万方，总建面59万方，包含商业和住宅，其中商业和五星级酒店面积20万平方米；项目前期进入，开业入伙后调动。", 
+                    "positionEnd": "2011/03", 
+                    "subTimeSize": "5 ", 
+                    "location": "襄阳", 
+                    "positionStart": "2009/08", 
+                    "department": "襄樊万达成本部", 
+                    "jobPosition": "成本经理", 
+                    "jobDesc": "目标成本与责任成本编制、负责全过程成本控制、经济合同的管理、招标采购、结算等工作"
+                }, 
+                {
+                    "itemId": 4, 
+                    "jobAchievement": "?\t无锡滨湖万达商业广场，占地面积18万方，总建面70万方，商业和住宅，其中商业中心12万方。调动时C区住宅封顶，D区地下室，大商业出±0.00，五星酒店六层。", 
+                    "positionEnd": "2009/08", 
+                    "subTimeSize": "2 ", 
+                    "location": "无锡", 
+                    "positionStart": "2007/03", 
+                    "department": "无锡万达成本部", 
+                    "jobPosition": "成本主管、副经理", 
+                    "jobDesc": "目标成本与责任成本编制、负责全过程成本控制、经济合同的管理、招标采购、结算等工作"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "155", 
+        "nowSalary": "年薪4-5万人民币", 
+        "cvId": "339709712", 
+        "recentMajorName": "商务英语", 
+        "nowPoliStatus": "中共党员", 
+        "nowAddress": "东莞-道滘镇", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "外贸跟单", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "贸易/进出口", 
+        "nowInc": "伟铭贸易有限公司", 
+        "nowHukou": "", 
+        "dob": "1989年11月", 
+        "gender": "女", 
+        "age": "26岁", 
+        "recentSchName": "广东金融学院", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "3-4年工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2010.11", 
+            "certName": "城市志愿者", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2010.4", 
+            "certName": "英语专业四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2009.12", 
+            "certName": "大学英语六级", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（不限），读写（不限）", 
+            "languageName": "英语（熟练）"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "本人具有良好的道德品质,工作积极勤奋。为人诚实可靠,具有高度的敬业精神及奉献精神。观察力极强,做事认真细致。有着良好的适应性和可塑性,具备一定的培养潜质。责任心强、具有良好的职业道德。外贸业务员人事主管商务英语专业专业英语四级", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "贸易/进出口", 
+        "dutyTime": "一周以内", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "人事主管，英语翻译", 
+        "expLocations": "东莞", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2012.6", 
+            "schName": "广东金融学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.9", 
+            "majorName": "商务英语", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2008.6", 
+            "schName": "东莞高级中学", 
+            "eduTongZhao": "", 
+            "eduStart": "2005.9", 
+            "majorName": "政治", 
+            "eduDiploma": "高中"
+        }, 
+        {
+            "itemId": "3", 
+            "eduEnd": "2005.6", 
+            "schName": "东莞市南城中学", 
+            "eduTongZhao": "", 
+            "eduStart": "2002.9", 
+            "majorName": "全科", 
+            "eduDiploma": "初中及以下"
+        }, 
+        {
+            "itemId": "4", 
+            "eduEnd": "2002.6", 
+            "schName": "东莞市南城阳光第四小学", 
+            "eduTongZhao": "", 
+            "eduStart": "1996.9", 
+            "majorName": "全科", 
+            "eduDiploma": "初中及以下"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "伟铭贸易有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2016.1", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "外贸部", 
+            "jobStart": "2015.9", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "4个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "外贸跟单", 
+            "jobDesc": "在伟铭贸易有限公司担任外贸跟单", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "东莞国际快件海关监管中心", 
+            "jobSalary": "", 
+            "jobEnd": "2014.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "综合部", 
+            "jobStart": "2013.6", 
+            "incIndustrys": "交通/运输/物流", 
+            "jobDuration": "1年4个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "人事主管", 
+            "jobDesc": "在东莞国际快件海关监管中心担任人事主管", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "美国阳光集团", 
+            "jobSalary": "", 
+            "jobEnd": "2013.5", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "外贸部", 
+            "jobStart": "2012.9", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "8个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "翻译文员", 
+            "jobDesc": "在美国阳光集团担任翻译文员", 
+            "witness": ""
+        }
+    ]
+}

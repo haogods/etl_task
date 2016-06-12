@@ -1,0 +1,163 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "付伟龙", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "15010445321", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "9982187@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR172109015R90250001000", 
+        "recentMajorName": "计算机科学与技术", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "北京 朝阳区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "香河", 
+        "dob": "1987年10月", 
+        "gender": "男", 
+        "age": "29岁", 
+        "recentSchName": "黑龙江大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "7年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2008.01", 
+            "certName": "全国计算机软件技术资格与水平考试", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "没什么爱好，安静的工作就好，有些事情不需要说，做就好了！", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "事业心上进心很强，掌握了很多的理论知识和实用技能，工作学习态度谦虚认真，能深切体会到团队精神的重要性，能有独特的设计思想和方法，有一丝不苟的工作态度，形成了一套很好的设计程序，具有很强的可塑性，给我一个平台，给您创造意想不到的财富！", 
+        "socialActie": "", 
+        "workLoc": "北京", 
+        "stuPractice": "", 
+        "jobPositionFor": "市场销售主管(北京分公司)", 
+        "jobIncNameFor": "深圳市柏威国际货运代理有限公司", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务、礼品/玩具/工艺美术/收藏品/奢侈品、酒店/餐饮", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "10001-15000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "市场营销经理、媒介经理/主管、销售行政经理/主管、客户服务主管、网络/在线销售", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2009.06", 
+            "schName": "黑龙江大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2006.09", 
+            "majorName": "计算机科学与技术", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "聚义堂古玩店", 
+            "jobSalary": "15000-25000元/月", 
+            "jobEnd": "2015.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.03", 
+            "incIndustrys": "礼品/玩具/工艺美术/收藏品/奢侈品", 
+            "jobDuration": "2年5个月", 
+            "incEmployee": "20人以下", 
+            "incType": "民营", 
+            "jobPosition": "网店运营主管，网站主，淘宝运营主管，CPS联盟负责人", 
+            "jobDesc": "\n经营华夏收藏网荣获2014年大卖家 (年销售超500万)并且为华夏提出了拍卖一键修改时间的宝贵意见 大大的提升了网站的用户体验度，以及我们会员的可操作方便度，得到一致好评http://www.cang.com/personal/332047.htmlCPS联盟业绩 2014年销售毛业绩（B2C行业）毛销售业绩突破1500万对B2C B2B C2C O2O的行业都有所了解！", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "尚品中国网站制作公司", 
+            "jobSalary": "6001-8000元/月", 
+            "jobEnd": "2013.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.06", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "1年9个月", 
+            "incEmployee": "20-99人", 
+            "incType": "民营", 
+            "jobPosition": "运营经理", 
+            "jobDesc": "\n1，尚品中国时 推出自己一对一的思想 模板 建站 针对不同的客户需求 量身而定 并且成功多次与日本客户签订网站制作合同！http://www.sino-web.net/", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "德胜斋古玩店", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2011.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.12", 
+            "incIndustrys": "礼品/玩具/工艺美术/收藏品/奢侈品", 
+            "jobDuration": "1年6个月", 
+            "incEmployee": "20人以下", 
+            "incType": "民营", 
+            "jobPosition": "店长", 
+            "jobDesc": "\n1、人员的管理 2、缺货的管理3、损耗的管理 4、收银的管理5、报表的管理 6、卫生的管理7、促销的管理 8、培训的管理9、奖惩的管理 10、目标的管理11、情报的管理 12、对投诉的管理13、突发事件的管理 14、降低成本的管理15、安全的管理 16、和总部的联系17、店面设备的管理 18、保密管理", 
+            "witness": ""
+        }
+    ]
+}

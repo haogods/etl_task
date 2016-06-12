@@ -1,0 +1,173 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "黄志鹏", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "15818692470", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": "hzp657420036@163.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年02月15日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "商务管理（升本）", 
+        "nowPoliStatus": "群众", 
+        "nowAddress": "深圳", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "深圳", 
+        "dob": "1993年6月", 
+        "gender": "男", 
+        "age": "23岁", 
+        "recentSchName": "广东外语外贸大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": ""
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.12", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2013.06", 
+            "certName": "（CEAC）国家信息化计算机证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2013.01", 
+            "certName": "全国职场英语一级证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2013.06", 
+            "certName": "营销员证书", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说能力", 
+            "languageName": "粤语"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "读写能力精通 | 听说能力良好", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "\n2015.09 曾获 省区级 广东大学生课外学术科技作品竞赛荣誉证书\n\n\n\n奖项描述：\n和几名同学一起跟随魏红英老师走进坪山新区，进行有关广东省群众参与公共决策的调研，与当地居民一对一交流和调查。", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "外贸 / 黄志鹏", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "我是深职院管理学院的应届毕业生，目前居住在深圳，喜欢运动和音乐，而且自学贝斯已经有两年多了。在校时有过多次兼职的经历，并且曾跟随老师参与过坪山新区开发与管理的社区调查。主专业是人力资源，拓展港口与航运管理，还参加了有关商务管理的升本课程。希望自己能够从事与外贸有关的工作，从而接触更广阔的世界。", 
+        "socialActie": "", 
+        "stuPractice": "\n2013.08 - 2013.11  坪山新区开发与管理的社区调查\n\n\n\n实践描述：\n由老师带领进入社区进行调查", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "贸易/进出口", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "其他", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "至今", 
+            "eduDesc": "", 
+            "schName": "广东外语外贸大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2013.01", 
+            "majorName": "商务管理（升本）", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduType": "", 
+            "eduEnd": "至今", 
+            "eduDesc": "", 
+            "schName": "深圳职业技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2012.09", 
+            "majorName": "人力资源（拓展港口与航运管理）", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "cvId": "cv_zhilian://JM363772955R90250000000", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "深圳市虎航国际货运代理有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.01", 
+            "incIndustrys": "中介服务", 
+            "jobDuration": "1年2个月", 
+            "incLocation": "", 
+            "jobPosition": "海外销售", 
+            "witness": "", 
+            "incType": "民营", 
+            "jobDesc": "\n我所在的部门为海外部，主要负责开发海外市场和海空运运价的销售，利用各种网络平台开发高质量的客户，而英语这门工具是必不可少的。在公司实习加转正已经有一年多了，自己所接触的大多为海外客户，因此在英语沟通方面有所增长，与客户口语交流方面虽然不多但也会有所涉及，也取得了较为不错的成绩。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "至今", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "2001-4000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "100-499人"
+        }
+    ]
+}

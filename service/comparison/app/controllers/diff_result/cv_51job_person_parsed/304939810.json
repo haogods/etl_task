@@ -1,0 +1,163 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "304939810", 
+        "recentMajorName": "行政管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "广州-天河区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "人事专员", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/电子商务", 
+        "nowInc": "广东中建普联科技有限公司", 
+        "nowHukou": "梅州", 
+        "dob": "1992年8月", 
+        "gender": "女", 
+        "age": "23岁", 
+        "recentSchName": "广东外语艺术职业学院", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "2年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "广东外语艺术职业学院教师资格证培训站", 
+            "trainCert": "教师资格证", 
+            "trainStart": "2013.3", 
+            "trainTitle": " 《教育学》、《心理学》", 
+            "trainEnd": "2013.5"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "广东外语艺术职业学院计算机系", 
+            "trainCert": "全国计算机应用能力水平一级证书", 
+            "trainStart": "2012.10", 
+            "trainTitle": "计算机应用能力", 
+            "trainEnd": "2012.12"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "英语（良好）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "热情活泼，积极主动，沟通能力强，勤劳上进、细心周到。执行力强，能够熟练操作办公软件，普通话流利，口才佳。逻辑条理性较强，工作效率高。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务，广告，服装/纺织/皮革", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "人事专员", 
+        "expLocations": "广州", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2014.6", 
+            "schName": "广东外语艺术职业学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.9", 
+            "majorName": "行政管理", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "广东中建普联科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "人力资源部", 
+            "jobStart": "2014.7", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "1年7个月", 
+            "incEmployee": "150-500人", 
+            "incType": "", 
+            "jobPosition": "人事专员", 
+            "jobDesc": "1、负责招聘工作，包括统计各部门用人需求、发布招聘信息、收集筛选简历、人员邀约，接待及面试；2、负责公司员工入职、转正、转岗、晋升、降职、离职等人事变动管理工作；3、员工劳动合同的签订、续签与管理；4、公司内部员工档案的建立与管理；5、负责新员工入职培训、关怀,定期组织员工面谈会；6、负责与各部门的协调工作，做好信息的上传下达；7、负责考勤及工资绩效的核算；8、员工月度社保和公积金办理；9、负责月度人事异动资料汇总以及上报；10、负责月度劳动用工备案、劳动年审、残疾人年审等申报工作； 11、完成领导安排的其他事务。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "广州市鹭珂鸶服饰有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.7", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "人事行政部", 
+            "jobStart": "2013.6", 
+            "incIndustrys": "服装/纺织/皮革", 
+            "jobDuration": "1年1个月", 
+            "incEmployee": "150-500人", 
+            "incType": "", 
+            "jobPosition": "人事行政助理", 
+            "jobDesc": "协助人事行政主管处理人事行政部相关事务，包括人员聘用、考核、晋升、签订劳动合同和档案管理，办理入职，进行员工入职培训，组织员工活动，以及处理办公室日常行政事务等等。", 
+            "witness": ""
+        }
+    ]
+}

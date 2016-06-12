@@ -1,0 +1,252 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-01-28", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "19873015", 
+        "recentMajorName": "工商管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "上海", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "Finance VP", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "银行", 
+        "nowInc": "美国银行（BANK OF AMERICA CORP.）", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "35 岁", 
+        "recentSchName": "上海交通大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "12 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "中国内地法人化", 
+            "proStart": "2014.03", 
+            "devTool": "", 
+            "proRole": "主要包括但不限于：准备好提交给银监会的申请材料， 如：3年计划、转制计划等；系统改进需求提交及测试测试；与内部各部门及外部专家研讨；现场检验准备；开业准备及转制后事项", 
+            "proIncName": "美国银行（BANK OF AMERICA CORP.）", 
+            "proDesc": "中国内地法人化项目，前期需要提供大量的财务数据以供内部高级管理层作出决定，项目中也需要大量的系统改进，制度优化，各部门协调等等。", 
+            "softwareEnv": "", 
+            "proDuty": "财务部项目负责", 
+            "proAchievement": "目前已经完成部分准备工作，业务需求书等", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "Oracle 上线", 
+            "proStart": "2010.01", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "财务系统更新为Oracle，测试新系统，发现系统缺陷，跟进改进，培训其他使用者", 
+            "softwareEnv": "", 
+            "proDuty": "财务部项目负责", 
+            "proAchievement": "", 
+            "proEnd": "2010.08"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "十二年外资银行财务部工作，熟悉各种银行产品财务流程、财务制度以及会计处理方法。对数字高度敏感，善于分析及解决问题，简化工作流程，发觉关键点。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "银行", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "财务经理", 
+        "expLocations": "上海", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2010.06", 
+            "schName": "上海交通大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.02", 
+            "majorName": "工商管理", 
+            "eduDiploma": "MBA/EMBA"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2004.07", 
+            "schName": "上海财经大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2000.09", 
+            "majorName": "会计学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "美国银行（BankofAmerica，NYSE：BAC，东证1部：8648），以资产计是美国第一大商业银行，创建于1968年10月7日，总部设在旧金山。1969年4月1日美洲银行成为美洲银行公司的附属机构，全部股权为该公司所控制。该行的建立可以追溯到1784年的马萨诸塞州银行，是美国第二历史悠久的银行。2002年8月美国第一大银行美国美洲银行将其在中国大陆注册的中文名美国美洲银行正式更名为美国银行。同时，该行的法律地位及其英文名字保持不变。2010年根据总收入排名，美国银行是美国第三大公司。...", 
+            "incName": "美国银行（BANK OF AMERICA CORP.）", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2007.11", 
+            "incIndustrys": "银行", 
+            "jobDuration": "8年4个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "外商独资·外企办事处", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "3 ", 
+                    "report": "中国区CFO", 
+                    "location": "上海", 
+                    "positionStart": "2014/03", 
+                    "department": "财务部", 
+                    "jobPosition": "财务经理 (VP)，副组长", 
+                    "jobDesc": "1. 担当财务分析及美国报表财务组副组长的职责，培训、统筹及领导小组成员完成工作任务，代表小组与其它业务部门沟通。2. 中国内地法人化项目，主要包括但不限于：准备好提交给银监会的申请材料， 如：3年计划、转制计划等；系统测试；现场检验准备；开业准备及转制后事项。3. 外包管理，持续发掘财务部可以外包的工作，并做好交接管理，确保有足够的流程控制。4. 优化和减化财务流程以提高财务部的效率。5. 确保美国监管报表及时准确报送。6. 支持重要业务需求，如：SAP的中国上线，监管报表自动化，当地及全球新法规实施，新产品和新流程，加强中国内地各分行月报表监管等。7. 加强资产负债表科目的真实性核对，分配新科目给相关部门以确保所有的科目都得以复核。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "2014/09", 
+                    "subTimeSize": "0 ", 
+                    "report": "亚太区业务财务总监", 
+                    "location": "上海", 
+                    "positionStart": "2010/01", 
+                    "department": "财务部", 
+                    "jobPosition": "产品控制/交易及资金业务财务经理", 
+                    "jobDesc": "1. 负责北亚太区（中国、韩国、台湾）资金业务（Treasury）及金融交易业务 (Trading，包括债券、外汇、衍生产品、结构性理财产品等）的资产负债及损益财务分析及控制、市场变动监控及评价、流程及风险监控、费用分析及预算管理、资金来源及运作分析，内部定价等 2. 定价测试所有的头寸风险及市场因子，估值评价及调整计算，流动性风险评估及各项准备计提 3. 季度美国会计报表（US GAAP）报送及信息披露 4. 与交易员，市场风险管理部，定价模型部、中台、分行财务和会计制度部门紧密合作共同解决风险、损益及财务问题 5. 萨班斯法案实施，监控整体流程及关键控制点。为内外部审计提供资料及答疑。 6. 评估新会计准则或各种新变化的影响，并清晰告知相关业务部门及高级管理层 7. 项目管理及新产品审核，代表业务线财务部与项目组完成各项目的上线测试及核准 "
+                }, 
+                {
+                    "itemId": 3, 
+                    "positionEnd": "2010/06", 
+                    "subTimeSize": "0 ", 
+                    "report": "中国区CFO", 
+                    "location": "上海", 
+                    "positionStart": "2007/11", 
+                    "department": "财务部", 
+                    "jobPosition": "内地监管报表", 
+                    "jobDesc": "各项内地监管报表（人民银行、银监会、外管局） 总行报表报送季度报税及年度税务汇缴"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "荷兰银行（中国）有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2007.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2006.03", 
+            "incIndustrys": "银行", 
+            "jobDuration": "1年7个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2007/10", 
+                    "location": "上海", 
+                    "positionStart": "2006/03", 
+                    "jobPosition": " 财务分析－助理产品控制经理", 
+                    "jobDesc": "1． 提供管理会计信息报表，如月度经营分析，各项金融产品\\各部门损益情况报送及分析，营业税计算及分摊； 2．根据集团会计制度和不断更新的结构报送财务报表; 3. 评估银行新系统的执行和运营; 4. 分析新产品的风险、收益、帐务处理、总帐系统的记入及报表报送。 5．独立负责荷银证券代表处的所有账务处理、报表报送、税务处理、年中年末审计等。 6．监控每日外汇风险、外汇头寸管理，编制及报送外汇及货币市场交易财务损益报表。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "中国银行（香港）有限公司，简称中国银行（香港）或中银香港，是中银香港（控股）有限公司的最主要资产，也是香港第二大的商业银行集团，在香港分行超过300间。中银香港由12间中国银行的附属银行及机构，于2001年10月1日重组合并而成，并于2002年10月在香港交易所挂牌上市。中银香港是港元的三间发钞银行之一，也是银通柜员机网络及缴费系统创办者之一，以及最大的会员银行。此外，它也是香港人民币交易的指定结算银行。中银香港与其母公司中国银行在法律上为两个独立个体，但在行政管理及保险证券等业务上关系密切不可分割。...", 
+            "incName": "中国银行(香港)有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2006.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2004.07", 
+            "incIndustrys": "银行", 
+            "jobDuration": "1年8个月", 
+            "incEmployee": "5000-10000人", 
+            "incType": "国内上市公司", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2006/03", 
+                    "location": "上海", 
+                    "positionStart": "2004/07", 
+                    "jobPosition": "资金管理与财务分析", 
+                    "jobDesc": "1.财务分析(A.银行月整体经营情况分析;B.月费用超支解释;C.预算和计划) 2.日常资金管理(A.联行拆借;B.调拨头寸;C.存放同业;D.外汇买卖申请及外汇头寸平盘;) 3.外债管理 4.账务处理 5.报表编制(A.人行\\外管报表,包括资产负债表等;B.总行报表)"
+                }
+            ]
+        }
+    ]
+}

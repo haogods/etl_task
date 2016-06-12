@@ -1,0 +1,178 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "陈演娜", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13411794137", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "linachanld@163.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-01-04", 
+        "overSea": "", 
+        "height": "160", 
+        "nowSalary": "", 
+        "cvId": "93506344", 
+        "recentMajorName": "会计学", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳-龙岗区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "运营", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/电子商务", 
+        "nowInc": "深圳市萌爱动漫文化发展有限公司", 
+        "nowHukou": "云浮", 
+        "dob": "1992年1月", 
+        "gender": "女", 
+        "age": "24岁", 
+        "recentSchName": "长江大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "2年工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2013.1", 
+            "certName": "会计上岗证", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（一般），读写（一般）", 
+            "languageName": "英语（一般）"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "ACG情报社", 
+            "proStart": "2013.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "ACG情报社 - 致力传播最新最全的动画、漫画、游戏界情报，方便所有二次元控随时随地了解每天ACG界情报，同时更新动漫高清壁纸、cosplay、动漫周边等各种御宅族必备良品。网站：www.acgbb.com   微信公众平台：acgbbb", 
+            "softwareEnv": "", 
+            "proDuty": "担任项目的负责人，负责该项目的内容、功能策划，运营和管理。目前已完成网站和APP的规划。", 
+            "proAchievement": "", 
+            "proEnd": "2014.8"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "兴趣爱好：\r\n              因公司团队都很喜欢动漫，平时下班都在围在一起补番追新番。\n本人比较喜欢有独特世界观的动漫，看过喜欢的比如《无头骑士异闻录》、《永生之酒》、《Psycho-pass（心理测量者）》、《来自新世界》、《东京残响》、《有顶天家族》、《A/Z》、《绝园的暴风雨》、《目隐都市的演绎者》、《极黑的布伦希尔特》、《漆黑的子弹》、《罪恶王冠》等等。还有少女心系列的《好想告诉你》、《RDG濒危物种少女》、《元气少女缘结神》、《妖狐x仆SS》、《中二病也要谈恋爱》、《领座的怪同学》等等。当然还有感动得不要不要系列的《那天我们仍未知道所看见的花的名字》、《来自风平浪静的明天》、《天体的秩序》、《黑岩射手》、《言叶之庭》等等。\n平时比较喜欢逛动漫情报类的网站，如M站、和邪社、腾迅动漫、178、贪婪大陆（很可惜已经不在了）、中国动漫产业、2ch中文网等等，也会去A站、B站看鬼畜，去一些手游网找一些萌萌的手游来玩，如萌游网、扑家。\n看了挺多关于动漫的网站，觉得做ACG三位一体的情报网站还是挺少的，所以就和公司团队一起创建了ACG情报社。\n\n网站：www.acgbb.com   微信公众平台：acgbbb", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "本人性格严谨细心，为人和睦，能与他人团结合作，具备团队合作精神，服从管理，做事认真谨慎，不怕挫折，具有高度的责任感，学习能力较强，对工作富有热情，乐业敬业，是一个独立性和适应性较强的人。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "会计/审计，互联网/电子商务，网络游戏", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "财务助理/文员，网站营运专员，网店/淘宝运营，其他", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2013.7", 
+            "schName": "长江大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.3", 
+            "majorName": "会计学", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "深圳市萌爱动漫文化发展有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "运营部", 
+            "jobStart": "2015.10", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "2个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "运营", 
+            "jobDesc": "主要是负责嘉宾摊主这方面的：1、嘉宾摊主的信息收集，联系他们并确定和我司合作。2、维护嘉宾摊主的关系。3、计划实施，与嘉宾商量合作，互相推送展会消息", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "深圳市麦点灵动科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.9", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "客服", 
+            "jobStart": "2014.10", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "11个月", 
+            "incEmployee": "少于50人", 
+            "incType": "", 
+            "jobPosition": "客服主管", 
+            "jobDesc": "1.负责公司天猫店客服人员管理工作；处理产品的售后及纠纷的解决。2.负责公司的招聘、面试；办公用品采购。3.负责公司员工的工资结算。4.上级交办的其他相关工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "深圳市后浪无线科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.8", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "运营", 
+            "jobStart": "2013.5", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "1年3个月", 
+            "incEmployee": "少于50人", 
+            "incType": "", 
+            "jobPosition": "助理", 
+            "jobDesc": "因和老板是好友，所以做的东西比较杂比较多。1. 负责公司APP产品（《青果QNGOO》、《ACG情报社》）的运营和推广。2. 负责以上两个产品的微信公众平台的内容编辑。3. 负责《ACG情报社》网站的内容更新。4. 分析整理用户需求，协助产品经理，不断完善产品功能和用户体验。5. 产品经理交代的其它事情。", 
+            "witness": ""
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月03日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM279717441R90250000000", 
+        "recentMajorName": "机械设计制造及其自动化", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "郑州 管城区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "安阳", 
+        "dob": "1990年8月", 
+        "gender": "男", 
+        "age": "26岁", 
+        "recentSchName": "郑州航空工业管理学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "3年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2011.09", 
+            "certName": "全国计算机应用技术证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2010.12", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2011.06", 
+            "certName": "大学英语六级", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力良好", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "机械设备工程师 郑州", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "有较强的独立思考能力和钻研精神，积极上进，责任心强，稳重中不乏创新精神，对工作有热情，具有吃苦耐劳和不畏艰难的精神，虽然经验不多，但是具有较大的发展和锻炼空间。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "大型设备/机电设备/重工业、仪器仪表及工业自动化、汽车/摩托车", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "4001-6000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "机械设备工程师、机械维修/保养、机电工程师、其他", 
+        "expLocations": "郑州", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2013.06", 
+            "schName": "郑州航空工业管理学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.09", 
+            "majorName": "机械设计制造及其自动化", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "河南锦鸿汽车销售服务有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2015.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.08", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "1年2个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "销售顾问", 
+            "jobDesc": "\n完成制定的任务目标，负责整车的销售工作，以及维护与客户之间的良好关系等。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "中华联合财产保险公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2014.07", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.11", 
+            "incIndustrys": "保险", 
+            "jobDuration": "8个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "客户咨询热线/呼叫中心人员", 
+            "jobDesc": "\n向客户介绍保险方面的产品以及解决咨询问答", 
+            "witness": ""
+        }
+    ]
+}

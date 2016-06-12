@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href="http://cdn.amazeui.org/amazeui/2.4.0/css/amazeui.min.css">
+    <link rel = "stylesheet" href="../static/button.css">
+    <title>shared files</title>
+</head>
+<body>
+
+<div class="am-topbar am-u-sm-centered">
+    <h1 class="am-active" style="text-align:center" > 共享文件 </h1>
+</div>
+
+<ul>
+{% for f in files %}
+       <li> <a href="/download/{{f.fname}}" style="text-align: center">{{f.fname}}</a> </li>
+{% endfor %}
+</ul>
+</body>
+</html>

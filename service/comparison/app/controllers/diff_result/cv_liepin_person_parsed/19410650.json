@@ -1,0 +1,176 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "19410650", 
+        "recentMajorName": "会计学", 
+        "nowPoliStatus": "", 
+        "nowAddress": "海口", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "全部行业", 
+        "nowInc": "罗顿发展股份有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "37 岁", 
+        "recentSchName": "长沙电力学院", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "14 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话、粤语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "上市公司审计", 
+            "proStart": "2002.04", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "罗顿发展股份有限公司", 
+            "proDesc": "参加每年上市公司审计，参加季度、年中上市公司审计报告编制", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "2002年取得会计资格上岗证2006年参加了国家会计学院会计新准则培训2009年取得会计师资格证2015年参加省会计优秀人才培训", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "具有较好的专业知识水平；具有较丰富的工作经验；良好的自我控制能力，做事情较仔细有耐心；具有良好的团队合作精神；比较熟悉专业财务软件操作系统等等。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产开发/建筑/建材/工程;会计/审计;能源(电力/水利)", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "财务/审计/税务", 
+        "expLocations": "三亚", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2002.07", 
+            "schName": "长沙电力学院", 
+            "eduTongZhao": "", 
+            "eduStart": "1998.09", 
+            "majorName": "会计学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "是一家综合性上市公司，主要业务为建筑工程及设计以及酒店管理。", 
+            "incName": "罗顿发展股份有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2004.04", 
+            "incIndustrys": "全部行业", 
+            "jobDuration": "11年11个月", 
+            "incEmployee": "500-999人", 
+            "incType": "国内上市公司", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "海口", 
+                    "positionStart": "2004/04", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "1、曾负责公司各项税务的核算及申报2、现主要负责上市公司财务报表的制作及季度、年中财务报告的编制3、协助总监进行各项财务数据的审核、核算及分析,并通过与各分子公司财务上的协调与沟通从而加强集团财务的规范及内部的控制。4、负责整个集团财务系统的维护及支持，通过软件系统的有效使用加强了集团内部风险的控制。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "海南天涯在线网络科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2004.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2002.08", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年8个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2004/04", 
+                    "subTimeSize": "200 ", 
+                    "location": "海口", 
+                    "positionStart": "2002/08", 
+                    "jobPosition": "软件维护实施代表", 
+                    "jobDesc": "主要负责财务软件的售前财务规划支持及售后维护指导服务。"
+                }
+            ]
+        }
+    ]
+}

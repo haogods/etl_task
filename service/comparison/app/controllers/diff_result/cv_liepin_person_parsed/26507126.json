@@ -1,0 +1,192 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "26507126", 
+        "recentMajorName": "网页设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "UI设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "彩鹤科技(深圳)有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "26 岁", 
+        "recentSchName": "湖南省精英职业学校", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "6 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "作品地址：http://tangbin.zcool.com.cn/", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "18.00万（15000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "视觉设计师;平面设计师;网页设计/制作/美工", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2010.06", 
+            "schName": "湖南省精英职业学校", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.06", 
+            "majorName": "网页设计", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "彩鹤科技(深圳)有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.03", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2015/03", 
+                    "jobPosition": "UI设计师", 
+                    "jobDesc": "1、负责公司平台根据营销策划进行整体更新及各项相关的设计，版面与产品陈列布局设计与更新；2、搭建公司官网与在线商城，同时建立手机商城与微信页面，对平台用户体验进行优化与视觉设计的提升3、参与公司主要项目彩主的平台设计，在手机端与电脑端更好的改善用户体验。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "深圳市卓银珠宝有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.06", 
+            "incIndustrys": "工艺品/珠宝/玩具", 
+            "jobDuration": "6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/12", 
+                    "subTimeSize": "3 ", 
+                    "location": "深圳", 
+                    "positionStart": "2014/06", 
+                    "jobPosition": "设计主管", 
+                    "jobDesc": "主要负责公司品牌形象与风格的把握，对公司网店的美术设计、创意工作、整体规划、总体风格设计的把握；对网页设计的构图、色调等都有独到的见解；负责协调下属之间工作上的问题,充分调动下属专业方面的最大创意能力及创意效率；"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "2013-08-25项目管理2013-08-25主板测试工程师2013-08-25库管商务（观澜）2013-08-25PE工程师（东莞）2013-08-25ERP系统管理员2013-08-25软件工程师（数码）2013-08-25网销客服2013-08-25硬件工程师（数码）2013-08-25海外销售（PC机箱电源）2013-08-25网销渠道专员（电商）2013-08-25外贸销售2013-08-25品控经理2013-08-24产品助理地址:深圳市福田中心商务区福华一路88号中心商务大厦13楼联系电话:86-755-82031118传真:86-755-82031199公司服务电话:400-678-5866", 
+            "incName": "深圳市七彩虹科技发展有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.10", 
+            "incIndustrys": "计算机硬件/网络设备", 
+            "jobDuration": "3年8个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/06", 
+                    "subTimeSize": "1 ", 
+                    "location": "深圳", 
+                    "positionStart": "2010/10", 
+                    "jobPosition": "资深设计师", 
+                    "jobDesc": "在电子商务部担任资深设计师，主要负责天猫，京东，拍拍，当当，亚马逊等店铺形象设计，重点产品的模板设计，焦点入口设计;同时负责易迅，苏宁易购，新蛋的专题活动设计。"
+                }
+            ]
+        }
+    ]
+}

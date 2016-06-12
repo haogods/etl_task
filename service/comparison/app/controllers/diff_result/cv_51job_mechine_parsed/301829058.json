@@ -1,0 +1,170 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "谭青松", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "18822867889", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": "447366855@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "年薪6-8万人民币", 
+        "annualIncome": "", 
+        "recentMajorName": "旅游管理", 
+        "nowAddress": "深圳", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "渠道/分销主管", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "快速消费品(食品、饮料、化妆品)", 
+        "nowInc": "葛兰素史克(中国)投资有限公司", 
+        "nowHukou": "", 
+        "dob": "1990年6月", 
+        "gender": "男", 
+        "age": "25岁", 
+        "recentSchName": "张家界航空工业职业技术学校", 
+        "credit": "", 
+        "marriage": "", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "3-4年工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2012.3", 
+            "certName": "全国计算机等级一级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2012.3", 
+            "certName": "驾驶执照", 
+            "certLevel": "C1照"
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2010.8", 
+            "certName": "全国公共英语等级考试 PETS", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（熟练），读写（熟练）", 
+            "languageName": "普通话"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（一般），读写（一般）", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "渠道拓展BigBang", 
+            "proStart": "2015.3", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "6个月开发了深圳大部分cvs系统，如易站，友琪，百里汇等。团队共计三人，管理两名理货员覆盖1200家小店其中800家的理货工作。渠道销量每月稳定在十万左右（高端品牌牙膏）。渠道每月投入费用3000至5000不等。", 
+            "softwareEnv": "", 
+            "proDuty": "1,相关渠道的拜访以及开发2,理货员团队的建设和管理3,经销商相关管理4,日常渠道维护和销售管理5,公司渠道费用投入计划的制定6,各渠道促销活动的安排及谈判", 
+            "proAchievement": "", 
+            "proEnd": "2016.1"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "recommendLetter": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "attachment": "本人", 
+        "socialActie": "", 
+        "workLoc": "深圳", 
+        "jobIncNameFor": "深圳市威雄实业发展有限公司", 
+        "jobPositionFor": "销售主管（深圳）", 
+        "stuPractice": "", 
+        "selfIntro": "充满激情，善于沟通和谈判，具有良好的计划性和协调能力，抗压能力强。"
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "快速消费品(食品、饮料、化妆品)，批发/零售", 
+        "dutyTime": "一周以内", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪6000-7999", 
+        "ignoreIncs": "", 
+        "expJobCates": "销售管理", 
+        "expLocations": "深圳，长沙", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2012.6", 
+            "eduDesc": "", 
+            "schName": "张家界航空工业职业技术学校", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.9", 
+            "majorName": "旅游管理", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "cvId": "cv_51job://301829058", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "葛兰素史克(中国)投资有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "2015年3月至离职负责cvs,cos,mini等渠道拓展，深圳知名连锁便利渠道全部拓展完成，如易站，百里汇等。", 
+            "reportTo": "城市经理", 
+            "jobDepartment": "口腔保健", 
+            "jobStart": "2012.7", 
+            "incIndustrys": "快速消费品(食品、饮料、化妆品)", 
+            "jobDuration": "3年6个月", 
+            "incLocation": "", 
+            "jobPosition": "渠道/分销主管", 
+            "witness": "李建伟", 
+            "incType": "", 
+            "jobDesc": "工作业绩：2015年3月至离职负责cvs,cos,mini等渠道拓展，深圳知名连锁便利渠道全部拓展完成，如易站，百里汇等。", 
+            "jobAchievement": "", 
+            "jobEnd": "2016.1", 
+            "underNum": "2", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "公司合并，岗位被调整，职业上升空间被压缩。", 
+            "positionList": [], 
+            "incEmployee": "10000人以上"
+        }
+    ]
+}

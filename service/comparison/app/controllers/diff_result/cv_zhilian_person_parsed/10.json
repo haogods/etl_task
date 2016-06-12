@@ -1,0 +1,316 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "30个月", 
+            "skillName": "壁挂炉故障维修排除", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "20个月", 
+            "skillName": "供热项目方案设计，节能技术的应用", 
+            "skillLevel": "良好"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月02日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM637394243R90250000000", 
+        "recentMajorName": "金融学", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "北京 朝阳区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "北京", 
+        "dob": "1988年7月", 
+        "gender": "男", 
+        "age": "28岁", 
+        "recentSchName": "北京科技大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "6年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2012.01", 
+            "certName": "全国计算机等级一级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2012.07", 
+            "certName": "驾驶执照", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2016.01", 
+            "certName": "CAD中级证书", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "BAXI 北京办事处", 
+            "trainDesc": "", 
+            "trainAgency": "BAXI培训", 
+            "trainCert": "", 
+            "trainStart": "2012.04", 
+            "trainTitle": "BAXI壁挂炉的技术优势及故障排除", 
+            "trainEnd": "2012.05"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "福兴包装公司", 
+            "proStart": "2015.08", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "此项目为国内一线包装公司供热项目，办公楼供热，末端为风机盘管，供热面积达28000平米，此项目设计使用的是进口冷凝锅炉，目前项目运行稳定，节能效果明显，客户对所提供的技术服务支持表示满意。", 
+            "softwareEnv": "", 
+            "proDuty": "从初期当地的渠道开发拓展，经销商建立联系，全程协助支持经销商的工作（包含锅炉选型、辅机），看现场，协助经销商与甲方沟通技术问题，最后促成有效的合同订单。", 
+            "proAchievement": "", 
+            "proEnd": "2015.11"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "呼和浩特林业局", 
+            "proStart": "2015.04", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "项目供热面积10000平米，办公楼供热，使用2台进口全预混冷凝锅炉，节能效果显著，比常规锅炉供热节能 百分之25。", 
+            "softwareEnv": "", 
+            "proDuty": "开发拓展呼和浩特当地渠道网络，与经销商建立合作伙伴关系，全程支持协助经销商的工作(供热方案，技术讲解等)，帮助经销商获得利益，促成有效的合同订单！", 
+            "proAchievement": "", 
+            "proEnd": "2015.10"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "张家口伊人日化公司", 
+            "proStart": "2014.09", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目为日化公司项目，供热面积达到52000平方米，有厂房，办公，宿舍，利用分时分区，模块供热节能技术为突破口，有效的打消甲方的节能疑虑，为经销商促成一笔将近200万的合同订单。", 
+            "softwareEnv": "", 
+            "proDuty": "从初期当地的渠道开发拓展，经销商建立联系，全程协助支持经销商的工作（包含锅炉选型、辅机），看现场，协助经销商与甲方沟通技术问题，最后促成有效的合同订单。", 
+            "proAchievement": "", 
+            "proEnd": "2015.10"
+        }, 
+        {
+            "itemId": "4", 
+            "hardwareEnv": "", 
+            "proName": "呼和浩特彩票中心", 
+            "proStart": "2013.07", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目供暖面积有2万平米，建筑办公楼，供热空间较大，共计10层，锅炉房在地下室，项目设计使用3台铸铁锅炉，项目目前运行状况良好，多次受到甲方表扬。", 
+            "softwareEnv": "", 
+            "proDuty": "从初期内蒙的渠道开发拓展，经销商建立联系，拜访，相互了解，合作，全程协助支持经销商的工作（包含锅炉选型、辅机选型），通过该项目的合作，进一步取得经销商的信任，最后成为亲密的朋友合作伙伴。", 
+            "proAchievement": "", 
+            "proEnd": "2013.11"
+        }, 
+        {
+            "itemId": "5", 
+            "hardwareEnv": "", 
+            "proName": "三间房回迁安置房", 
+            "proStart": "2012.05", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "此项目及由京通天泰房地产有限公司开发，项目总额达到3000多万，分3个地块，有3300多户，安装进口锅炉。", 
+            "softwareEnv": "", 
+            "proDuty": "担任该工程项目经理，负责项目的壁挂炉定位、安装、组织调试等工作，对项目的成本、质量、进度及安全进行控制与管理，对外沟通、协调与处理工程中出现的各类问题事宜。", 
+            "proAchievement": "", 
+            "proEnd": "2013.03"
+        }, 
+        {
+            "itemId": "6", 
+            "hardwareEnv": "", 
+            "proName": "百旺杏林湾", 
+            "proStart": "2011.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "此项目由德诚置地开发有限公司开发的商品住房，安装的是进口壁挂炉，该项目分9个组团，一个规模不小的项目。", 
+            "softwareEnv": "", 
+            "proDuty": "担任该工程项目经理，负责项目的壁挂炉定位、安装、组织调试等工作，对项目的成本、质量、进度及安全进行控制与管理，对外沟通、协调与处理工程中出现的各类问题事宜。", 
+            "proAchievement": "", 
+            "proEnd": "2013.03"
+        }, 
+        {
+            "itemId": "7", 
+            "hardwareEnv": "", 
+            "proName": "西北旺镇新村B3地块", 
+            "proStart": "2011.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "由北京德诚兴业房地产开发的项目，该项目有440台壁挂炉。", 
+            "softwareEnv": "", 
+            "proDuty": "担任该工程项目经理，负责项目的壁挂炉定位、安装、组织调试等工作，对项目的成本、质量、进度及安全进行控制与管理，对外沟通、协调与处理工程中出现的各类问题事宜。", 
+            "proAchievement": "", 
+            "proEnd": "2012.02"
+        }, 
+        {
+            "itemId": "8", 
+            "hardwareEnv": "", 
+            "proName": "翠城E区D区", 
+            "proStart": "2010.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "翠城E区D区由北京住总房地产开发有限公司，由住3/住4/住总总承包部承建，安装近10000台壁挂炉，项目合同额达到四千多万，是市政府重点经济适用房回迁项目。", 
+            "softwareEnv": "", 
+            "proDuty": "担任该工程项目经理，负责项目的壁挂炉定位、安装、组织调试等工作，对项目的成本、质量、进度及安全进行控制与管理，对外沟通、协调与处理工程中出现的各类问题事宜。", 
+            "proAchievement": "", 
+            "proEnd": "2013.03"
+        }, 
+        {
+            "itemId": "9", 
+            "hardwareEnv": "", 
+            "proName": "首开畅心园", 
+            "proStart": "2010.05", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "首开畅心园是首开集团开发的项目，由北辰集团，住总集团，怀建集团共同承建的，该项目共计2440户，其中有2007户是经济适用房，440户是廉租房，项目壁挂炉合同总额达到一千多万，是首开集团比较重视的民生项目。", 
+            "softwareEnv": "", 
+            "proDuty": "担任该工程项目经理，负责项目的壁挂炉定位、安装、组织调试等工作，对项目的成本、质量、进度及安全进行控制与管理，对外沟通、协调与处理工程中出现的各类问题事宜。", 
+            "proAchievement": "", 
+            "proEnd": "2010.10"
+        }
+    ], 
+    "others": {
+        "otherHobby": "个人比较运动类的。例如游泳，打羽毛球，登山，旅游，篮球。大学期间曾人经代表系参加篮球比赛，获得第三名成绩。", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "销售经理+客户经理+渠道/分销经理/主管+区域销售经理/主管...", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "从事销售及项目工程管理工作6年，对铸铁锅炉，冷凝炉，壁挂炉，钢制锅炉，蒸汽锅炉，电锅炉有深入的了解，曾负责过的项目工程款总额超过三千万，可独立完成供热项目锅炉选型及方案设计等工作内容。对项目管理和销售有丰富的经验，可熟练操作CAD画图软件，对新环境适应能力强，学习新事物快，动手能力强，能吃苦，可出差。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "大型设备/机电设备/重工业", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "6001-8000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "销售经理、客户经理、渠道/分销经理/主管、区域销售经理/主管、大客户销售经理", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2015.08", 
+            "schName": "北京科技大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2013.03", 
+            "majorName": "金融学", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2010.07", 
+            "schName": "北京经济管理职业学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.09", 
+            "majorName": "机械设计制造及其自动化", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "北京中力创业机电设备有限公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2016.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.08", 
+            "incIndustrys": "大型设备/机电设备/重工业", 
+            "jobDuration": "2年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "区域销售经理/主管", 
+            "jobDesc": "\n1.区域市场内经销商的管理，产品技术支持，业务指导与市场监督； 2.渠道合作伙伴开发与拓展，建立稳定、高质量的销售渠道，确保公司产品销售通畅；3.带领并协助团队开展市场营销，完成渠道销售目标； 负责所辖区域的产品、市场推广；4.负责组织资源为经销商提供技术与方案支持、协助其进行项目公关及投标。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "北京汇通汇利技术开发有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2013.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.03", 
+            "incIndustrys": "大型设备/机电设备/重工业", 
+            "jobDuration": "3年1个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "项目经理/项目主管", 
+            "jobDesc": "\n主要负责工程项目壁挂炉的选型、图纸设计以及工程预算，壁挂炉成品及配件的申请，到件时间的安排，工程文件的处理及准备工作，参加工程会议，总包的配合，监理的配合，管理分包，对工期、施工期间的工程质量的监督，调试验收，调试期间的锅炉维修，协调总包、监理事宜，配合监理验收工作的进行，直至将工程移交给甲方。", 
+            "witness": ""
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "29601846", 
+        "recentMajorName": "软件工程", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "java开发工程师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "北京京东世纪贸易有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "24 岁", 
+        "recentSchName": "天津大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "2 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语(CET6、简单沟通)、普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "大学英语六级证书；曾荣获院三好学生并被给予证书及奖励；基于WindowsPhone的游戏出装介绍app，获得校区选拔赛二等奖；", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "具有较扎实的专业知识，两年的开发工作也让我积累了许多的编程实践经验；本人性格开朗，稳重，待人热情、真诚\t。工作认真负责，积极主动，能够承受压力。学习能力强，团队意识好，能迅速适应新的环境。希望我的努力能让您满意。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "IT服务/系统集成", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "移动开发工程师", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2014.07", 
+            "schName": "天津大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.09", 
+            "majorName": "软件工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "北京京东世纪贸易有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.10", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2015/10", 
+                    "jobPosition": "java开发工程师", 
+                    "jobDesc": "app JDRU后台接口的开发和维护;cms app管理系统开发和维护  pc/app营销活动 发券活动等"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "康佳集团股份有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.07", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年2个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/09", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2014/07", 
+                    "jobPosition": "java开发工程师", 
+                    "jobDesc": "负责康佳电视平台以及研发中心各种运营系统、智能办公系统以及数据报表系统的开发和维护"
+                }
+            ]
+        }
+    ]
+}

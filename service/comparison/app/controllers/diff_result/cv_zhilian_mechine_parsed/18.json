@@ -1,0 +1,194 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "96个月", 
+            "skillName": "计算机维修维护", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月03日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "机电一体化", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "松原", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "中专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "松原", 
+        "dob": "1987年4月", 
+        "gender": "男", 
+        "age": "29岁", 
+        "recentSchName": "青岛经济开发区职业中等专业学校", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "11年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.10", 
+            "certName": "C1驾驶证", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "东方驾校", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "东方驾校", 
+            "trainCert": "C1驾驶证", 
+            "trainStart": "2014.08", 
+            "trainTitle": "C1驾驶证", 
+            "trainEnd": "2014.10"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "东泰培训", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "东泰培训", 
+            "trainCert": "", 
+            "trainStart": "2010.04", 
+            "trainTitle": "计算机", 
+            "trainEnd": "2011.04"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "音乐发烧友,DIY,", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "售后服务、电器电路维修，机器维修，电焊维修", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "工作认真，团队协作能力，执行能力强，有过CO2气体保护焊，钣金维修，电路检修，电瓶叉车，油叉维修改装工作经验，电脑维修，音响改装制作，C1驾驶证，动手能力强，", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "计算机硬件、汽车/摩托车、加工制造（原料加工/模具）、仪器仪表及工业自动化、电气/电力/水利", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "4001-6000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "汽车维修/保养、售前/售后技术支持工程师、电子/电器维修/保养、汽车定损/车险理赔、生产主管/督导/组长", 
+        "expLocations": "松原", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2005.07", 
+            "eduDesc": "", 
+            "schName": "青岛经济开发区职业中等专业学校", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "机电一体化", 
+            "eduDiploma": "中专"
+        }
+    ], 
+    "cvId": "cv_zhilian://18", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "青岛小松叉车售后", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.10", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "3年7个月", 
+            "incLocation": "", 
+            "jobPosition": "电瓶叉车维修/保养/", 
+            "witness": "", 
+            "incType": "代表处", 
+            "jobDesc": "\n主要叉车（电瓶叉车，油叉）维修，保养，驾驶，改装等。涉及电焊，机械维修，液压系统，钣金，电路检修改装，系统维护检测，钳工等工种。", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2013.05", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "4001-6000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "20人以下"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "青岛腾龙汽配有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2005.10", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "3年6个月", 
+            "incLocation": "", 
+            "jobPosition": "售前/售后技术支持管理", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "\n公司给上汽通用五菱做配套生产，主要负责售后维修，现场协调，信息反馈", 
+            "directUnder": "", 
+            "jobAchievement": "", 
+            "jobEnd": "2009.04", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "4001-6000元/月", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }
+    ]
+}

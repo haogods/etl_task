@@ -1,0 +1,638 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">农/林/牧/渔业 4年 国外</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">农/林/牧/渔业、市场、高级管理</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年06月30日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM103057855R90250001000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://my.zhaopin.com/pic/2013/5/13/5C08157C571B4254AC00930622606F23.jpg">
+        <img alt="" src="http://my.zhaopin.com/pic/2013/5/13/5C08157C571B4254AC00930622606F23.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年7月)&nbsp;&nbsp;&nbsp;&nbsp;6年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+        <br />
+        现居住地：银川  | 群众 | 有海外工作/学习经验
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>国外</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>25000元/月以上</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>农/林/牧/渔业、市场、高级管理</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>农/林/牧/渔、能源/矿产/采掘/冶炼</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">职业经理人</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2013.10 - 至今&nbsp;&nbsp;保乐力加（宁夏）葡萄酒酿造有限公司&nbsp;&nbsp;（2年2个月）</h2>
+            <h5>葡萄供应经理 | 15000-25000元/月</h5>
+            <div class="resume-preview-dl">
+                农/林/牧/渔 | 企业性质：上市公司 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>负责公司自有葡萄园的运营，及外购葡萄的管理。葡萄园改建项目的管理。<br /> 管理公司自有葡萄园6000亩，每年负责对外采购1000吨左右酿酒葡萄。<br />2100万葡萄园改建项目的管理<br />管理葡萄生产基地内 600人 生态劳务移民社区： 管理移民日常生活，社区基础设施建设，争取专项资金，协调与对口政府部门的关系。截至到目前，引进移民项目资金50万元，葡萄园改建项目资金987万元<br />制定葡萄生产质量 安全 规定<br />协助和执行生产技术革新项目<br />确保生产符合所有环境安全法规<br />葡萄园团队管理（培训，人员调整，制定SOP， 与总部Bestpractice 无缝衔接）<br />农机设备的采购<br />协调与政府的关系，了解并争取政府补助。<br />农业创新技术开发</td>
+                    </tr>
+                </table>
+                    <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">管理经验：</td>
+                            <td>汇报对象：副总裁 | 下属人数：79人<br />业绩描述：4500亩葡萄园现代化重建项目<br />400亩改建葡萄园，获得宁夏优秀葡萄园荣誉，由该葡萄园生产的葡萄酒，获得宁夏葡萄酒金奖，获得政府50万奖励。</td>
+                        </tr>
+                    </table>   
+            </div>    
+            <h2>2009.06 - 2013.10&nbsp;&nbsp;保乐力加 澳洲&nbsp;&nbsp;（4年4个月）</h2>
+            <h5>农艺师 | 15000-25000元/月</h5>
+            <div class="resume-preview-dl">
+                农/林/牧/渔 | 企业性质：上市公司 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>制定葡萄生产质量 安全 规定<br />协助和执行生产技术革新项目<br />确保生产符合所有环境安全法规<br />管理公司与种植户和供应商之间的关系<br />制定葡萄园管理计划（1000亩葡萄园）<br />审计各种化学品使用规范，确保化学品使用符合环境安全和质量标准<br />参与公司葡萄园的收购项目（ 制定收购标准， 审查目标葡萄园的质量， 核算管理成本）</td>
+                    </tr>
+                </table>
+                    <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">管理经验：</td>
+                            <td>汇报对象：部门主管 | 下属人数：3人 | 直接下属：普通员工 | 年收入：30万/年<br />业绩描述：管理葡萄园<br />离职原因：1 寻求更高的发展空间 2 寻求中资企业</td>
+                        </tr>
+                    </table>   
+                    <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">管理经验：</td>
+                            <td>汇报对象：部门经理 | 下属人数：1人<br />业绩描述：协助全国种植师负责杰卡斯葡萄园种植技术管理，及革新项目的开展。负责澳洲Murray Darling 产区外购葡萄，及种植户的管理。<br />业绩：管理500亩南澳巴罗莎葡萄园种植技术，该葡萄园主要生产杰卡斯高端品牌，其中包括杰卡斯珍藏希拉，雨果系列。革新该葡萄园的滴灌系统。向外购种植户推广先进的种植技术。协助开发grape link 在线管理系统，该系统已被包括保乐力加，财富酒业（旗下有奔富品牌）等8家酒业公司使用。实施100万澳元的葡萄园生态系统重建项目。争取并实施30万澳元的葡萄园减少碳排放项目。该项目与联邦政府农业部合作。实施40万澳元的葡萄园遥感测量项目（如州政府合作）该项目，被澳洲葡萄种植期刊作为革新案例引用。<br /></td>
+                        </tr>
+                    </table>   
+            </div>    
+            <h2>2006.01 - 2006.03&nbsp;&nbsp;华北制药&nbsp;&nbsp;（2个月）</h2>
+            <h5>销售 | 销售代表 | 2001-4000元/月</h5>
+            <div class="resume-preview-dl">
+                医药/生物工程 | 企业性质：国企
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>维生素产品的销售</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2013.10 - 至今&nbsp;&nbsp;劳务生态移民</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>管理项目</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>管理600名劳务生态移民<br />管理生态移民生活区<br />总体负责生活区内基础设施建设，维护<br />争取项目资金<br />管理资金预算<br />协调与对口政府部门的关系，引进项目资金50万元</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.05 - 2013.07&nbsp;&nbsp;减少碳排放项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>制定项目书，和公司财务部门一起制定项目预算。负责向政府申请项目补助（30万澳元）。项目实施后，负责泵站升级部分</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>通过技术革新，减少葡萄园能源消耗，种植原著职务，增加排氧量，已达到减少排放指标的目的。设计机械改造，泵站升级，景观规划。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.01 - 2013.04&nbsp;&nbsp;葡萄园遥感项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>预算制定，各阶段项目成本分析，并向相关部门汇报进度。数据整理，以及遥感设备采购。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>根据红外热能技术与遥感技术相结合，精确预估葡萄园产量，精确定点区域采摘葡萄，以及精确进行病害管理</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.10 - 2014.04&nbsp;&nbsp;武汉钢铁澳洲分公司葡萄酒项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>提供咨询，准备相关文件，通过各类审批</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>帮助武钢澳洲葡萄酒项目，葡萄园收购目标的选择和审查。提供收购的可行性建议和报告。确定收购目标。准备收购审批所需手续。收购后向其日常管理，提供咨询。包括联系原酒的购买销售，联系酒厂就行对葡萄加工酿造。联系包材供应商。帮助其品牌商标的澳洲注册。办理各类出口检验检疫文件。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.03 - 2012.12&nbsp;&nbsp;葡萄园生态系统重建项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>协调公司各部门与阿德莱德大学的工作，负责收集和分析信息。向公司汇报各阶段进程，并确保每阶段工程能够按时实施。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>澳洲联邦政府获批项目，如阿德莱德大学合作，对公司葡萄园及附近水文，和原始植被信息收集调查，恢复周边生态环境，尽量在不影响生产的情况下，恢复当地原始生态环境，将公司葡萄园纳入南澳政府规定的原始生态圈范围内。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.01 - 2012.09&nbsp;&nbsp;澳洲 巴罗莎峡谷葡萄园收购项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>审查收购项目的技术标准，核算收购目标的管理成本， 协助制定对收购目标收购后的管理战略。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>收购1200亩澳洲巴罗莎葡萄园，为公司未来的战略发展获取资源优势。主要品种为希拉。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.01 - 2013.01&nbsp;&nbsp;外购葡萄分级定价，农户管理系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责确保澳大利亚Murray Darling 产区内农户，按照公司要求准确使用新的的管理系统。和酿酒部门合作，对负责产区内的葡萄按照葡萄酒产品等级重新归类，并制定负责产区内价格和5年价格规划，及供应规划。并确保农户按新的价格签订供应合同。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>开发新的农户管理系统，并在规定时间内向所有外购农户推广。变革原有的葡萄分级定价系统，将葡萄等级与葡萄酒产品等级挂钩。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2011.12 - 至今&nbsp;&nbsp;6000亩葡萄园重建项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>总体管理项目 确保项目按时间进行</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>中国公司目前有6000亩老式葡萄园，改建包括，引进进口苗木翻种新的葡萄园，改变现有葡萄架型模式，已适用未来机械化操作。重新规划现有葡萄园，引进安装滴灌自动化灌溉系统。引进最新科技的机械设备，减少葡萄园人工投入。设计葡萄园自动化管理系统。新型苗圃基地建设</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2011.09 - 2012.09&nbsp;&nbsp;葡萄园规范管理VS葡萄酒质量分级</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>协助生产总监制定关于葡萄园管理的各种技术指标<br />管理成本控制<br /><br /></td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>使葡萄园管理与所生产的葡萄质量挂钩<br />规范化葡萄园管理<br />根据葡萄酒质量要求制定所对应的葡萄园管理办法， 并使其规范化， 统一化<br /></td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2006.07 - 2009.07&nbsp;&nbsp;The university of Adelaide&nbsp;&nbsp;农学&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">培训经历</h3>
+            <h2>2013.10 - 2013.11&nbsp;&nbsp;Budget Managemnet</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>The University of South Australia</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2012.10 - 2012.11&nbsp;&nbsp;Leadership Insights</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>People Professional</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2012.10 - 2012.10&nbsp;&nbsp;Negotiations Skill</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>People Professional</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2012.09 - 2013.12&nbsp;&nbsp;日语初级</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>TAFE SA</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2011.02 - 2011.02&nbsp;&nbsp;People Management</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>PeopleProfessional</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2009.07 - 2009.07&nbsp;&nbsp;wine Tasting</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>Orlando Wine ——Pernod Ricard</td>
+                        </tr>   
+                </table>
+            </div> 
+            <h2>2009.06 - 2009.06&nbsp;&nbsp;HSE Training</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>Work &amp; Fit</td>
+                        </tr>   
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">证书</h3>
+            <h2>2012.05&nbsp;&nbsp;澳洲葡萄种植师协会 会员</h2>
+    </div>
+
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+英语：读写能力精通 | 听说能力精通<br />
+        </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">专业技能</h3>
+        <div class="resume-preview-dl">
+葡萄园管理，农业基地管理：精通 | 24个月<br />
+日语：一般 | 2个月<br />
+成本控制：精通 | 24个月<br />
+项目管理：良好 | 12个月<br />
+居民社区建设与管理：熟练 | 24个月<br />
+        </div>
+    </div>
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=610305785&amp;Timestamp=635871578473488818&amp;Callback=&amp;signature=755e00503edea91ba69c9039e618d928&amp;comid=75144724&amp;comname=长沙思美电子科技有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="穆晨晖" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="186004805" />
+    <input type="hidden" name="extId" id="extId" value="JM103057855R90250001000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="农/林/牧/渔业 4年 国外" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="610305785" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="长沙思美电子科技有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="长沙思美电子科技有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="75144724" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656561310" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="75144724" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM103057855R90250001000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

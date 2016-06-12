@@ -1,0 +1,196 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "9.60万（8000元/月 * 12个月）", 
+        "cvId": "36824880", 
+        "recentMajorName": "广告数码", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "UI设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "待业", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "26 岁", 
+        "recentSchName": "广州大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "4 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "我是一个活泼开朗，乐观向上的人，对待工作认真负责，勤奋好学，会不断完善自己的不足之处，在未来，希望能在贵公司贡献一份自己的力量", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "未填", 
+        "ignoreIncs": "", 
+        "expJobCates": "其他", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.06", 
+            "schName": "广州大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "广告数码", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "康美药业股份有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.05", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.11", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/05", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2013/11", 
+                    "department": "设计部", 
+                    "jobPosition": "UI设计师", 
+                    "jobDesc": "主要负责移动端界面，还是兼职写前端一些简单的页面"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "深圳移联网络", 
+            "jobSalary": "", 
+            "jobEnd": "2013.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.04", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "6个月", 
+            "incEmployee": "50-99人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2013/10", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2013/04", 
+                    "department": "技术部", 
+                    "jobPosition": "UI设计师", 
+                    "jobDesc": "主要负责手机app的界面"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "深圳移商网股份有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.11", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年4个月", 
+            "incEmployee": "100-499人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "主要负责手机app的界面设计以及一些公司宣传的海报", 
+                    "positionEnd": "2013/03", 
+                    "subTimeSize": "0 ", 
+                    "report": "组长", 
+                    "location": "深圳", 
+                    "positionStart": "2011/11", 
+                    "department": "技术部", 
+                    "jobPosition": "UI设计师"
+                }
+            ]
+        }
+    ]
+}

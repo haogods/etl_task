@@ -1,0 +1,235 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "60月", 
+            "skillName": "ms excel", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "60月", 
+            "skillName": "ms powerpoint", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "3", 
+            "skillDuration": "60月", 
+            "skillName": "outlook", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "李涛", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13632835294", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": "306752893@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2015-12-08", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "163", 
+        "nowSalary": "年薪8-10万人民币", 
+        "annualIncome": "", 
+        "recentMajorName": "工商管理", 
+        "nowAddress": "深圳-龙岗区", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "销售经理", 
+        "nowAddressDetail": "深圳布吉康桥花园", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "批发/零售", 
+        "nowInc": "深圳市千色店商业连销有限公司", 
+        "nowHukou": "怀化", 
+        "dob": "1987年9月", 
+        "gender": "女", 
+        "age": "28岁", 
+        "recentSchName": "中央广播电视大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "10年以上工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "北京本来工作室", 
+            "trainCert": "", 
+            "trainStart": "2015.3", 
+            "trainTitle": "销售合伙人项目", 
+            "trainEnd": "2015.4"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "香港冠天高企业管理咨询顾问有限公司", 
+            "trainCert": "", 
+            "trainStart": "2010.3", 
+            "trainTitle": "优秀教练", 
+            "trainEnd": "2010.9"
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "宝洁公司培训顾问", 
+            "trainCert": "", 
+            "trainStart": "2008.8", 
+            "trainTitle": "CUCCI、BOSS、ANNASUI、BUEBERRY等香水", 
+            "trainEnd": "2008.8"
+        }, 
+        {
+            "itemId": "4", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "", 
+            "trainAgency": "德国高级彩妆顾问", 
+            "trainCert": "", 
+            "trainStart": "2007.4", 
+            "trainTitle": "结业证书", 
+            "trainEnd": "2007.5"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（熟练），读写（熟练）", 
+            "languageName": "粤语"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（精通），读写（精通）", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "优势一：表达和学习及协调工作能力强，具备一定的抗压能力。 优势二：性格开朗，乐于沟通。 优势三：具备丰富的零售营运经验，尤其擅长化妆品/时尚商品的销售技巧和管理。", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "服装/纺织/皮革，批发/零售，快速消费品(食品、饮料、化妆品)，美容/保健", 
+        "dutyTime": "一个月内", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪8000-9999", 
+        "ignoreIncs": "", 
+        "expJobCates": "销售经理，培训督导，卖场经理/店长，培训讲师，销售主管", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2011.7", 
+            "eduDesc": "", 
+            "schName": "中央广播电视大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.7", 
+            "majorName": "工商管理", 
+            "eduDiploma": "大专"
+        }, 
+        {
+            "itemId": "2", 
+            "eduType": "", 
+            "eduEnd": "2005.7", 
+            "eduDesc": "", 
+            "schName": "湖南怀化女子职业学校", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.6", 
+            "majorName": "计算机科学与技术", 
+            "eduDiploma": "中专"
+        }
+    ], 
+    "cvId": "cv_51job://78374235", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "深圳市千色店商业连销有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "营运销售部", 
+            "jobStart": "2006.9", 
+            "incIndustrys": "批发/零售", 
+            "jobDuration": "9年6个月", 
+            "incLocation": "", 
+            "jobPosition": "销售经理", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "一直在中高端化妆品领域，从事销售及营运管理长达10年之久，从门店经理——营运督导—培训讲师—销售主管—销售经理积累了丰富的终端管理及中高端时尚商品的运营经验，具备良好的沟通表达及团队协作能力，先后负责（店面管理、商品管理、营运管理，人员培训和营销管理等），具体较强的门店优秀管理经验复制能力，一直担任公司的管理教练。并多次被评为优秀教练曾带领的团队业绩一直处于上升趋势，年增长率均达20%以上，培养了三十多名潜力管理优秀人才及优秀员工，同时具备零售业先进的管理理念，可以为贵司带来优质的终端服务体系。以下是在千色店工作具体经历：1、2006、9—2007、2  深圳梅林分店 资深商品顾问兼副店经理2、2007、2—2008、2惠州港惠分店 一星店经理3、2008、3—2010、4  深圳凤凰分店 三星店经理4、2010、5—2011、10   深圳区域营运督导、培训讲师5、2011、11—2015、5   营运中心销售部营运主管6、2015、5 —至今 营运中心销售部深圳西区区域经理", 
+            "jobAchievement": "", 
+            "jobEnd": "至今", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "500-1000人"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "深圳市华洋忆可恩贸易有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "销售部", 
+            "jobStart": "2005.4", 
+            "incIndustrys": "快速消费品(食品、饮料、化妆品)", 
+            "jobDuration": "1年4个月", 
+            "incLocation": "", 
+            "jobPosition": "营运督导", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "主要负责深圳区域25家门店韩国忆可恩品牌的销售工作，管辖期间所属门店的销售目标完成率达100%以上，业绩同期增长25%以上，得到公司领导的一致好评及嘉奖，于2006年3月份，因表现突出转做营运督导，在做督导的半年中，协助销售经理对全国近50家店铺进行商品的运营管理，使全年销售任务顺利完成，并培养了12名销售业务骨干，保持销售代表流失率控制在2%以内。", 
+            "jobAchievement": "", 
+            "jobEnd": "2006.8", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "150-500人"
+        }
+    ]
+}

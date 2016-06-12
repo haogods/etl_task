@@ -1,0 +1,695 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">项目实施顾问</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">咨询/顾问/调研/数据分析、客服/售前/售后技术支持</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年08月20日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JR026818092R90000002000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://my.zhaopin.com/pic/2007/5/30/23144DDAD63A4D6E8493A1FA808598CF.jpg">
+        <img alt="" src="http://my.zhaopin.com/pic/2007/5/30/23144DDAD63A4D6E8493A1FA808598CF.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年3月)&nbsp;&nbsp;&nbsp;&nbsp;8年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+        <br />
+        现居住地：西宁 | 户口：西宁 | 无党派人士
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>西宁、海东</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>4001-6000元/月</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>咨询/顾问/调研/数据分析、客服/售前/售后技术支持</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>计算机软件、IT服务(系统/数据/维护)、互联网/电子商务、电气/电力/水利</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">性格开朗,能吃苦，适应能力强,独立性强，团队意识强，善于沟通与管理! <br />严格要求自己做一名合格的项目实施顾问与管理人员，期望能够长期从事项目实施顾问行业！</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2014.10 - 至今&nbsp;&nbsp;西部矿业-青科创通信息技术有限公司&nbsp;&nbsp;（1年2个月）</h2>
+            <h5>ERP技术/开发应用 | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                IT服务(系统/数据/维护) | 企业性质：合资 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>请详细描述您的职责范围、工作任务以及取得的成绩等。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2013.03 - 2014.10&nbsp;&nbsp;成都纬远科技有限公司&nbsp;&nbsp;（1年7个月）</h2>
+            <h5>专业顾问 | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                电气/电力/水利 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>启明星ERP项目前期调研工作：实施顾问，负责内容包括1.项目前期业务调研、系统蓝图规划(初)编写、系统功能架构需求调研、系统差异化调研、系统方案编写(实施方案、差异化解决方案、系统接入方案、实施计划、项目风险管控方案等等)。<br />启明星运营监测(控)系统项目的实施顾问，负责内容包括1.项目组内所有验收文档的整理、编写；2.负责财务接入数据的整理。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.07 - 2013.03&nbsp;&nbsp;远光软件股份有限公司&nbsp;&nbsp;（3年8个月）</h2>
+            <h5>青海西宁办事处 | 专业顾问 | 2001-4000元/月</h5>
+            <div class="resume-preview-dl">
+                计算机软件 | 企业性质：民营 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、2009-2010年：参加国家电网SG186工程-财务管控项目一期实施，负责内容为青海省电力公司费用报销项目实施，并为主负责人，负责内容：项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施；团队人数为35人； <br />2、2010-2011年：参加国家电网SG186工程-财务管控项目二期实施，负责内容：上半年负责青海省电力公司-三新农电公司费用报销、预算管理、原始凭证电子化管理系统项目实施，负责内容：三新农电公司前期项目调研、立项规划、项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施；下半年负责实施青海电力公司电价、预算、资金项目实施，并为主负责人，负责内容：项目调研、立项规划、项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施，并负责上线、上线后的具体工作；团队人数23人； <br />3、2012至今：参加中电投所属公司青海黄河水电公司费用报销项目实施，负责内容：黄河水电公司费用报销、工程项目支付售前支持、项目调研、项目筹划、项目实施、项目实施主要文档编写。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.10 - 2009.06&nbsp;&nbsp;成都长益西联软件公司&nbsp;&nbsp;（1年8个月）</h2>
+            <h5>项目实施部 | 售前/售后技术支持工程师 | 1000-2000元/月</h5>
+            <div class="resume-preview-dl">
+                计算机软件 | 企业性质：民营 | 规模：500-999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>2007年10月至2008年5月：参加上海联华超市系统实施工作，主要负责：项目实施售前客户沟通、项目实施前期调研、项目实施 <br />2008年6月至2009年8月：负责上海联华超市系统客户支持、顾问经理，主要负责：业务操作支持顾问</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2013.10 - 至今&nbsp;&nbsp;西部矿业集团ERP项目实施</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>SAP BPC 10</td>
+                        </tr>  
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责集团预算项目实施</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>本项目从2013年10月份实施至6月份全面上线，本人主要负责协助 SAP 原厂顾问实施集团14家单位全面预算系统实施，其产品为SAP BPC系统。从项目立项、调研、蓝图设计、蓝图系统落地、系统测试、系统链条测试、系统数据切换、系统正式上线到系统运维工作，全面参与到了此次实施工作中。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.01 - 2013.03&nbsp;&nbsp;移动资产条码盘点项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责移动资产条码盘点项目前期业务调研、客户需求沟通、需求方案编写、解决方案编写、测试系统搭建。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>本项目为解决资产实物管理，通过与财务系统中资产信息的联动，有效解决了资产实物部门与财务部门各管一套账的现象，实现以资产实物管理为核心，资产价值管理以实物管理为主的“背靠背”管理模式。内容包含：实物全生命周期管理，实现实物信息系统在线监控、实物盘点、实物盘点分析。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.04 - 2012.12&nbsp;&nbsp;中电投黄河上游水电开发有限责任公司-财务管控项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>参加中电投所属公司青海黄河水电公司费用报销项目实施，负责内容：黄河水电公司费用报销、工程项目支付售前支持、项目调研、项目筹划、项目实施、项目实施主要文档编写。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>黄河上游水电开发有限责任公司企业规模不断扩大，业务种类不断增加，业务需求不断扩大，职工人数不断增多，费用报销业务发生频繁，且费用归口不统一，黄河水电公司机关和本部费用分开核算(一套班子管理两个单位)，多家分、子公司并存等特性，现有的财务系统已经不能满足现有的业务需求，为提供财务业务工作效率和企业财务信息化管理管理水平。所以建设一套信息化系统，系统内容包含业务报销、账务处理、预算控制。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2010.12 - 2012.03&nbsp;&nbsp;国网SG186工程-财务管控项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Weblogic 、oracle、JavaEE、SOA、UNIX系统、windows server 2003系统</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>IBM</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>j2EE</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>参加国家电网SG186工程-财务管控项目二期实施，负责内容：上半年负责青海省电力公司-三新农电公司费用报销、预算管理、原始凭证电子化管理系统项目实施，负责内容：三新农电公司前期项目调研、立项规划、项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施；<br />下半年负责实施青海电力公司电价、预算、资金项目实施，并为主负责人，负责内容：项目调研、立项规划、项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施，并负责上线、上线后的具体工作；团队人数23人；</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>国网SG186工程-财务管控项目包括了所有网省财务集约化建设内容，包含集团账务、预算管理、资金管理、电价管理、产权管理、稽核评价管理、费用报销管理；本人主要负责模块为费用报销管理、预算管理、资金管理。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.09 - 2010.12&nbsp;&nbsp;国网SG186工程-财务管控项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Weblogic 、oracle、JavaEE、SOA、UNIX系统、windows server 2003系统</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>IBM</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>j2EE</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、2009-2010年：参加国家电网SG186工程-财务管控项目一期实施，负责内容为青海省电力公司费用报销项目实施，并为主负责人，负责内容：项目实施规划、项目实施进度规划、项目实施进度、质量、成本规划控制、项目实施；团队人数为35人；</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>国网SG186工程-财务管控项目包括了所有网省财务集约化建设内容，包含集团账务、预算管理、资金管理、电价管理、产权管理、稽核评价管理、费用报销管理；本人主要负责模块为费用报销管理。</td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2005.09 - 2007.06&nbsp;&nbsp;郑州大学西亚斯国际学院&nbsp;&nbsp;软件工程&nbsp;&nbsp;本科<br />
+2002.09 - 2005.06&nbsp;&nbsp;南阳理工大学&nbsp;&nbsp;软件工程&nbsp;&nbsp;大专<br />
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">培训经历</h3>
+            <h2>2012.10 - 2012.11&nbsp;&nbsp;2012年GRIS实施、服务及项目管理能力高级认证</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>西宁办事处</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>西宁</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>结果还未公布</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>2012年GRIS实施、服务及项目管理能力高级认证</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2012.08 - 2012.09&nbsp;&nbsp;国家电网公司ERP项目运维资格考试</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>西宁办事处</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>北京考试</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>结果还未公布</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>国家电网公司ERP项目运维资格考试+培训</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2011.06 - 2011.06&nbsp;&nbsp;PMP认证专题培训+燃料管理+基建内容高级知识培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>远光软件股份公司</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>珠海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>PMP认证专题培训+燃料管理+基建内容高级知识培训</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2010.09 - 2011.12&nbsp;&nbsp;远光公司项目实施资格认证-L5实施顾问认证</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>西宁办事处</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>西宁</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>远光公司项目实施资格认证-L5实施顾问认证</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2010.07 - 2010.09&nbsp;&nbsp;ERP项目实施管理理论</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>远光软件股份公司</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>远光公司武汉软件研究院</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>ERP项目实施管理理论、ERP项目实施方法论、PMP项目管理与远光实施方法论解析、远光ERP项目实施、管理方法论</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2009.10 - 2010.01&nbsp;&nbsp;电力行业知识培训、ERP项目实施理论、ERP项目实施方法论</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>远光软件股份公司</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>远光软件股份公司珠海总部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>L3实施资格证</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>电力行业知识培训、ERP项目实施理论、ERP项目实施方法论</td>
+                        </tr>
+                </table>
+            </div> 
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">在校学习情况</h3>
+            <h2>曾获 院校级 三等奖</h2>
+            <h2>曾获 院校级 三等奖</h2>
+
+            <h2>2003.03 曾获 院校级 A类奖学金</h2>    
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">奖项描述：</td>
+                        <td>成绩优秀，在班级表现突出。</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2003.02 曾获 院校级 A类奖学金</h2>    
+            <h2>2002.02 曾获 院校级 A类奖学金</h2>    
+
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">活动描述：</td>
+                        <td>曾任院学生会纪检部部长。<br />班长</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">在校实践经验</h3>
+            <h2>2006.09 - 2007.03&nbsp;&nbsp;西亚斯国际学院GITA软件项目组织</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>在此项目组织中从事java软件开发小组，任组长。协同指导老师，负责组员之间的沟通与开发项目的计划实行。</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2006.06 - 2006.08&nbsp;&nbsp;西宁市国青旅行社服务培训</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>参与服务培训与礼仪培训。<br />并且从事公关。</td>
+                    </tr>
+                </table>
+            </div> 
+            <h2>2005.06 - 2005.09&nbsp;&nbsp;网络管理与维护</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">实践描述：</td>
+                        <td>在县政府进行网络的管理与维护</td>
+                    </tr>
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+英语：读写能力熟练 | 听说能力良好<br />
+        </div>
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">兴趣爱好</h3>
+        <div class="resume-preview-dl">足球、篮球</div>
+    </div>
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=102681809&amp;Timestamp=635871582319902043&amp;Callback=&amp;signature=7cfde4df61ca5012b9841d666e204d0e&amp;comid=75144724&amp;comname=长沙思美电子科技有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="李军" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="105879664" />
+    <input type="hidden" name="extId" id="extId" value="JR026818092R90000002000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="项目实施顾问" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="102681809" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="长沙思美电子科技有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="长沙思美电子科技有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="75144724" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656561310" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="75144724" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JR026818092R90000002000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

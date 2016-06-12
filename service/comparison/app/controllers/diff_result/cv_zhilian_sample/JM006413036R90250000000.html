@@ -1,0 +1,556 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">项目经理/主管 8年 重庆</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">IT项目经理/主管、IT技术支持/维护经理</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年07月21日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM006413036R90250000000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://my.zhaopin.com/pic/2015/3/23/7958B80EB0AE47C8A9458EE23C70E2E2.jpg">
+        <img alt="" src="http://my.zhaopin.com/pic/2015/3/23/7958B80EB0AE47C8A9458EE23C70E2E2.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年10月)&nbsp;&nbsp;&nbsp;&nbsp;8年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;未婚</span>
+        <br />
+        现居住地：重庆 巴南区 | 户口：重庆 | 群众
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>重庆</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>8001-10000元/月</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前处于离职状态，可立即上岗</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>IT项目经理/主管、IT技术支持/维护经理</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>IT服务(系统/数据/维护)、计算机软件、计算机硬件、互联网/电子商务</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">工作吃苦耐劳，有上进心，有拼劲；做事计划得当、细心做事；诚恳待人，团结同事，共同进退。</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2012.03 - 2015.05&nbsp;&nbsp;北京天健通泰科技有限公司&nbsp;&nbsp;（3年2个月）</h2>
+            <h5>项目经理/项目主管</h5>
+            <div class="resume-preview-dl">
+                计算机软件 | 企业性质：股份制企业 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>主要负责公司软件项目的整体计划管理安排：客户沟通、项目启动、需求调研、团队管理、现场实施、、验收文档编写、项目验收等相应的项目工作。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.12 - 2012.03&nbsp;&nbsp;北京顺天高科电子技术有限责任公司&nbsp;&nbsp;（4年3个月）</h2>
+            <h5>项目经理/主管</h5>
+            <div class="resume-preview-dl">
+                计算机硬件 | 企业性质：其它 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>主要负责北京部分部队学校直接采购项目，负责石家庄、湖南、广西的部分高等院校、政府行政行业的招投标项目的工作</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.07 - 2007.12&nbsp;&nbsp;北京浩海飞扬科技有限公司&nbsp;&nbsp;（5个月）</h2>
+            <h5>销售部 | 售前/售后技术支持工程师</h5>
+            <div class="resume-preview-dl">
+                计算机硬件 | 企业性质：其它 | 规模：20人以下
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>从事无线图传设备的现场演示、一般技术维护，给予客户技术方面的支持。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2013.12 - 2014.08&nbsp;&nbsp;XBGY数字化试验信息管理系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Java&#160;&#160;&#160;&#160;Tomcat&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;oracle10g&#160;&#160;&#160;&#160;&#160;&#160;在线office控件</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>联想台式机 XP SP3      定制平板电脑</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>Java       MyEclipse</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责项目的整体计划推进、实施，客户的沟通、协调工作；检验项目的开发成果以及配合测试完成相应的项目测试；推进项目的阶段性验收工作，编写相应的阶段性验收文档。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>测试数据自动化（TDM）：规范客户的试验过程，控制试验质量，提高工作效率，实现对各试验组的数据的全面管理、集中存储和数据追溯、实现外携数据的无缝对接，数据的结构化入库。<br />TDM系统管理从材料的出库开始，直至产品的最终检验入库为止：随工作流程流转打印相应的通知单；工人选择性抽调产品填写的相应原始记录单并实现数据的结构化入库；自动生成相应的报告。<br />结合某些试验需要外携的需求，在试验现场通过专用平板电脑填写相应的数据，回厂后实现数据与系统的无缝连接。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.06 - 2014.12&nbsp;&nbsp;BC试验数据自动化管理系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Java    Tomcat        oracle10g      在线office控件</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>应用服务器X3650(win2003)  数据库服务器X3850(win2003)  研华工控机</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>Java       MyEclipse</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责项目的整体计划推进、实施，客户的沟通、协调工作；检验项目的开发成果以及配合测试完成相应的项目测试；推进项目的整个验收工作，编写相应的验收文档。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>测试数据自动化（TDM）：规范客户的试验过程，控制试验质量，提高工作效率，实现对各试验组的数据的全面管理、集中存储和数据追溯。<br />TDM系统管理从零件的入库开始，经历器件、组件直至成品，管理客户的日常生成过程的流转；过程数据的记录以及查看、追溯；自动生成相应的质量卡；成品的出入库管理。<br />系统能实时的查询到每个产品的流转情况；统计工人每天的工作量；自动的生成关键数据的关键工序表；检验人员的参与产品检验统计等。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.05 - 2014.12&nbsp;&nbsp;XXX试验数据管理系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Java&#160;&#160;&#160;&#160;Tomcat&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;oracle10g&#160;&#160;&#160;&#160;&#160;&#160;在线office控件</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>联想台式机 XP SP3</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>Java&#160;&#160;&#160;&#160;&#160;&#160; MyEclipse</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责项目的整体计划推进、实施，客户的沟通、协调工作；检验项目的开发成果以及配合测试完成相应的项目测试；推进项目的整个验收工作，编写相应的验收文档。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>试验数据管理系统：规范客户的2个试验中心试验过程，控制试验质量，实现对各试验组的数据的全面管理、集中存储和数据追溯，并能自动生成相应的原始记录单与生成报告，大大提高了工作效率。<br />TDM系统管理入厂检验和外厂检验，设备到期前可以设定相应的时间提醒，提醒设备距离下一次检验的时间，可以发起相应的检验流程，管理相应的过程数据，直至出具相应的合格报告反馈给使用单位。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2012.04 - 2012.06&nbsp;&nbsp;华为试验数据管理系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">软件环境：</td>
+                            <td>Java&#160;&#160;&#160;&#160;Tomcat&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;oracle10g&#160;&#160;&#160;&#160;&#160;&#160;在线office控件</td>
+                        </tr>  
+                        <tr valign="top">
+                            <td width="60">硬件环境：</td>
+                            <td>联想台式机 XP SP3</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">开发工具：</td>
+                            <td>Java       MyEclipse</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责项目的整体计划推进、实施，客户的沟通、协调工作；检验项目的开发成果以及配合测试完成相应的项目测试；推进项目的整个验收工作，编写相应的验收文档。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>华为试验数据管理系统：规范客户的环境试验过程，控制试验质量，提高工作效率，实现对各试验组的数据的全面管理、数据追溯。<br />华为试验数据管理系统：管理客户的各类温箱设备，以及在温箱设备上面的对应试验的过程记录以及填写相应的原始记录单、报告等；对温箱设备进行排程管理。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2011.03 - 2011.12&nbsp;&nbsp;平果县社会管理视频监控和报警综合系统</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>担任该项目的项目经理助理，负责厂家的联系、价格的审核以及标书的制作、审核。<br />中标后负责现场的实施工作，完成设备的安装调试工作以及培训工作，保证供货设备正常运行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>该项目为广西省百色市平果县的治安监控与报警联网系统、高清电子警察与高清治安卡口系统，帮助百色市公安系统解决网吧、旅馆等场所的视频监控、GPS定位、以及报警功能，并协助进行车载视频监控系统的运行。<br />帮助交通警察建立电子警察系统、电子卡口系统，对路口进行信号灯的检测、车辆检测器、电子警察立杆以及高清摄像头的部署，并配备相应的交警业务综合管理系统软件对违规车辆进行抓拍以及违法车辆进行布控并实时报警。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2010.09 - 2010.11&nbsp;&nbsp;南宁市国土资源局档案标准化管理设备和大型图纸扫描仪采购</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>担任该项目的项目经理，负责厂家的联系、价格的审核以及标书的制作、审核，以及最终标价的敲定。<br />中标后负责现场的实施工作，完成设备的安装调试工作以及培训工作，保证供货设备正常运行。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>本项目为档案室设备升级改造项目，用于改善档案室的硬件设施，并配备相应的软件来提升工作效率，达到快速查询、处理、借阅、归还档案的目的。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2010.06 - 2012.02&nbsp;&nbsp;广西日元贷款项目</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在该项目中担任项目经理助理，负责厂家的技术参数核对，厂家授权和价格的协调，标书的制作、报价以及审核工作。<br />在中标后协调厂家人员进行现场的调试、安装、试运行，解决技术方便的问题。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>该项目是广西十所高校的日元贷款项目，涉及到服务器、存储、交换机、台式机、视频监控设备、打印设备、实验室设备等多个行业。<br />协助完成设备的供货、安装、调试以及技术培训。</td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2003.07 - 2007.07&nbsp;&nbsp;华北电力大学&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+
+
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">语言能力</h3>
+        <div class="resume-preview-dl resume-preview-line-height">
+英语：读写能力一般 | 听说能力一般<br />
+        </div>
+    </div>
+
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=600641303&amp;Timestamp=635871611903957211&amp;Callback=&amp;signature=82492db290586befb211ce6532a8cf07&amp;comid=74208980&amp;comname=武汉嘟哆斯堡服饰有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="陈勇" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="172036933" />
+    <input type="hidden" name="extId" id="extId" value="JM006413036R90250000000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="项目经理/主管 8年 重庆" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="600641303" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="武汉嘟哆斯堡服饰有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="武汉嘟哆斯堡服饰有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="74208980" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656561708" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="74208980" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM006413036R90250000000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

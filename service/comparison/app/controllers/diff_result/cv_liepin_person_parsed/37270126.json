@@ -1,0 +1,235 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-21", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "37270126", 
+        "recentMajorName": "艺术设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "网页设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "基金/证券/期货/投资", 
+        "nowInc": "融金所集团", 
+        "nowHukou": "邵阳", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "26 岁", 
+        "recentSchName": "精英职业技术学校", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "7 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、日语、普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "个案", 
+            "proStart": "2009.01", 
+            "devTool": "", 
+            "proRole": "负责-前期策划 ， 页面设计，div+css html静态页面布局及浏览器兼容", 
+            "proIncName": "", 
+            "proDesc": "pc网页端个案1.走四方旅游网: http://www.usitrip.com  2. 21CN教育考试网：http://edu.21cn.com    3.中华网考试培训：http://kaoshi.china.com 4.融金所平台：http://www.rongjinsuo.com/5.1元益购平台：http://www.1yy1.com/APP客户端个案http://cenmall.com/index/app（神马车城）手机网页个案http://www.1yy1.com（1元益购平台）", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "2013.03"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "1.精通photoshop、flash、fireworks、dreamweaver，coreldraw、llustrator、等设计制作工具。2.熟练手写html5静态页面结构及css3样式，兼容主流浏览器和手机适配。3.优秀的设计创意能力、色彩感及美术功底，在pc网页端 手机网页  手机应用ui设计，有着丰富的工作经验。4.有良好的沟通能力和团队合作精神，工作认真且有质效，能承受工作压力，能够积极的提升自我。\t\t关键词：ui设计师 , 视觉设计师", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "保密", 
+        "ignoreIncs": "", 
+        "expJobCates": "UI设计师;UI设计师;视觉设计师", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2009.07", 
+            "schName": "精英职业技术学校", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.05", 
+            "majorName": "艺术设计", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "融金所集团", 
+            "jobSalary": "", 
+            "jobEnd": "2015.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.05", 
+            "incIndustrys": "基金/证券/期货/投资", 
+            "jobDuration": "1年7个月", 
+            "incEmployee": "500-999人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/12", 
+                    "location": "深圳", 
+                    "positionStart": "2014/05", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "1.改善融金所金融投资平台用户体验 （主要针对不合理不利于用户习惯的页面重新合理设计）2.负责日常所需的平面设计（户外海报 易拉宝  折页 文件袋）3.负责每月投资平台活动专题设计加html5手机活动专题页面布局及站外网盟广告个案：http://www.rongjinsuo.com/"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "固派软件有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.05", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.10", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "7个月", 
+            "incEmployee": "100-499人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/05", 
+                    "location": "深圳", 
+                    "positionStart": "2013/10", 
+                    "jobPosition": "ui设计师", 
+                    "jobDesc": "1.负责车载智联车控系统UI界面设计和神马车城app用户端UI界面设计2.负责日常所需的平面设计（户外海报 易拉宝  折页 ）3.负责活动专题设计加div+css html静态页面布局及站外网网盟广告设计个案--APP： http://cenmall.com/index/app（神马车城）"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "美国联星国际旅游集团", 
+            "jobSalary": "", 
+            "jobEnd": "2013.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.10", 
+            "incIndustrys": "旅游/酒店/餐饮服务/生活服务", 
+            "jobDuration": "1年", 
+            "incEmployee": "100-499人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2013/10", 
+                    "location": "深圳", 
+                    "positionStart": "2012/10", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "1.负责公司走四方旅游网旅游活动专题设计及div+css html静态页面布局2.负责公司旅游线下宣传海报， 名片， 贵宾卡，灯箱广告， 易拉宝，平面设计工作个案：http://www.usitrip.com"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "诺达实业有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2012.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.07", 
+            "incIndustrys": "教育/培训/学术/科研/院校", 
+            "jobDuration": "3年3个月", 
+            "incEmployee": "100-499人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2012/10", 
+                    "location": "不限", 
+                    "positionStart": "2009/07", 
+                    "department": "设计部", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "1.负责公司教育门户网站页面的用户体验设计及教育门户主页焦点广告创意设计2.教育活动专题设计制作加div+css html静态页面布局个案http://www.thea.cn/http://edu.21cn.com/http://kaoshi.china.com/官网http://www.0755ck.com.cn/"
+                }
+            ]
+        }
+    ]
+}

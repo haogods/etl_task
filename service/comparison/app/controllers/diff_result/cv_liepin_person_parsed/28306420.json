@@ -1,0 +1,131 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "28306420", 
+        "recentMajorName": "非金融", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "硕士", 
+        "baseSalary": "", 
+        "nowIndustry": "机械制造/机电/重工", 
+        "nowInc": "某公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "38 岁", 
+        "recentSchName": "某大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "10 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话、英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "有会计证，统计证，英语六级证，计算机国家二级证，驾驶证", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "一般纳税人企业做过出纳、财务助理、会计等职位。熟悉工商税务社保办事流程。掌握excel各种操作及用友财务软件。本人硕士学历，学习及工作能力强，办事效率高，思维缜密，团结合作，本人不断学习，不断进取，今年已经报考了中级会计师。工作内容描述：1.审核报销凭证、登记现金银行日记账；2.负责各种款项的收付及缴存银行、复核款项审批、网银转账；3.按相关规定及时准确报销现金、按相关规定及时准确支付银行款项；4.保管现金、公章、财务专用章、人名章及合同章等印鉴，保管公司各种证照、所有银行账户、转账及现金支票；5.月末编制《银行余额调节表》、工资的发放等；6.跟随会计主管练习使用“用友”财务软件做账；7.协助完成财务部门内的财务、会计、统计等工作；8.协助财务经理进行预算控制、成本核算；9.协助规范和完善财务管理制度；10.协助处理、审核相关凭证，参与会计档案整理；11. 发票购买、开发票及保管公司合同、发票及账单等；12.协助财务经理与内外部的协调工作。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "计算机软件;IT服务/系统集成;互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "12.00万（10000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "会计/会计师;财务助理;出纳员", 
+        "expLocations": "北京", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2006.07", 
+            "schName": "某大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "非金融", 
+            "eduDiploma": "硕士"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "某公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.10", 
+            "incIndustrys": "机械制造/机电/重工", 
+            "jobDuration": "6年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "1 ", 
+                    "location": "北京", 
+                    "positionStart": "2009/10", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "在一般纳税人企业做过出纳、会计、人事行政。熟悉工商税务社保流程，熟练操作excel及财务软件。学习能力强，办事效率高，思维缜密，不断学习，今年报考了中级会计师。工作内容:1.审核报销凭证、登记现金银行日记账2.款项收付缴存、复核审批、网银转账3.及时准确报销现金、支付银行款项4.保管现金、公章、财务章、人名章等印鉴，保管各种证照、账户，填写支票等会计:5.编制《资产负债表》《利润表》《银行余额调节表》记考勤、制作工资单并发放6.使用用友、金蝶财务软件记、算账及国地个税申报7.制定规范完善财务制度8.处理审核相关凭证、会计档案整理9. 执照、税务登记证等变更，税务局报道，社保开立、增减员及缴存10.发票核定、变更、代开、购买、开立，保管合同、发票及账单等。"
+                }
+            ]
+        }
+    ]
+}

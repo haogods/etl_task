@@ -1,0 +1,387 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">复制高级管理 8年 云南</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">高级管理、销售管理、项目管理/项目协调、市场</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年12月13日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM339487214R90250001000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://rd.zhaopin.com/img/lookResumes.jpg">
+        <img alt="" src="http://rd.zhaopin.com/img/lookResumes.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年1月)&nbsp;&nbsp;&nbsp;&nbsp;8年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;未婚</span>
+        <br />
+        现居住地：云南  | 户口：陕西 | 团员
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>陕西、云南、成都、杭州</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>10001-15000元/月</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前处于离职状态，可立即上岗</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职、兼职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>高级管理、销售管理、项目管理/项目协调、市场</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>通信/电信/网络设备、航空/航天研究与制造、贸易/进出口、跨领域经营、旅游/度假、娱乐/体育/休闲、医药/生物工程、医疗/护理/美容/保健/卫生服务、通信/电信运营、增值服务、房地产/建筑/建材/工程、零售/批发、大型设备/机电设备/重工业、加工制造（原料加工/模具）、医疗设备/器械、电气/电力/水利、能源/矿产/采掘/冶炼、石油/石化/化工、环保</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">本人工作能力（擅长）；<br /><br />1）人力资源管理方面：战略统筹规划、招聘、培训、团队搭建（可迅速解决企业用人之急，绝对实战派）<br />2）营销、销售管理方面：连锁运营管理、品牌策划、大项目运作、招商，高端名品销售。<br />3）企业总体经营管理运作方面：资源整合、组织架构、综合运管、战略执行。（以上都有实际成功案例）<br />4）财务风险管控：能建立一套完整的财务流程，保证财务稳健发展；<br />5) 对（健身俱乐部、私人财富红酒庄、高尔夫高等休闲项目等）的运作有一定的经验。<br /><br />本人品格：真诚、务实、守信、干练<br /></div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2013.12 - 2015.06&nbsp;&nbsp;云南XX商贸有限公司（化妆品公司）&nbsp;&nbsp;（1年6个月）</h2>
+            <h5>首席执行官CEO/总裁/总经理</h5>
+            <div class="resume-preview-dl">
+                医疗/护理/美容/保健/卫生服务 | 企业性质：民营 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>主要业绩： <br />（注册开办公司+项目考察引进+组建团队《业务、后勤、美导》培训+市场拓展，招商会+公司总体运营）经历了一个化妆品企业从无到有发展的一切事宜。从公司成立第一年到第二年上半年营业额280万，基本上收支持平，从第二年下半年开始盈利，年营业额能做到400万以上）。合作美容院加盟店30家、日化店15家、OTC连锁药店20家、合作医院6家。总结：（对化妆品市场及国内国外各大品牌有较足够的认知，足以胜任化妆品行业厂家中高级职务也能独当一面到全国各省大区开展工作，包括：省级招商工作、代理商、经销商管理；专业线精油药油养生、泡浴（面部基础、高端护理、身体养生、特殊护理、医美整形）+日化线（彩妆、中高端护肤品ＫＡ、ＣＳ等渠道推广）＋药线、针剂＋美容美体设备（药妆公私立医院、高端ＳＰＡ等）+OTC连锁药店推广运营及管理。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2008.10 - 2013.10&nbsp;&nbsp;云南XX科技贸易有限公司&nbsp;&nbsp;（5年）</h2>
+            <h5>副总裁/副总经理 | 8001-10000元/月</h5>
+            <div class="resume-preview-dl">
+                贸易/进出口 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>工作描述：（市场、销售经理+人事经理+ 财务风险管控+公司总体战略执行）<br />主要工作及业绩：<br />市场及销售工作： <br />1）负责制定公司专属项目部门的销售计划、组建好团队、业务员日常工作管理、业务拓展、销售员培训。短短2个半月培养了3批基础销售队伍、每批队伍5人。大力推行目标管理和时间管理（借鉴并创新了行动日志管理），收到了很好的效果；因为员工在之前有打马虎眼、混日子、工作情绪大、目标感不强、责任心差、完成工作拖沓等情况得到大幅改进；此外，在老板的直接授命下下全程参与监督推进直营分公司及办事处的统一装修、施工、开业人员配置，分公司经理工作安排指导的系统化管理工作。第一年在管理好地州新开5家分公司外（分公司经营面积均在500㎡以上）并在第二年连续开办6家地州办事处（办事处3人一组）。<br />2）招商工作，负责招募渠道商、经销商前期的宣传工作：个人独立策划编写了招商手册（实物为证）；印发5000册，制定渠道发展所需的各类文件及实施方法、流程，组织实施拓展渠道商。搭建3人招商小组， 开拓云南30家不同区域市、县级经销商。<br />3）个人销售业绩第一年280万/年，此后两年年均保持在300万/年；带领销售部每年的销售业绩连续递增20%。年营业额在5000万。<br />4）采购谈判，全国搜寻厂家信息进行筛选后，跟各大厂家进行谈判交涉、引进公司所需的新产品，找到了分别位于浙江、南京、广州、深圳、河南、河北等数十家优质供货厂家，采购成本降低8%。 <br />5）处理多起恶性严重性顾客投诉事件及对外公关事件，借用ERP模式管理客户资源（对整个云南市场客户重新进行细分）客情关系得到很好的维护； 并对NKA客户进行专项管理。保证公司对外的声誉、信誉度及品牌口碑的良好传播。<br />6）每年末季度带领10名业务人员会同技术员一起把全省行业内近8000多家行业客户都拜访一遍，为第二年开展销售工作打好基础。<br />HR管理工作： <br />7）根据公司业务发展需要招不同岗位、层次的员工（技术部、后勤部、销售部、客服部、财务部、电子商务部）。除了昆明总部外，还向海外、国外公司输送高端管理人才6名；高级技术人员8名：（在职一年招进基层、中层、高级人才40名，除了因业务考核不达标而辞退7人之外，剩余员工无一人流失）；<br />8）整理、修改、完善之前各项人事管理制度并新增内容编撰成一套新的系统性的人事管理制度及流程，使得后期人事部门的工作有章可循。建立ERP管理模块！ <br />9）人事部的日常工作：人事档案管理，员工异动手续办理：包括员工的入职、试用、转正、内部调动、调薪、晋升、员工离职、劳动合同的签订及劳动保障部们的审核、工作地点的更换、出国护照签证等事项；各类行政公文的起草、上传、下发，办公物资的采购，员工住宿就餐的安排，周、月、季度工作日志、计划的表格化管理，绩效考核的统计等。<br />10）员工劳动关系的协调与处理，多次就劳动纠纷、安全事故的及时处理； <br />11）建立企业内部5S管理，提高企业对外形象及客户满意度； <br />12）进行岗位分析,编写岗位（8个职位）说明书，合理优化整合各部门人员； <br />13）对外业务合作单位的资质审核，配合相应业务部门建立合作关系； <br />14）督促各部门的工作,安抚员工工作情绪、听取各方面的信息回馈,汇报，协调、推动解决各部门经理的各种工作问题； <br />15）定期主持公司例会及各种专题会议； <br />16）5家地州分公司、6个办事处事务考核监督、协调处理，保障业务工作的顺利开展； <br />17）培养部门新人及搭建合理的人才梯队（6名）及老板交代的其它临时性事务。 <br />人事培训工作： <br />18）根据公司实际用人情况及战略发展需要为公司量身定制培训方案，在相关部门经理的指导帮助下首次攥写培训教案并根据教案开发培训课程，形式有PPT、视频（产品、技术、销售），采用专题讲座、励志节目讲座、户外拓展、军训等多种培训形式打造团队。<br />19）负责分公司经理、办事处主任、产品终端销售人员、技术人员的培训。课程主要包括：企业简介、产品知识、行业知识、心态课程、销售员礼仪、销售技巧课程、专卖连锁店标准运作流程、办事处规范化管理制度等。<br />财务监管方面<br />20）规范化的财务组织架构，连同分公司办事处财务人员共计招进16名，总部建立会计、出纳、财务主管、审计的核心财务部门，专人专事，会同分支机构的12名专职会计，这样做的目的是避免财务基础数据的差错影响到公司总的账目，另外，也对分支机构起到很好监管作用。<br />21）完善财务运营管理流程及机制（包括：启用财务软件管理（因公司之前没有有效使用财务软件、一部分时间还是手工帐及简单的表格式处理）、应收账款管控（把客户欠款及对各大厂商的资金流转风险降到最低）、各运营环节成本监督，直接减少挽回损失100多万，降低10%的成本，计划性分配应付账款，监督财务部门做好资产负债表,利润表、现金流量表3大基本报表建设等）<br />22）每季度由本人牵头会同总部财务部门人员对分公司的账目、仓库库存进行实地挨家核查，确保账实相符。及时发现问题及时解决财务漏洞。因为后来制定针对性的分公司经理的管理考核起到了很好的参照。<br />23）建立起客户信用机制，安排专人每月催收、追讨货款，确保资金的安全。避免坏死帐发生的几率。<br />公司战略、统筹运营管理方面： <br />24）全面负责策划、组织、制定、审核昆明总公司及5家子公司/6家办事处内外部业务流程规范及组织架构、考核标准及基本管理制度，优化管理流程与标准，配合建立总部运营管理工作流程以及配套的部门工作规范，另外也担负着国外公司的项目及各项人事对接。<br />25）全面完善人力资源管理体系，制订并组织实施人力资源管理制度（包含招聘、培训、绩效、薪酬及员工发展等）；<br />26）定期向老板提供有关人力资源战略、财务运营、组织建设、行政人事后勤管理、物流配送等方面的合理化建议，与此同时为公司重大决策提供管理资源信息支持及为海外业务派遣提供了充足的后勤资源保障工作。<br />27）涉外谈判：陪同老板对外进行重大项目的考察洽谈。<br />管理经验总述<br />          在职期间，首先要非常感谢老板给的平台让我有机会得到全面的学习、锻炼、提升及作为一个初级领导人、职业经理人应有的人格魅力的塑造，深表感谢。<br />主要管理心得有以下几点、在此与同行们做一分享：作为领导，首先一定要学会承担责任，一切的问题都是领导的问题，这是前提，只有不把问题归结到你的下属和同事，你才能找到解决问题的办法；其次，善于学习不断提升自身综合素质，学会沟通，其实沟通是用耳朵，而不是用嘴，通过沟通，多了解情况；心胸的开阔，容人之短，容人之过，才能很好的用人；站在全公司的角度、高度考虑问题，思考问题，这样工作的方向才不会搞错，这是前提，工作方向永远要重视；再者，不要在下属面前流露任何有关于工作的负面的信息；这也很关键，否则后果很严重；最后还是修养，心态平和，不可急躁，急躁则自顾不暇，何暇治事，要时时控制自己的情绪，大道理人人都懂，小情绪实难控制，这是一个优秀管理者的基本素养。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.05 - 2008.08&nbsp;&nbsp;昆明XX健康管理咨询有限公司（五星级连锁美容会所）&nbsp;&nbsp;（1年3个月）</h2>
+            <h5>总裁助理/总经理助理 | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                医疗/护理/美容/保健/卫生服务 | 企业性质：民营 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>主要工作内容： <br />营运体系的建立： 协助投资人（总经理）对６家直营店（每店经营面积300㎡以上）、6家加盟店进行规范化管理及整体运营， <br />具体工作涉及到：<br />1）招聘（店长5名、美容师兼顾问10名）、培训（30场）、财务（规范财务收支流程、库存管理等）店内销售、内部管控、公关；主持新品推介会、沙龙会20场；协助拓客6次（大客户管理）、 讲授中医美容专业知识5场、打造专业职业化团队；<br />2）引进高端护肤品、精油养生产品、塑形内衣，系统性的店销管理、店长、店员培训和销售示范工作，各店面销售业绩提升年均递增20%。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2004.08 - 2008.06&nbsp;&nbsp;西安医学院&nbsp;&nbsp;医疗美容技术&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+
+
+
+
+
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=633948721&amp;Timestamp=635871603224859171&amp;Callback=&amp;signature=db8de691d30623316c9112c1645fee68&amp;comid=74208980&amp;comname=武汉嘟哆斯堡服饰有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="陈先生" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="232864065" />
+    <input type="hidden" name="extId" id="extId" value="JM339487214R90250001000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="复制高级管理 8年 云南" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="633948721" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="武汉嘟哆斯堡服饰有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="武汉嘟哆斯堡服饰有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="74208980" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656561708" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="74208980" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM339487214R90250001000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

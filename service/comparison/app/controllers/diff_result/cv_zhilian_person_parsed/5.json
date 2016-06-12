@@ -1,0 +1,287 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "23个月", 
+            "skillName": "Axure RP", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "12个月", 
+            "skillName": "XMind", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "3", 
+            "skillDuration": "36个月", 
+            "skillName": "SQL", 
+            "skillLevel": "良好"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月02日", 
+        "nowPolistatus": "中共党员(含预备党员)", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR269786284R90250009000", 
+        "recentMajorName": "信息资源管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京 朝阳区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "天津", 
+        "dob": "1989年7月", 
+        "gender": "男", 
+        "age": "27岁", 
+        "recentSchName": "四川大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "5年工作经验"
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "海口", 
+            "trainDesc": "通过海航航空项目全过程管理培训，了解基本的项目全过程管理思路，与航空集团内同仁探讨过去部分项目管理中存在的问题和经验，航空集团及成员公司信息化项目向信息化产品转型方案。", 
+            "trainAgency": "海航航空集团信息管理部", 
+            "trainCert": "无", 
+            "trainStart": "2014.09", 
+            "trainTitle": "海航航空项目全过程管理", 
+            "trainEnd": "2014.09"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "海口", 
+            "trainDesc": "通过外请讲师了解系统架构理论和架构方法，并通过12306网站和移动客户端作为实例训练学员完成相关方法课程。", 
+            "trainAgency": "海南航空股份有限公司信息技术部", 
+            "trainCert": "无", 
+            "trainStart": "2013.12", 
+            "trainTitle": "海航股份信息技术部系统架构培训班", 
+            "trainEnd": "2013.12"
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "北京市", 
+            "trainDesc": "通过培训了解产品经理基本思想，结合海航集团管控流程，让成员企业的IT机构人员由传统的项目管理思维扩展到产品管理的思维。同时认识海航集团信息化管理流程和体系建设。", 
+            "trainAgency": "海航集团信息管理部", 
+            "trainCert": "海航集团信息化产品经理认证", 
+            "trainStart": "2013.03", 
+            "trainTitle": "海航集团信息化产品经理训练营（北京班）", 
+            "trainEnd": "2013.03"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力良好", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "猫眼电影取票机单取小吃券和广告管理功能", 
+            "proStart": "2015.09", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "为用户和商户提供更好的服务，协助片方增加影片曝光度并且协助商户增加一定的广告收入开发了单独验证小吃券和广告管理功能。", 
+            "softwareEnv": "", 
+            "proDuty": "(1) 负责单独验证小吃券的服务端验证设计：之前合单支付（电影票订单和团购观影小吃订单）使用过相关验券逻辑，但是发现之前的设计来复用流程存在较大的问题（如无法获取到门店账号），故此对验证流程和调取接口方面进行了修改。在后续上线过后也发现了些问题，如管理员账号验券权限等，目前正在修复。 (2) 负责取票机广告位后台管理功能设计：实现广告能够按照POI进行分发，并且可以指定对POI进行固定分组（如按照城市、按照票房收入等），广告按照POI分组进行分发。跨组作业实现商户在商户后台进行广告下放，实现院线和分管影院的权限分割。项目业绩：团购小吃验证目前只针对有需求的大院线全量开放，部分单体影院灰度发布或者采用BD申请才开放策略； 广告目前只针对大院线和片方需求进行开放。", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "猫眼电影新取票客户端", 
+            "proStart": "2015.08", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "项目的目的就是从原来旧有的基于Java Swing技术客户端切换成基于C#的客户端。从而能够适应对大屏幕取票机未来其他部分多媒体功能的支撑。 2015年08月启动，2015年11月上线6.01版本（继承与之前Java Swing版本号）", 
+            "softwareEnv": "", 
+            "proDuty": "(1) 与RD研究技术选型：初始技术变更是在C#和Android之间进行选择，选择C#的原因是减少硬件更换的成本（如果采用Android需要更换控制主板，而且无法获取打印设备状态），降低影院自助维护和代维检修的难度。 (2) 负责初始化的功能设计和功能架构设计：将过去耦合的功能实现为组件化的管理，所有的功能组件都依附于服务总线，由服务总线来统一下发服务。当需要上线新功能时，只需要开发一个功能组件即可，无需再做大范围的调整。项目业绩：切换后现在取票机故障率可以控制在0.5%之内。 取票服务端接口调取成功率大于＞99%，接口小时超时率下降至0.02%。", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "猫眼电影履约产品门户", 
+            "proStart": "2015.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "部分业务与猫眼电影大后台存在数据依赖关系，所以总体来说，实际上履约产品的后台门户是依附于猫眼电影管理大后台（包括基础信息、选座、活动、BD、客服等）的子系统，这是属于日常工作内容。", 
+            "softwareEnv": "", 
+            "proDuty": "履约后台各个子模块的需求开发和现有问题的修复： (1) 基础信息模块：负责取票机管理、取票机-影院映射关系管理功能优化； (2) 运营工具箱：为运营同学提供便利的日常工作工具； (3) BD工具箱：为BD同学展现和销售绩效中相关的部分数据以及为BD同学提供便利工具需求的开发； (4) DASHBOARD：负责对运行数据和运营同学工作数据进行展现和优化。", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "4", 
+            "hardwareEnv": "", 
+            "proName": "天津航空新版销售官网", 
+            "proStart": "2015.03", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "官网从盘古平台到DTP平台；正在进行DataLex TDP产品后台与场景需求的差异分析。完成新旧销售官网梳理客票预定流程差异和各个航司相关流程的差异对比。对新销售官网前台和后台的需求进行评审。梳理完成后台梳理完成后台订单管理、退票管理、团购航线管理的需求。", 
+            "softwareEnv": "", 
+            "proDuty": "结合前期规划的业务场景和用户场景，负责DataLex TDP后台和前端在天津航空落地的客户化需求的整理和封版，并输出业务需求说明书和对前端流程输出PRD文档；负责协助项目经理与中航信协调IBE配置资源，与OTA协调相关接口配置；协助测试团队编写功能测试用例和协调第三方测试单位进行安全测试。", 
+            "proAchievement": "", 
+            "proEnd": "2015.06"
+        }, 
+        {
+            "itemId": "5", 
+            "hardwareEnv": "", 
+            "proName": "天津航空实时成本管理系统v1.0", 
+            "proStart": "2014.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "新开航线成本预测：通过对过去集团内航空历史数据进行分析或者对相近航线实际运行数据进项分析得到预测成本；对已开通航线的实际运行数据进行成本分析，为领导层提供航线优化决策支持。", 
+            "softwareEnv": "", 
+            "proDuty": "负责与财务数据处理单位、财务核算、结算单位以及相关市场销售、生产保障单位进行沟通需求并梳理航线成本。针对财务、销售部门的业务场景进行上下游流程分析，并输出相关流程图、文档和脑图。", 
+            "proAchievement": "", 
+            "proEnd": "2015.06"
+        }, 
+        {
+            "itemId": "6", 
+            "hardwareEnv": "", 
+            "proName": "天津航空特业人员资质与在线教育项目（地面与客舱服务子项目）", 
+            "proStart": "2012.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "完成地面服务和客舱服务训练管理员Web用户端；在客舱服务训练管理中将原有的7个工作日的保障流程缩短至2天，提升人力资源利用效率；形成特业人员整个职业生涯轨迹追踪监控。", 
+            "softwareEnv": "", 
+            "proDuty": "对接地面服务部和客舱服务部沟通需求。完成对管理员端系统产品的初步构型和需求说明。对接海南易建科技负责开发相关项目。对实施过程进行时间、财务成本和质量上的把控。负责对此项目进行后评估。", 
+            "proAchievement": "", 
+            "proEnd": "2013.10"
+        }, 
+        {
+            "itemId": "7", 
+            "hardwareEnv": "HP塔式服务器、海航集团内部网络通信", 
+            "proName": "天津航空警具管理系统v2.0-v2.5", 
+            "proStart": "2012.05", 
+            "devTool": "MyEclipse、SVN版本管理", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目目的在于实现安全员警具包借还的自动化和实时监控。严格控制日常警具使用的耗损，使得警具包使用与航班量保持一致。每年减少警具和警具包投入20万元。各个生产基地警具包误差率控制在0.5%。推广至其他集团内航空公司使用。目前版本仍然在迭代。", 
+            "softwareEnv": "J2EE、Struts+Spring+Hibernate、MySQL、Windows Server 2008、Tomcat", 
+            "proDuty": "与业务单位完成相关业务痛点和需求的梳理并完成需求说明书； 与管控单位沟通相关数据接口的权限申请、上线申请和访问权限申请，确保按时完成编码工作； 负责对业务单位和生产相关人员的培训，并完成相关文档归档； 负责后期系统运维和升级。目前已移交其他团队。", 
+            "proAchievement": "", 
+            "proEnd": "2012.08"
+        }
+    ], 
+    "others": {
+        "otherHobby": "摄影、足球、烹饪", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "车志超-产品经理简历", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "别人都说工作第一年是野蛮生长，第二三年要懂得积累沉淀。 我觉着前三四年在传统企业的IT部门给了我很基础的培养，在业务分析和对一个公司从一线生产到后台支撑的整体运转理解上提供很大的帮助。使得我觉着在现在工作中的生长提供了一个很好的基础。 同样在猫眼电影的工作中通过参与各种跨小组的作业中，也不断的吸收其他优秀产品、运营和研发同学的经验和知识。让我能够从一个传统的纯粹的业务分析工程师逐渐转变为产品。除了业务本身还需要更重视用户和实际效果对系统的影响。在这里虽然工作时间短，但是能够学习和接受到的新东西却也是很多。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "互联网产品经理/主管、需求工程师", 
+        "expLocations": "杭州、深圳、广州、成都", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.07", 
+            "schName": "四川大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.09", 
+            "majorName": "信息资源管理", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "北京猫眼文化传媒有限公司", 
+            "jobSalary": "10001-15000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.06", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "9个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "民营", 
+            "jobPosition": "产品经理", 
+            "jobDesc": "\n(1) 负责猫眼电影出票机管理系统门户及其子系统的的规划设计、新需求分析和后台现有功能的升级； (2) 负责猫眼电影线下实际消费的状况（主要为电影票订单履约情况、电影票和团购小吃合单支付履约情况以及单独团购观影小吃履约情况）分析和对运营同学的工作提供评估标准和数据，并根据实际情况对现有的运营后台进行系统升级和规划； (3) 负责猫眼电影取票机实时的运行数据对取票机运行的现状进行分析，对出现的问题case进行总结，优化出票的软件客户端及服务端的逻辑和功能； (4) 负责与KA组合作对大院线的需求进行差异化的定制。(5) 利用数据平台编写SQL为运营和产品同学提供数据报表，运营提供数据决策依据。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "天津航空有限责任公司", 
+            "jobSalary": "8001-10000元/月", 
+            "jobEnd": "2015.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.07", 
+            "incIndustrys": "交通/运输", 
+            "jobDuration": "3年11个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "合资", 
+            "jobPosition": "业务分析工程师", 
+            "jobDesc": "\n负责研究和梳理所属业务线的业务流程，负责相关项目的需求调研，和所属业务线需求的分析确认，并输出相关文档；负责协助项目经理完成所属业务线项目的闭环管理（启动-规划-执行-监控-收尾-后评估），跟踪需求变更，和相关文档进行更新；负责跟进建设完成的项目，对日常运行及简单Bug维护，负责对建成项目运行情况进行后评估，并提出改进建议。关注行业和行业外发展动态和所属业务线相关产品、业务支撑系统的发展趋势。负责新旧销售官网B2C客票预订流程管理、后台订单管理、退票管理和用户积分管理的功能及流程优化。", 
+            "witness": ""
+        }
+    ]
+}

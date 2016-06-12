@@ -1,0 +1,349 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2015年08月18日", 
+        "overSea": "1", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM505075851R90250000000", 
+        "recentMajorName": "土木工程", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "国外", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "广元", 
+        "dob": "1983年3月", 
+        "gender": "男", 
+        "age": "32岁", 
+        "recentSchName": "四川大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "11年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2005.06", 
+            "certName": "土建资料员证", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2006.07", 
+            "certName": "环保员证", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2007.07", 
+            "certName": "初级工程师", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2007.09", 
+            "certName": "土建造价员资格证", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2008.04", 
+            "certName": "二级建造师执业资格证", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "6", 
+            "certTime": "2011.07", 
+            "certName": "土建质检员", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "7", 
+            "certTime": "2013.06", 
+            "certName": "一级建造师执业资格证", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "北京市东城区东直门外新中街11号", 
+            "trainDesc": "通过本次学习，掌握土建工程量计算规则，定额及清单的使用。", 
+            "trainAgency": "北京建工培训中心", 
+            "trainCert": "造价员资格证书", 
+            "trainStart": "2007.06", 
+            "trainTitle": "土建造价员", 
+            "trainEnd": "2007.09"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "北京市东城区东直门外新中街11号", 
+            "trainDesc": "通过本次学习，掌握在工程施工过程中对环境保护、文明施工管理要点；施工噪音的监测、控制；以及相关资料的填报。", 
+            "trainAgency": "北京建工培训中心", 
+            "trainCert": "环保员上岗证", 
+            "trainStart": "2006.07", 
+            "trainTitle": "环保员", 
+            "trainEnd": "2006.07"
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "北京市东城区东直门外新中街11号", 
+            "trainDesc": "通过这个培训，掌握土建工程技术质量资料的填写、报验、收集、整理、存档流程及要点，充分认识到工程资料的重要性。", 
+            "trainAgency": "北京建工培训中心", 
+            "trainCert": "土建资料员上岗证", 
+            "trainStart": "2005.04", 
+            "trainTitle": "土建资料员", 
+            "trainEnd": "2005.06"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "斯里兰卡科伦坡莲花电视塔", 
+            "proStart": "2012.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该工程是斯里兰卡国家重点工程，总高度为356.3m，建成以后将成为南亚第一高塔，是集电视、广播电台节目传送；微波、卫星信号接收与发送；同时集会议、展示展览、宴会、购物、餐饮娱乐、观光于一体高耸筒体结构。其中涉及圆形深基坑旋挖钻孔桩桩基支护、降水、粉喷桩止水帷幕、旋挖钻孔桩、爬模爬架、垂直运输、泵送混凝土、大体积混凝土、预应力、特殊莲花瓣型玻璃幕墙制作及安装、高空塔楼钢结构吊装、钢桅杆顶升等施工工艺。", 
+            "softwareEnv": "", 
+            "proDuty": "担任技术负责人，主要负责该项目钢筋工程、钢结构工程、预应力工程、幕墙工程的技术、质量、生产、进度控制及管理", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "铜牛针织厂定向安置房", 
+            "proStart": "2010.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目EPC设计施工一体化总承包，群体住宅工程，总建筑面积138927㎡，包括6栋单体住宅（最高28层）、2栋地下车库，还包括1栋综合服务楼、1栋中水处理站，1栋幼儿园等配套设施。整个工程平均分为A、B两个区施工。其中包含CFG桩、深基坑支护、拱构型门式悬挑脚手架、外墙多元无机发泡保温板保温、屋面发泡混凝土保温等施工工艺。荣获北京市结构长城杯。", 
+            "softwareEnv": "", 
+            "proDuty": "担任A区生产主管，负责整个工程的钢筋材料计划、加工及绑扎施工；负责A区日常生产安排及各专业分包之间协调工作。", 
+            "proAchievement": "", 
+            "proEnd": "2012.10"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "温泉镇中心D1地块C区16#-28#住宅楼及地下车库工程", 
+            "proStart": "2008.04", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目为群体住宅项目，其中C区总建筑面积66487.44㎡，包含13栋单体住宅楼（最高18层）及地下连体车库。", 
+            "softwareEnv": "", 
+            "proDuty": "担任本工程钢筋工长，负责钢筋分项工程的投标预算、编制提料计划，全面管理钢筋的加工制作及现场绑扎工作，以及料表的审核工作。", 
+            "proAchievement": "", 
+            "proEnd": "2009.09"
+        }, 
+        {
+            "itemId": "4", 
+            "hardwareEnv": "", 
+            "proName": "广安大街东段南侧2号综合楼", 
+            "proStart": "2006.03", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "本工程为商业住宅混合结构，地下为商业（超市）、汽车库、自行车库及设备用房，与主楼对应部分战时作为6级人方物资库，地上首、二层为商业，三层及以上1、2段为办公及商务会所，3段为住宅，总建筑面积51378.2㎡。荣获北京市结构长城杯。", 
+            "softwareEnv": "", 
+            "proDuty": "担任资料员，负责工程技术、质量资料的填报、收集、报验、整理、存档工作，使得本工程在长城杯评审环节资料顺利通过；后期负责分户验收及相关资料。", 
+            "proAchievement": "", 
+            "proEnd": "2008.04"
+        }, 
+        {
+            "itemId": "5", 
+            "hardwareEnv": "", 
+            "proName": "天津泰达时尚广场工程", 
+            "proStart": "2004.08", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目水景观工程，施工范围包括水景码头、亚洲第一高喷、多栋单体钢结构建筑、多道景观桥梁。", 
+            "softwareEnv": "", 
+            "proDuty": "担任技术员，协助总工负责现场施工方案实施情况，质量整改措施落实情况，负责技术洽商变更管理，后期负责现场技术、质量资料的整理、存档、移交档案管。", 
+            "proAchievement": "", 
+            "proEnd": "2006.03"
+        }
+    ], 
+    "others": {
+        "otherHobby": "爱好羽毛球运动", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "glory": "2007年7月在北京六建集团公司“技术质量岗位练兵技能竞赛”中表现突出，授予优秀选手奖 2014年5月荣获北京建工国际建设工程有限责任公司“建筑工程施工工艺大家讲”比赛新工艺征文组一等奖2014年5月荣获北京建工国际建设工程有限责任公司“建筑工程施工工艺大家讲”比赛境外演讲组一等奖", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "施工项目管理11年（国外3年）", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "从事建筑施工11年，积累了丰富的施工经验，先后担任过资料员、技术员、造价员、质量员、钢筋工长、生产主管、技术负责人等工作岗位，熟悉整个建筑施工过程，专业知识扎实，工作能力过硬。        能熟练使用office办公软件、CAD制图软件、广联达预算软件、Revit三维建模软件、101.CAC钢筋放样软件等，有效提高工作效率        性格开朗，与人处事融洽，对待工作善始善终，能承受日益严峻的竞争压力，并能在成功与失败中完善积累自己。具备较强的学习能力及工作能力。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产/建筑/建材/工程", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "10001-15000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "房地产项目管理、生产项目经理/主管、项目经理/项目主管、建筑工程师、建筑施工现场管理", 
+        "expLocations": "成都", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2009.07", 
+            "schName": "四川大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.02", 
+            "majorName": "土木工程", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2004.05", 
+            "schName": "四川建筑职业技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "1999.09", 
+            "majorName": "公路与城市道路桥梁", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "北京六建集团有限责任公司国际工程部", 
+            "jobSalary": "15000-25000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.12", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "3年", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "技术负责人", 
+            "jobDesc": "\n参与各重大施工组织的讨论及具体施工方案的编制，负责钢筋工程、钢结构工程、预应力工程、幕墙工程的技术工程及生产安排。任职期间组织完善“钢筋骨架整体预制吊装”施工工艺，并获得建工国际建设工程有限公司工艺大赛一等奖。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "北京六建集团有限责任公司", 
+            "jobSalary": "6001-8000元/月", 
+            "jobEnd": "2012.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.06", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "2年4个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "建筑施工现场主管", 
+            "jobDesc": "\n负责工程日常生产安排及各专业分包协调管理工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "北京六建集团有限责任公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2009.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.04", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "钢筋工长", 
+            "jobDesc": "\n负责钢筋分项工程的投标预算、编制提料计划，全面管理钢筋的加工制作及现场绑扎工作，以及料表的审核工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "4", 
+            "incName": "北京六建集团公司第二十一工程施工管理部", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2008.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2006.03", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "2年1个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "资料员", 
+            "jobDesc": "\n负责工程技术、质量资料的填报、收集、报验、整理、存档工作，使得本工程在长城杯评审环节资料顺利通过；后期负责分户验收及相关资料填报。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "5", 
+            "incName": "北京六建集团公司第二十一工程施工管理部", 
+            "jobSalary": "1000-2000元/月", 
+            "jobEnd": "2006.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2004.05", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "1年10个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "国企", 
+            "jobPosition": "技术员", 
+            "jobDesc": "\n协助总工负责现场施工方案实施情况，质量整改措施落实情况，负责技术洽商变更管理，后期负责现场技术、质量资料的整理、存档、移交档案管。", 
+            "witness": ""
+        }
+    ]
+}

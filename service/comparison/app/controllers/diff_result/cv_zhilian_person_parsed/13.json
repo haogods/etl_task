@@ -1,0 +1,181 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "108个月", 
+            "skillName": "B1本", 
+            "skillLevel": "精通"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月02日", 
+        "nowPolistatus": "", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR087913125R90000000000", 
+        "recentMajorName": "计算机科学与技术", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "北京", 
+        "dob": "1987年3月", 
+        "gender": "男", 
+        "age": "29岁", 
+        "recentSchName": "北京化工大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "8年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2007.02", 
+            "certName": "物流师", 
+            "certDesc": "在学校时学习物流管理专业，经过学习专业知识，课程！通过国家的考试，获得此证！", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "驾驶技术娴熟，无不良嗜好！", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "汽车 广告 维修 物流 管理 维修保养 车辆管理", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "能够胜任车辆管理、驾驶员管理等车辆相关的各种工作。本人具有管理能力，合理分配团队任务，工作中主要对全国各分公司车辆的运营、维修、费用及人员进行管理。了解各品牌车辆(包括：奔驰、宝马、奥迪、凯迪拉克、英菲尼迪、GL8等)，并且懂得车辆修理，具有9年的实际道路驾驶经验，北京本市户口，驾驶技术娴熟，能够应付不同的突发情况，驾驶经验丰富，总里程20万KM以上。有责任感，很有上进心，无不良嗜好，对工作充满热情，做事认真努力，可以快速的学习新知识！热爱汽车类相关工作。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": " \n2007.07 - 2008.01  柒拾壹（北京）有限公司\n\n\n\n实践描述：\n销售、理货、订货、促销\n\n\n\n2006.07 - 2006.12  北京新路发广告有限公司\n\n\n\n实践描述：\n负责开车，采购，平面广告安装实施", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "交通/运输、汽车/摩托车、广告/会展/公关、租赁服务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "8001-10000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "物流专员/助理、供应商/采购质量管理、机动车司机/驾驶、会务专员/助理、项目专员/助理", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.07", 
+            "schName": "北京化工大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.03", 
+            "majorName": "计算机科学与技术", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2008.07", 
+            "schName": "北京经济技术职业学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2005.09", 
+            "majorName": "物流管理", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "联通租赁集团有限公司北京分公司", 
+            "jobSalary": "6001-8000元/月", 
+            "jobEnd": "2015.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.02", 
+            "incIndustrys": "租赁服务", 
+            "jobDuration": "3年7个月", 
+            "incEmployee": "1000-9999人", 
+            "incType": "民营", 
+            "jobPosition": "车辆管理，维保审核，车辆整备主管", 
+            "jobDesc": "\n1、主要负责全国（安邦保险集团股份有限公司）上千台公务车辆的使用管理、维修保养的项目的审核、固定资产的管理，结合GPS设备对车辆进行监管； 2、负责公务车档案保险管理，车辆异地年检手续办理，租赁事宜； 3、各分公司行车日报收集，审核维修项目，核实维修费用，对车辆资产进行巡查保护； 4、分公司车辆管理岗管理，工作督导； 5、车辆的日常费用审批； 6、与青岛腾信拍卖公司合作进行查勘车辆的网络拍卖； 7、全国车辆调拨的物流运输工作，保证车辆安全准时到达。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "北京神龙京津汽车销售有限公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2012.01", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "销售部", 
+            "jobStart": "2009.03", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "2年10个月", 
+            "incEmployee": "100-499人", 
+            "incType": "民营", 
+            "jobPosition": "销售支持", 
+            "jobDesc": "\n负责新车上牌，新车验收，库存管理，做过服务顾问，下过车间，懂得汽车修理。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "北京首汽腾鹏汽车销售服务有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2009.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "销售部", 
+            "jobStart": "2008.10", 
+            "incIndustrys": "汽车/摩托车", 
+            "jobDuration": "5个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "国企", 
+            "jobPosition": "销售代表", 
+            "jobDesc": "\n整车销售，库存管理，售后服务，万车网后台管理,并且具备熟练的驾驶技术。", 
+            "witness": ""
+        }
+    ]
+}

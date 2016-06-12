@@ -1,0 +1,118 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-01", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "339484853", 
+        "recentMajorName": "经济管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "齐齐哈尔", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "人事主管", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "金融/投资/证券", 
+        "nowInc": "上海嘉银企业征信服务有限公司", 
+        "nowHukou": "", 
+        "dob": "1982年7月", 
+        "gender": "女", 
+        "age": "33岁", 
+        "recentSchName": "中共中央党校函授学院", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "10年以上工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "英语（良好）"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "良好的心态，积极开展工作，执行力强，善于沟通，富有团队合作精神……亲和力非常强15765046138", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "金融/投资/证券，酒店/旅游", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪6000-7999", 
+        "ignoreIncs": "", 
+        "expJobCates": "人事主管", 
+        "expLocations": "齐齐哈尔", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2009.12", 
+            "schName": "中共中央党校函授学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.7", 
+            "majorName": "经济管理", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "上海嘉银企业征信服务有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.11", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "营销部门", 
+            "jobStart": "2015.4", 
+            "incIndustrys": "金融/投资/证券", 
+            "jobDuration": "7个月", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "人事主管", 
+            "jobDesc": "协助执行公司的各项规章制度和维护工作秩序；2、负责公司员工的考勤管理；3、负责公司全体员工的后勤保障工作，包括发放办公用品、印制名片、办理餐卡、定水、定票、复英邮寄等事务；4、负责接待来宾，接听或转接外部电话；5、负责与工作内容相关的各类文件的归档管理；6、完成上级安排的其他工作任7.办理及管理公司证照及打理内外公关事务8每月预算，报销及物料申请，员工入职离职办理手续等等", 
+            "witness": ""
+        }
+    ]
+}

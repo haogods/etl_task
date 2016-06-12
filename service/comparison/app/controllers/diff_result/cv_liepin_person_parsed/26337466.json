@@ -1,0 +1,222 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "6.00万（5000元/月 * 12个月）", 
+        "cvId": "26337466", 
+        "recentMajorName": "计算机科学与技术", 
+        "nowPoliStatus": "", 
+        "nowAddress": "广东省", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "贸易/进出口", 
+        "nowInc": "深圳市明墨科技有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "28 岁", 
+        "recentSchName": "江西工业工程职业技术学院", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "6 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "2013年3月获得会计从业资格证", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "自律，自知，自信。把握自我，努力提升能力，在学校组织的活动中从客观方面提升自己的素质，如交际沟通，组织协调。并获得上述奖励。           \t大局观，纪律观，创新观。洞察本质，创造新意，面对任务，先思考尔后做出决策，获得好评,如上述优秀称号。 \t说得少，做得多；坚韧沉稳；在困境中看到希望。 \t有诚信，求上进；工作踏实；在顺境中看到进步的空间。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "印刷/包装/造纸;原材料及加工;仪器/仪表/工业自动化/电气", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "财务助理", 
+        "expLocations": "广东省", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2010.07", 
+            "schName": "江西工业工程职业技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.09", 
+            "majorName": "计算机科学与技术", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "深圳市德帮能源科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.05", 
+            "incIndustrys": "新能源", 
+            "jobDuration": "11个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/04", 
+                    "location": "广东省", 
+                    "positionStart": "2013/05", 
+                    "jobPosition": "财务助理", 
+                    "jobDesc": "担任财务文员，熟悉财务职务流程，主要负责为公司内部工资核算、开增值税发票、管理公司与客户签订的各项合同等。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "深圳金典纸品有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.11", 
+            "incIndustrys": "印刷/包装/造纸", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2013/04", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2011/11", 
+                    "jobPosition": "财务文员", 
+                    "jobDesc": "担任财务文员，熟悉财务职务流程，主要负责内部账务处理（应收应付账款）及公司到期货款的跟进与催促、登记与整理客户的增值税发票。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "深圳市华生纸品厂", 
+            "jobSalary": "", 
+            "jobEnd": "2011.11", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.10", 
+            "incIndustrys": "印刷/包装/造纸", 
+            "jobDuration": "1年1个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2011/11", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2010/10", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "担任财务文员，熟识财务职务流程，主要负责工资核算、新进员工登记、货款的跟进、登记与整理客户的增值税发票及月底对账。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "深圳市达利丰涂料有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2010.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.11", 
+            "incIndustrys": "石油/石化/化工", 
+            "jobDuration": "10个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2010/09", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2009/11", 
+                    "jobPosition": "业务跟单", 
+                    "jobDesc": "担任跟单文员，熟识跟单职务流程；主要负责业务跟单及生产跟单、接收客户传真的订单及口头订单、根据客户交货日期进行排单、跟进生产进度及售后服务、月底做对账"
+                }
+            ]
+        }
+    ]
+}

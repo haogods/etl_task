@@ -1,0 +1,235 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-21", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "37270010", 
+        "recentMajorName": "信息管理与信息系统", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "java开发工程师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "深圳市前海迈信互联网金融有限公司", 
+        "nowHukou": "黄冈", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "24 岁", 
+        "recentSchName": "南昌航空大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "2 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "美汇城电商平台", 
+            "proStart": "2015.03", 
+            "devTool": "", 
+            "proRole": "项目负责人，负责承接项目，并协调团队进行开发。", 
+            "proIncName": "", 
+            "proDesc": "使用spring+mybatis架构。该网站主要是实现网上购物平台的功能，提供用户注册，充值，添加购物车，结算生成订单。商户后台商品管理，用户管理，数据管理等功能。项目中用到分布式开源框架dubbo,消息队列activeMQ,spring restful标准。", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "2015.06"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "投融天下p2p金融平台", 
+            "proStart": "2014.07", 
+            "devTool": "", 
+            "proRole": "项目组长，负责开发用户投标，用户充值，用户取现等核心功能，后台部分管理系统。管理团队，协调前端进行系统的前后端对接。", 
+            "proIncName": "", 
+            "proDesc": "该项目利用spring+mybatis框架开发。系统主要有 用户注册登录，用户投标，用户充值，用户转账，债权转让，后台发标，标的管理，后台管理等功能模块。涉及到第三方支付接口。采用spring mvc 开发模式，利用spring security实现安全访问控制。协调团队完成任务，采用敏捷开发管理。", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "2014.12"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "善水融互联网金融p2p平台", 
+            "proStart": "2014.02", 
+            "devTool": "", 
+            "proRole": "负责开发p2p平台中债权转让模块，用户投标模块，后台管理系统部分模块，接入短信接口，第三方支付接口", 
+            "proIncName": "", 
+            "proDesc": "此项目为合作项目，项目使用开发架构为：playframework+mysql.利用playframework框架的mvc模型开发出web应用，编写相应业务逻辑组件，实现相应模块的功能，并利用jquery ajax对接前端.", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "2014.06"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "本人热爱IT行业，喜欢钻研新技术，性格开朗，善于沟通，有较强的抗压能力", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "计算机软件", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "保密", 
+        "ignoreIncs": "", 
+        "expJobCates": "软件工程师", 
+        "expLocations": "深圳;上海;广州", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2014.06", 
+            "schName": "南昌航空大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.09", 
+            "majorName": "信息管理与信息系统", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "深圳市前海迈信互联网金融有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.06", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "9个月", 
+            "incEmployee": "100-499人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "至今", 
+                    "location": "不限", 
+                    "positionStart": "2015/06", 
+                    "jobPosition": "java开发工程师", 
+                    "jobDesc": "开发迈信金融P2P平台，后台管理系统。并基于系统现有架构进行新功能的开发与系统功能的扩展。系统架构为spring+mybatis。负责开发 汇付天下调用接口，对账子系统，销售经理绩效子系统，宣传管理模板子系统，抽奖功能等以及充值，提现，投标，放款，还款的核心业务模块的编写。熟练使用jquery ajax实现前后端数据的交互。了解dubbo开源分布式框架应用场景，redis（nosql）缓存以及rocketMQ消息队列的运用原理。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "英迈思有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.02", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年2个月", 
+            "incEmployee": "500-999人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2015/04", 
+                    "location": "不限", 
+                    "positionStart": "2014/02", 
+                    "jobPosition": "软件工程师（项目组长）", 
+                    "jobDesc": "（项目小组负责的项目名称为：晓风安全网贷系统SP2P6.0 开发工具：eclipse+mysql 开发环境:linux 、play framework、mysql 工作内容:了解SP2P互联网金融平台的开发以及系统业务流程，熟悉基于playframework框架的系统敏捷开发，负责开发用户投标，充值和满标放款等模块。了解数据库的设计架构，以及第三方资金托管接口的调用，数据库的并发控制. 负责项目的部分模块开发，每周工作的汇报，协调进行日常工作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "南昌南昌思锐移动互联", 
+            "jobSalary": "", 
+            "jobEnd": "2014.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.11", 
+            "incIndustrys": "计算机软件", 
+            "jobDuration": "3个月", 
+            "incEmployee": "100-499人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2014/02", 
+                    "location": "不限", 
+                    "positionStart": "2013/11", 
+                    "jobPosition": "java 实习", 
+                    "jobDesc": "项目名:有家吧移动APP 项目介绍:该app是一款提供用户买房服务的移动app，功能包括房源查找，房源展示，房价预估，区域房预定，联系商家。以及用户注册在线交流。 开发工具：webStorm、myeclipse 负责聊天模块的前端页面设计，利用html5完成页面的前端脚本编写，并利用jquery实现动态效果，编写ajax实现与后端数据交互功能 。 利用spring+mybatis参与后台计费以及用户，房源管理的开发，实现后台管理用户信息，房源信息，不定时的消息推送功能，websocket实现用户的web在线聊天功能。"
+                }
+            ]
+        }
+    ]
+}

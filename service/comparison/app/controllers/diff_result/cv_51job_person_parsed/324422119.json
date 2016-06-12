@@ -1,0 +1,202 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-01", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "月薪6000-7999", 
+        "cvId": "324422119", 
+        "recentMajorName": "国际经济与贸易", 
+        "nowPoliStatus": "", 
+        "nowAddress": "西安", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "部门主管", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "房地产", 
+        "nowInc": "陕西xx地产开发有限公司", 
+        "nowHukou": "西安", 
+        "dob": "1985年7月", 
+        "gender": "男", 
+        "age": "30岁", 
+        "recentSchName": "西安工业大学", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "5-7年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "西北大学", 
+            "trainCert": "", 
+            "trainStart": "2015.3", 
+            "trainTitle": "限制人力资源总监发展的五道门", 
+            "trainEnd": "至今："
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "智联招聘，前程无忧组织的人资各类培训", 
+            "trainCert": "", 
+            "trainStart": "2012.9", 
+            "trainTitle": "招聘管理，绩效考核管理，8090后管理，薪酬管理，人力资源配置管理等", 
+            "trainEnd": "至今："
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "忠远职业资质培训机构", 
+            "trainCert": "企业人力资源管理师二级", 
+            "trainStart": "2012.6", 
+            "trainTitle": " 完成人力资源管理三级和二级所有课程", 
+            "trainEnd": "2013.5"
+        }, 
+        {
+            "itemId": "4", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "红旗驾校", 
+            "trainCert": " C1", 
+            "trainStart": "2011.2", 
+            "trainTitle": "驾驶", 
+            "trainEnd": "2011.8"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（一般），读写（一般）", 
+            "languageName": "英语（一般）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "\n2010 /1乙等奖学金2009 /10学生会优秀管理者2009 /5系优秀班干部2009 /3党员2008 /3入党积极分子2007 /9军训优秀学员", 
+        "schoolExp": "2008 /9--2011 /7学生会秘书部副秘书长院系活动方案策划，组织，总结；各方关系协调，院系重要会议，接待性工作后勤保障2007 /10--2008 /9学生会外联部干事活动经费联络，活动赞助关系维护2007 /9--2011 /7班级生活委员班级活动组织，班费管理等", 
+        "religion": "", 
+        "selfIntro": "思维缜密、稳重务实、知识结构丰富、积极上进、适应性强、形象言谈良好。人力资源管理房地产集团", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产，多元化业务集团公司", 
+        "dutyTime": "待定", 
+        "notes": "", 
+        "workStatus": "观望有好的机会再考虑", 
+        "expSalary": "月薪6000-7999", 
+        "ignoreIncs": "", 
+        "expJobCates": "人事经理，人事主管", 
+        "expLocations": "西安", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.7", 
+            "schName": "西安工业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2007.9", 
+            "majorName": "国际经济与贸易", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "陕西xx地产开发有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "综合管理部", 
+            "jobStart": "2012.6", 
+            "incIndustrys": "房地产", 
+            "jobDuration": "3年9个月", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "部门主管", 
+            "jobDesc": "2012年入职企业集团本部办公，2013年地产独立，组建地产团队，2012年至今开发45万建面城市综合体，一期20万接近交房验收，二期规划方案研讨阶段，项目位于西安市高新区核心地段。个人转行进入地产从行政人事专员-招聘主管-人事主管-综合人资主管，全面负责地产公司行政人事事务管理工作及企业制度建设工作。目前在职，现有意向换工作环境，进一步提升自身行业阅历和项目经历。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "顺客来餐饮连锁管理有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2012.6", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "运营部", 
+            "jobStart": "2011.7", 
+            "incIndustrys": "餐饮业", 
+            "jobDuration": "11个月", 
+            "incEmployee": "150-500人", 
+            "incType": "", 
+            "jobPosition": "行政经理/主管/办公室主任", 
+            "jobDesc": "店长助理-店长-运营主任助理-办公室副主任；店面人员管理，物料管理，经营管理，经营管理，外部关系维护，企业人力资源管理和办公室管理", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "西安兴业银行", 
+            "jobSalary": "", 
+            "jobEnd": "2011.7", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "零售业务3部", 
+            "jobStart": "2011.3", 
+            "incIndustrys": "银行", 
+            "jobDuration": "4个月", 
+            "incEmployee": "500-1000人", 
+            "incType": "", 
+            "jobPosition": "客户代表", 
+            "jobDesc": "办理信用卡及协助小额贷款等", 
+            "witness": ""
+        }
+    ]
+}

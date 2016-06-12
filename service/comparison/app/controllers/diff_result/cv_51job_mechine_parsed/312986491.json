@@ -1,0 +1,180 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "36月", 
+            "skillName": "ms excel", 
+            "skillLevel": "精通"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "7月", 
+            "skillName": "javascript", 
+            "skillLevel": "熟练"
+        }, 
+        {
+            "itemId": "3", 
+            "skillDuration": "7月", 
+            "skillName": "css", 
+            "skillLevel": "精通"
+        }, 
+        {
+            "itemId": "4", 
+            "skillDuration": "7月", 
+            "skillName": "html", 
+            "skillLevel": "精通"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "175", 
+        "nowSalary": "月薪4500-5999人民币", 
+        "annualIncome": "", 
+        "recentMajorName": "计算机工程", 
+        "nowAddress": "上海-嘉定区", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "网站营运专员", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/电子商务", 
+        "nowInc": "上海古星电子商务有限公司", 
+        "nowHukou": "上海", 
+        "dob": "1989年9月", 
+        "gender": "男", 
+        "age": "26岁", 
+        "recentSchName": "上海应用技术学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "3-4年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "特长：\r\n              四年来，在师友的严格教益及个人的努力下，我具备了扎实的专业基础知识，系统地掌握了C,C++,汇编等计算机语言；具备较好的 英语 听、说、读、写、译等能力；能熟练操作计算机办公软件。 此外，我还积极地参加各种社会活动，抓住每一个机会，锻炼自己。大学四年，不断向困难挑战，让我在挫折中成长。职业目标：\r\n              我热爱贵单位所从事的事业，殷切地期望能够在您的领导下，为这一光荣的事业添砖加瓦。 收笔之际，郑重地提一个小小的要求:无论您是否选择我，尊敬的领导，希望您能够接受我诚恳的谢意！ 祝愿贵单位事业蒸蒸日上！", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "1.本科学历，计算机专业，两年电商（天猫）运营经验，熟悉电商运营的整体流程和技巧2.熟练运用div+css进行静态页面布局，拥有良好的代码习惯，结构规范，命名准确。熟悉H5/CSS3的新增标签， 了解ajax,DOM,BOM模型,熟练使用jQuery库以及原生js.3.熟悉各主流浏览器常见兼容性问题且所有代码皆能熟练手写（html,css,原生js,jq等）4.具备熟练的网页布局/调试/优化技能5.良好的团队合作精神，较强的沟通能力、自学能力及抗压能力6.目前正在潭州学h5,bootstrap框架。web前端JavaScripthtmldiv+cssjQueryh5", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "计算机软件", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪6000-7999", 
+        "ignoreIncs": "", 
+        "expJobCates": "Web前端开发", 
+        "expLocations": "上海", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2012.12", 
+            "eduDesc": "", 
+            "schName": "上海应用技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.9", 
+            "majorName": "计算机工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_51job://312986491", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "上海古星电子商务有限公司", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "tnf运营部", 
+            "jobStart": "2014.6", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "1年8个月", 
+            "incLocation": "", 
+            "jobPosition": "网站营运专员", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "带领两位运营同事，负责the north face北面天猫旗舰店，京东店，童装店以及官网的全部运营工作。主要涵盖库存核对，上新，链接调整，运营计划的制定与完善，活动报名，折扣设置，销售日报，周报的处理等等。与市场，商品同事沟通反馈迅速，然后再分配给运营同事，各司其职。于去年双十一当天更是创6000W销售额的记录！", 
+            "jobAchievement": "", 
+            "jobEnd": "至今", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "150-500人"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "上海银橙传媒", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "产品运营中心", 
+            "jobStart": "2013.9", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "4个月", 
+            "incLocation": "", 
+            "jobPosition": "产品运营专员", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "运营的产品是叫做ADSafe广告管家的PC端软件，国内首款免费的去广告软件。参与制定和落实产品的整体业绩目标以及运营计划，与美工，技术,客服保持紧密联系，及时交流，沟通等。主要负责对内的运营，负责产品线上活动执行，参与软件，官网公告等内容撰写等相关工作，推广群内的维护，推广制度的改进，数据的收集，处理以及分析，微信公告平台的创建以及自动回复体系的设置与后期维护。百度百科，360百科的创建，更新维护。官网后台一系列内容的更新，页面跳转的测试与维护。新浪，腾讯微博的日常维护，不定时的举办转发，晒照片等活动。如：第一次微博转发活动就获得了20W的关注，效果十分显著。还负责软件bug问题的提出，跟进。与大网站的友链合作的商谈。论坛，媒体的软文覆盖，对浏览量，回复量等重要信息进行采集，分析。还有产品的UE分析，各操作的点击数量分析，用户行为分析以及同类产品的比较与分析（站在用户的角度进行思考）等，目前该产品的日活跃已经近50W.并且在13年年末360举办的软件风云榜中获奖。", 
+            "jobAchievement": "", 
+            "jobEnd": "2014.1", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "50-150人"
+        }
+    ]
+}

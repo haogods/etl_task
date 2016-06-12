@@ -1,0 +1,172 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "36月", 
+            "skillName": "ms powerpoint", 
+            "skillLevel": "熟练"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-01", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "168", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "行政管理", 
+        "nowAddress": "大连", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "行政前台", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "教育/培训/院校", 
+        "nowInc": "大连海派学校", 
+        "nowHukou": "大连", 
+        "dob": "1993年7月", 
+        "gender": "女", 
+        "age": "22岁", 
+        "recentSchName": "大连广播电视大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "3-4年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（熟练），读写（熟练）", 
+            "languageName": "英语"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }, 
+        {
+            "itemId": "3", 
+            "languageLevel": "二级", 
+            "languageName": "日语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "\n2009 /10获优秀学生国家奖学金3000元", 
+        "religion": "", 
+        "selfIntro": "◆本人对工作一向持有认真的态度，面对新事物愿意学习并且接受能力强。\r◆曾经做过相关行业，在自身业务上也储备了实际运用技巧与知识。\r◆具有良好的团队精神能和大家相处融洽。\r◆在以往工作中面对客户提出的要求尽力做到让客户满意并与客户建立良好的合作关系。\r◆希望能得到贵公司赏识，日后为公司尽一份绵薄之力。\r◆您为我提供机会的舞台，我们一起共创未来。\r◆最后、本人真诚地愿与工作中的同事一起努力为公司创造财富。责任心不懈怠工作接受力强", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "", 
+        "ignoreIncs": "", 
+        "expJobCates": "行政专员/助理，前台接待/总机/接待生", 
+        "expLocations": "大连", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2012.5", 
+            "eduDesc": "", 
+            "schName": "大连广播电视大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.4", 
+            "majorName": "行政管理", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "cvId": "cv_51job://308190681", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "大连海派学校", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "行政部", 
+            "jobStart": "2014.9", 
+            "incIndustrys": "教育/培训/院校", 
+            "jobDuration": "1年4个月", 
+            "incLocation": "", 
+            "jobPosition": "行政前台", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "1、来访客人的接待。2、接听/转接电话、并做好相关记录。3、收发传真、邮件，员工日常考勤情况。4、办公室日常用品消耗的采购与管理。 5、清点各项费用的收款、整理账目明细。6、协助各部门组织与推广公司的活动。7、使用WORD、EXCEL、PPT、做相关的报表。8、面试通知、筛选等相关人事工作。9、完成上级领导交办的其他工作内容。", 
+            "jobAchievement": "", 
+            "jobEnd": "2016.1", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "50-150人"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "大连新干线旅行社", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "接待部", 
+            "jobStart": "2012.5", 
+            "incIndustrys": "酒店/旅游", 
+            "jobDuration": "2年3个月", 
+            "incLocation": "", 
+            "jobPosition": "旅游顾问", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "1.来访客户的接待，与客户沟通了解客户旅游需求。2.介绍旅游线路、同时为客户解决游玩期间的突发状况与棘手问题。3.使用办公软件制作部门的相关报表。4.统计每月业绩表并交财务做账。5.负责售后回访等工作。", 
+            "jobAchievement": "", 
+            "jobEnd": "2014.8", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "50-150人"
+        }
+    ]
+}

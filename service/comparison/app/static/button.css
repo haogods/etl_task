@@ -1,0 +1,29 @@
+
+.file_button{
+
+    position: relative;
+    left: 100px;
+    overflow: hidden;
+    margin: 10px;
+}
+
+/*a:link{*/
+    /*/!*color: #11557C;*!/*/
+    /*text-decoration:none;*/
+/*}*/
+
+/*a:visited {*/
+ /*COLOR: #dd4a38;*/
+ /*TEXT-DECORATION: none;*/
+ /*background-color:red;*/
+/*}*/
+
+/*a:hover{*/
+    /*COLOR: #ff7f24;*/
+    /*text-decoration:underline;*/
+/*}*/
+
+/*a:active {*/
+ /*COLOR: #9C1A1C;*/
+ /*text-decoration: underline;*/
+/*}*/

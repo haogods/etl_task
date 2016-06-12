@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+
+<html>
+
+{% extends "base.html" %}
+{% block content %}
+
+<head>
+    <link rel = "stylesheet" href="http://cdn.amazeui.org/amazeui/2.4.0/css/amazeui.min.css">
+    <link rel = "stylesheet" href="../static/button.css">
+    <meta charset="utf-8" />
+
+</head>
+
+<body>
+
+<div class="am-topbar am-u-sm-centered">
+    <h1 class="am-active" style="text-align:center" > cv对比 - 上传文件</h1>
+</div>
+<div class="am-g">
+<div class="am-u-sm-10 am-u-sm-centered">
+<div class="am-intro-left am-active" style="height:150px">
+<h2 style="text-align:center"><em>使用说明</em></h2>
+
+<P class="am-serif" style="text-align:center">上传样本gzp, zip压缩文件。</P>
+<P class="am-serif" style="text-align:center">上传人工解析csv文件(UTF-8编码)</P>
+<P class="am-serif" style="text-align:center">文件命名不要有空格，正确例子：51job-sample.zip, 51job_parse.csv || zhilian-sample.zip, zhilian_parse.csv</P>
+
+</div>
+    <br/><br/>
+
+<form name='form1' class="am-form-inline" action="/uploads" method="post" enctype="multipart/form-data"  style="text-align:center">
+
+
+    <input type="file" name="sample_file"  style="display:none;" onChange="document.form1.path1.value=this.value">
+    <input name="path1" readonly>
+    <input type="button" value="上传样本文件" onclick="document.form1.sample_file.click()">
+
+    <input type="file" name="parsed_file"  style="display:none;" onChange="document.form1.path2.value=this.value">
+    <input name="path2" readonly>
+    <input type="button" value="上传人工解析文件" onclick="document.form1.parsed_file.click()">
+    {% if result %}<p style="color:red">{{ result }}{% if ok %}<a href="/shared"> 结果</a>{% endif %}</p>{% endif %}<br /><br/>
+
+    <!--<input type=button name="parsed_file"  class="file_button" value="输人工解析文件" />-->
+
+<input type="submit" class="am-btn am-btn-primary" value="Upload" />
+
+</form>
+</div>
+</div>
+
+</body>
+{% endblock %}
+</html>

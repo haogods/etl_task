@@ -1,0 +1,285 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "26822545", 
+        "recentMajorName": "电子商务及法律", 
+        "nowPoliStatus": "", 
+        "nowAddress": "杭州-下城区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "贸易/进出口", 
+        "nowInc": "杭州红光塑料纸品包装有限责任公司", 
+        "nowHukou": "杭州", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "41 岁", 
+        "recentSchName": "哈尔滨工业大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "23 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "1、熟悉银行各类业务（公司类、个人理财类）有会计证。2、珠宝钻石鉴定行家，有珠宝钻石鉴定家证书。3、拍卖行业资深从业人员，有拍卖从业资格证。4、有保险从业证，多次与保险公司合作举办过活动，开办过鉴定、鉴宝、个人理财类活动。", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "工作：勤奋、务实，生活：健康、朴素，为人：乐观、开朗。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "银行;基金/证券/期货/投资;信托/担保/拍卖/典当", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，急寻新工作", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "风险管理/控制;会计/会计师;出纳员", 
+        "expLocations": "杭州", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2007.07", 
+            "schName": "哈尔滨工业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2004.09", 
+            "majorName": "电子商务及法律", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "杭州红光塑料纸品包装有限责任公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.04", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "11个月", 
+            "incEmployee": "50-99人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "4 ", 
+                    "location": "杭州", 
+                    "positionStart": "2015/04", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "财务日常工作,记帐复核编制会计报表."
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "杭州坤策投资管理有限责任公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.10", 
+            "incIndustrys": "基金/证券/期货/投资", 
+            "jobDuration": "6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/04", 
+                    "subTimeSize": "4 ", 
+                    "location": "杭州", 
+                    "positionStart": "2014/10", 
+                    "jobPosition": "风控总监", 
+                    "jobDesc": "部门及职务  风险控制部  经理汇报对象  总经理、董事长直接下属  本部门风控专员、各业务部负责人工作职责  负责各部门上报项目的风控审批,对于业务的事前调查、事中跟查、周边业务了解，市场调查，审批。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "浙江同仁豫典当有限责任公司", 
+            "jobSalary": "", 
+            "jobEnd": "2014.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.07", 
+            "incIndustrys": "信托/担保/拍卖/典当", 
+            "jobDuration": "3年2个月", 
+            "incEmployee": "1-49人", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/09", 
+                    "subTimeSize": "5 ", 
+                    "location": "杭州", 
+                    "positionStart": "2011/07", 
+                    "jobPosition": "副总经理", 
+                    "jobDesc": "部门及职务   副总经理汇报对象  总经理直接下属  业务经理及营业网点负责人工作职责  公司日常业务开展、借贷款业务资金审核发放、营业网点管理主要业绩  成功营销多个总借款在1000万以上项目和杭州市“中小企业扶持” 项目，累计审批发放各类借贷款业务3000万元以上，且不良率为0。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "浙江国信典当有限责任公司  浙江国信拍卖有限责任公司", 
+            "jobSalary": "", 
+            "jobEnd": "2011.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1999.03", 
+            "incIndustrys": "信托/担保/拍卖/典当", 
+            "jobDuration": "12年3个月", 
+            "incEmployee": "1-49人", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2011/06", 
+                    "subTimeSize": "5 ", 
+                    "location": "杭州", 
+                    "positionStart": "1999/03", 
+                    "jobPosition": "副经理", 
+                    "jobDesc": "职务      典当行副总经理    拍卖行项目部经理汇报对象  总经理直接下属  本公司各网点负责人（包括典当行总公司、分公司，拍卖行富阳、绍兴分行）工作职责  典当行总分公司重要业务及高端物品鉴定，借贷款业务审核资金发放；管理拍卖行各项拍卖业务主要业绩  典当行：公司经过短短一年的努力，成为典当行业领头羊，国内各地多家地方典当行都到我行来培训学习。我典当行与外部珠宝公司、广州深圳的珠宝生产企业联手盘活各类抵押的不良资产，并让我行典当零售业务超过杭州市典当行业内所有典当行零售业务的总合。带领公司员工不断增强业务能力学习业务知识，开典实践学习取得了巨大的成绩，鉴定业务差错为“0”，光对外鉴定费的收取就为公司获取了丰厚的收益。依靠拍卖行的优势我请到了原考古研究所所长，带取我们学习古玩鉴赏，丰富了我行典当项目。参与了我公司《走进典当时代》一书的主要编写工作，在多份报纸上发表刊登了文章，并多次接受电视报纸的采访，让民众更加了解典当行，让这个古老的行业重新发掘出无限魅力。          拍卖行：我于2000年拍卖行成立之际考取拍卖从业资格证，在我们的努力下2001年成功拍卖了杭州史上最大的一次股权拍卖业务（上海中西药业股份有限公司价值人民币4500万元的法人股），开创了浙江省股权拍卖的先河，推动了浙江省股权拍卖的发展。在我的组织带领下首开杭州城的民品拍卖会，每半月举办一次；首开杭州二手房拍卖。在探索中求发展，进行了公房和改制企业的资产拍卖取得了成功。举行了西湖南线商业网点“藉香居”经营权拍卖，受到社会各界的好评。与富阳土管局合作，多次成功拍卖了富阳国有蓄备土地。和萧山市心北路商业大楼拍卖。绍兴分公司国有资产等多项大型业务拍卖。浙江国信拍卖行重视企业文化建设，我先后参于了《拍卖哲学》、《现代拍卖面面观》、《现代典当拍卖收藏新论》和《画说百姓理财》等9本书藉的编写。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "5", 
+            "incDesc": "", 
+            "incName": "建设银行杭州分行经济开发区支行葵巷分理处", 
+            "jobSalary": "", 
+            "jobEnd": "1999.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1996.06", 
+            "incIndustrys": "银行", 
+            "jobDuration": "2年9个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "1999/03", 
+                    "subTimeSize": "10 ", 
+                    "location": "杭州", 
+                    "positionStart": "1996/06", 
+                    "jobPosition": "会计主管", 
+                    "jobDesc": "部门及职务  支行营业部  会计主管汇报对象  分理处主任直接下属  营业部网点员工工作职责  负责营业部各类会计核算、公司业务、国际业务、票据业务、配合各类信贷业务。主要业绩  列年来均出色完成各项考核任务。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "6", 
+            "incDesc": "", 
+            "incName": "建设银行杭州分行秋涛支行", 
+            "jobSalary": "", 
+            "jobEnd": "1996.05", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1993.03", 
+            "incIndustrys": "银行", 
+            "jobDuration": "3年2个月", 
+            "incEmployee": "100-499人", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "1996/05", 
+                    "subTimeSize": "0 ", 
+                    "location": "杭州", 
+                    "positionStart": "1993/03", 
+                    "jobPosition": "会计", 
+                    "jobDesc": "部门及职务  会计汇报对象  会计主管工作职责  负责营业部各类会计核算。主要业绩  列年来均出色完成各项会计核算工作。"
+                }
+            ]
+        }
+    ]
+}

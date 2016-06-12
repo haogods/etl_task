@@ -1,0 +1,182 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-28", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "新闻学", 
+        "nowAddress": "中山", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "实习生", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "影视/媒体/艺术/文化传播", 
+        "nowInc": "中山广播电视台", 
+        "nowHukou": "中山", 
+        "dob": "1994年1月", 
+        "gender": "女", 
+        "age": "22岁", 
+        "recentSchName": "电子科技大学中山学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "应届毕业生 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "从科目一到科目四，全部一次通过成功获得c1驾照。至今实习期已过。", 
+            "trainAgency": "广兴驾校", 
+            "trainCert": "", 
+            "trainStart": "2013.9", 
+            "trainTitle": "c1", 
+            "trainEnd": "2014.9"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（熟练），读写（熟练）", 
+            "languageName": "英语"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（精通），读写（精通）", 
+            "languageName": "粤语"
+        }, 
+        {
+            "itemId": "3", 
+            "languageLevel": "听说（精通），读写（精通）", 
+            "languageName": "普通话"
+        }, 
+        {
+            "itemId": "4", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "2013 /10--2014 /11校课外体育俱乐部宣传部部长负责与校课外体育俱乐部主席、副主席及各部门的沟通对接工作，组织部门内部委员展开工作，解决部门委员的问题。培养了我一定的沟通能力和团队合作能力。2012 /10--2013 /11校课外体育俱乐部宣传部委员负责校内体育赛事的宣传工作，主要体现在海报制作和比赛期间的照片采集。在此期间，学会了ps的使用以及单反相机的使用。具有一定的抗压能力，能够服从安排，恪守以集体利益为原则。", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "", 
+        "socialActie": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "广告，公关/市场推广/会展，影视/媒体/艺术/文化传播，文字媒体/出版，房地产", 
+        "dutyTime": "一周以内", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "大学/大专应届毕业生", 
+        "expLocations": "中山", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "至今", 
+            "eduDesc": "", 
+            "schName": "电子科技大学中山学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2012.9", 
+            "majorName": "新闻学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_51job://324651794", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "中山广播电视台", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "综合频道", 
+            "jobStart": "2015.7", 
+            "incIndustrys": "影视/媒体/艺术/文化传播", 
+            "jobDuration": "2个月", 
+            "incLocation": "", 
+            "jobPosition": "实习生", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "在职期间负责了第二届梦想新生代七彩阳光少儿五星电视大奖赛的相关工作，包括协助统筹策划，主要负责前期的选手招募和统筹，活动期间与选手的沟通以及与其他专业技术人员的工作对接交流，以及后期的成绩统计汇总等。工作中秉持三心：耐心、细心、责任心。遇到不懂的地方虚心的向同事请教并不断学习和练习，对事认真负责，待人以诚，获得了同事和领导的好评。", 
+            "jobAchievement": "", 
+            "jobEnd": "2015.9", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "150-500人"
+        }, 
+        {
+            "incDesc": "", 
+            "incName": "星火教育集团", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "市场部", 
+            "jobStart": "2012.6", 
+            "incIndustrys": "公关/市场推广/会展", 
+            "jobDuration": "1个月", 
+            "incLocation": "", 
+            "jobPosition": "市场宣传人员", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "在各中小学对星火教育机构进行推广活动，主要是派发宣传单张和口述介绍，推广，引导家长学生对本教育机构产生兴趣与信心，从而报名参加机构的课程。", 
+            "jobAchievement": "", 
+            "jobEnd": "2012.7", 
+            "underNum": "", 
+            "itemId": "2", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": "1000-5000人"
+        }
+    ]
+}

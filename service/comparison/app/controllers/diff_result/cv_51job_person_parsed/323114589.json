@@ -1,0 +1,141 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "年薪4-5万人民币", 
+        "cvId": "323114589", 
+        "recentMajorName": "物流管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "其他", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/电子商务", 
+        "nowInc": "上海网鱼信息科技有限公司", 
+        "nowHukou": "", 
+        "dob": "1994年4月", 
+        "gender": "男", 
+        "age": "21岁", 
+        "recentSchName": "三亚大学", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.8", 
+            "certName": "驾驶执照", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2013.4", 
+            "certName": "普通话等级证书", 
+            "certLevel": "二级甲等"
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（熟练），读写（熟练）", 
+            "languageName": "普通话（熟练）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（良好），读写（一般）", 
+            "languageName": "英语（一般）"
+        }, 
+        {
+            "itemId": "3", 
+            "languageLevel": "未通过", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "\n2014 /10三亚学院优秀班集体2012 /11蓝丝带海洋保护优秀志愿者", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "待人诚恳，有较好的沟通能力，抗压能力强，吃苦耐劳，有创新点子与服务意识，团队责任感强。平时爱好篮球、看书、书法、网游、旅游、音乐，偶像是科比。总是有人要赢的，那个人为什么不能是我呢形象气质佳普通话标准适应能力强沟通能力强有亲和力工作积极阳光开朗", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "2015 /3--2015 /5毕业实习广州远成快运公司实习 从事物流营业员职位 负责日常操作以及营销工作2014 /7--2014 /9三亚A.0.史密斯假期兼职工作 负责主要的门店营销以及相关的客户回流及维护工作2013 /7--2013 /9三亚万科森林公园实习从事安全资源管理工作2012 /7--2012 /8江西大余圆通分公司实习进行主要的收发配送货工作", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务，交通/运输/物流，娱乐/休闲/体育，快速消费品(食品、饮料、化妆品)，美容/保健", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪4500-5999", 
+        "ignoreIncs": "", 
+        "expJobCates": "其他", 
+        "expLocations": "广州，北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2015.6", 
+            "schName": "三亚大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.9", 
+            "majorName": "物流管理", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "上海网鱼信息科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2016.2", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "网鱼电竞", 
+            "jobStart": "2015.9", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "5个月", 
+            "incEmployee": "1000-5000人", 
+            "incType": "", 
+            "jobPosition": "其他", 
+            "jobDesc": "网咖部外场服务工作电竞馆相关的电子竞技比赛等相关活动一系列相关事宜（在举办的上海网鱼全国LOL总决赛、DOTA2决赛、空中网发布会等活动都有参与）", 
+            "witness": ""
+        }
+    ]
+}

@@ -1,0 +1,464 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">刘从华简历（附件）</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">销售管理、市场、影视/媒体/出版/印刷</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2016年03月10日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JR047778994R90250003000</span>
+                    </div>
+
+<div class="resume-left-tips-span" id="tagDiv">
+    
+        <span class="editor-layer-icon check smpevent"  title="" id="tagClassHeader" data-smpaction="addtags" data-smpposition="resumedetail"></span>
+        <span class="resume-left-tips-id tips-id-color smpevent" id="addTagHeader" data-smpaction="addtags" data-smpposition="resumedetail">添加标签</span>
+        <span class="check-close" title="" id="deleteTagHeader" dev_guid="6093606225" style="display:none"></span>
+</div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="6093606225" />
+</div>
+    <div id="resumeDetail">
+        
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div id="userName" class="main-title-fl fc6699cc" style="height: 54px;" alt="刘从华">
+            刘从华
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://mypics.zhaopin.com/pic/2013/3/7/2743F475A4AB4539A2A07C8383BDE0A5.jpg">
+        <img alt="" src="http://mypics.zhaopin.com/pic/2013/3/7/2743F475A4AB4539A2A07C8383BDE0A5.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;31岁(1985年11月)&nbsp;&nbsp;&nbsp;&nbsp;9年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+        <br />
+        现居住地：北京  | 户口：怀化 | 无党派人士
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+            <div class="feedbackD_show">
+                <div class="feedbackD_cont">
+                    <div class="feedbackD" id="feedbackD02">
+                        <div>
+                            <span>
+                                <em><b>15810235023</b></em>
+                                <em><i class="mail">liuconghua45@aliyun.com</i></em>
+                            </span>
+                        </div>
+                            <input class="__ga__searchresultTab_mianshiyaoqing_001 invite" type="button" value="发面试邀请" style="background-color: #ec6100; display: block; left: 288px;" data-fromd="1" />
+                            <input type="hidden" value="1" id="fromd" />
+                    </div>
+                </div>
+            </div>
+            <div class="printcontack">
+                <p><b>15810235023</b></p>
+                <p><b>liuconghua45@aliyun.com</b></p>
+            </div>
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>北京</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>不显示职位月薪范围</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前处于离职状态，可立即上岗</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>销售管理、市场、影视/媒体/出版/印刷</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>媒体/出版/影视/文化传播、互联网/电子商务、娱乐/体育/休闲、其他</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">1、	九年书刊发行营销工作，使我积累了丰富的相关工作经验，确立了良好的期刊营销渠道客户关系：并对渠道客户及消费者会员的管理有自己的一定理解<br />2、	具有多年部门团队管理经验，具备一定的组织管理及团队领导能力；<br />3、	思维开阔，熟练掌握专业的媒体运营及营销技能，较擅长新媒体营销、数据库营销、传统营销结合的整合操作</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2015.03 - 2015.12&nbsp;&nbsp;北京建院建筑文化传播有限公司&nbsp;&nbsp;（9个月）</h2>
+            <h5>发行经理</h5>
+            <div class="resume-preview-dl">
+                媒体/出版/影视/文化传播 | 企业性质：国企 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、	全面负责高码洋专业期刊的推广发行（两刊分别定价480、120），首次开展众筹+个性化订制+新媒体整合精确发行营销工作。成功发起建筑设计类期刊的首次网络众筹活动：“《EL建筑素描》世界上最美的杂志，等你来发现“。首创建筑类期刊专属页面私人定制服务， 结合众筹网、微信公众号、朋友圈的转发推广，并通过微信群对众筹读者管理以刊物制作进度的时时汇报与互动，在当时建筑圈形成了最热门的话题讨论之一，<br />2、	全面负责公司旗下刊物《建筑创作》《EL建筑素描》及部分图书的发行与销售事务开展及人员的管理。 发行渠道包括：民营、邮局、线上（淘宝、微店、京东）、新媒体营销、会展推广、书刊电子刊合作推广。完成了《建筑素描》杂志的从无到有的渠道开发，并建立了杂志的整体发行渠道布局及销售推广体系、初步建立了《EL建筑素描》杂志的读者会员销售及管理体系；以及补充创办了刊物网上销售渠道“微店”、并完善了淘宝店的网络销售流程及营销体系</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2013.08 - 2014.12&nbsp;&nbsp;乐友（中国）超市连锁有限公司（乐友孕婴童）&nbsp;&nbsp;（1年4个月）</h2>
+            <h5>发行经理</h5>
+            <div class="resume-preview-dl">
+                零售/批发 | 企业性质：民营 | 规模：1000-9999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、	乐友DM刊发行工作：<br />负责通过乐友《乐友目录册》《乐友孕妈咪手册》《乐友歌瑞家服装手册》《乐友宣传页》等DM刊的发行及发行人员管理；推广乐友品牌，招募新会员维护老会员。建立乐友系统完整的精确发行体系，具体包括：推出乐友会员推广员概念，建立以围绕门店为轴心，通过对各发行刊物设置独有的针对性的促销及互动活动以吸引目标人群参与及消费注册会员，通过反馈率测算考核发行效果，解决了之前只有单纯的派发无法获悉发行效果的问题；同时建立了乐友发行数据库，为集团开展更针对有效的营销活动提供了很好的数据支持。<br />2、	乐友定期营销活动的策划开展及组织/协助进行，<br />具体负责营销活动的策划、发起、组织及后续掌控；代表性有：1）2014年乐友15周年庆相关营销活动的策划及组织/协助开展：包括乐友嘉年华活动的举办、乐友疯抢15秒活动的策划组织、乐友15周年庆高峰论坛的举办及各庆祝活动的协助开展等。2）定期常规促销策划及组织执行等：如《巅峰让利庆双节》、《乐友圣诞节蛋蛋有礼》《48H挑战价格极限》等。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2012.04 - 2013.07&nbsp;&nbsp;北京圣富文化传播有限公司&nbsp;&nbsp;（1年3个月）</h2>
+            <h5>发行经理</h5>
+            <div class="resume-preview-dl">
+                媒体/出版/影视/文化传播 | 企业性质：民营 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>全面负责新刊《世界都市iTALK》的发行推广与发行团队的组建及管理工作，发行渠道包括：民营、邮局、线上（淘宝）、新媒体营销、书刊电子刊合作推广。以及杂志会员管理及数据库营销等<br />1、	在一个月不到的时间内成功完成新创刊的上市筹备及上市工作。包括杂志印厂确定、促销礼品确定与制作、发行渠道确定 、上市前期与上市后的宣传与推广， <br />2、	很好的搭建了杂志的整体发行渠道布局及架构体系，包括纸质杂志的全国各渠道发行推广展示体系。电子刊的网上推广发行体系，杂志会员管理与线下活动开展体系。为杂志的稳步发展与推广奠定了良好的基础<br />3、	制定和完善发行部门员工各岗位的发行工作流程及考核管理制度，保证部门工作的规范、高效的开展进行。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.07 - 2012.04&nbsp;&nbsp;赛思传媒&nbsp;&nbsp;（4年9个月）</h2>
+            <h5>区域发行经理</h5>
+            <div class="resume-preview-dl">
+                媒体/出版/影视/文化传播 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td> 在赛思工作5年，职业生涯的起点，全程经历所有的发行营销环节，使我从平媒小白随着工作职责及业务拓展变化，逐步成长为业务及管理并重的部门营销团队负责人。<br />2010年1月-2012年4月        赛思传媒          发行区域经理<br />1、	负责传统区域《Size尺码》《Size潮流生活》《Size户外》《NBA时空》等各项杂志的发行与销售事务及人员的管理，包括制订、执行、调整工作计划。制订和组织实施营销支持工作计划。完成所辖区域销售和回款任务；整理统计发行销售数据报表。期间着力提出开展了重点区域营销、地市区域拓展营销，对发行量增长起到一定促进作用，<br />2、	订阅直销工作及淘宝店铺销售：负责各渠道订阅和直销计划制定执行、淘宝店销售管理，特殊渠道开拓等。<br />传统营销基础上尝试开拓新型营销模式：数据库营销、网络营销：团购促销、微博营销、QQ营销……也取得了很好的销售效果。连续被评为2010年  2011年公司优秀员工。<br />2008年10月-2010年1月     赛思传媒      发行总监助理/市场监测专员<br />1、	协助部门经理完成销售计划制定、营销方案提交；审核调整杂志收订数量、协助进行对账催款、定期统计销售报表、拟订杂志部门考核报告；及部门内外部协调。期间重新制定了完善的日常发行工作流程、整套经销商对账表，使工作流程更规范，促进了发行效率的提高。<br />2、	负责各城市兼职员招聘管理，销售信息收集，开展辅助销售；定期撰写市场监测报告。定期进行读者调查并撰写提交读者调查报告。管理并建立完善公司发行与读者数据库。<br /></td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2004.09 - 2008.06&nbsp;&nbsp;湖南农业大学&nbsp;&nbsp;工商管理&nbsp;&nbsp;本科<br />
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="resume-preview-all" style="display: none;" id="coverletterPanel" data="letterid=0&ver=0">
+        <h3 class="fc6699cc">求职信</h3>
+        <div class="resume-preview-dl">
+            <p>{$letter_content$}</p>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">附件简历</h3>
+        <div class="resume-preview-dl">
+            <div class="attachment-resume">
+                    <span class="attachment-button"><a href="http://my.zhaopin.com/attach/2016/3/8/53BCC9E832D345B6AAAAF6484E38E5F6.pdf">点击下载</a></span>
+            </div>
+            <div>该简历已通过病毒扫描可安全打开。由于智联招聘未对其进行人工筛选，若与贵公司的职位要求不符合敬请谅解！</div>
+        </div>
+    </div>
+    <div id="commentBlock">
+
+    </div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer1 smpevent" data-smpaction="savetocomputer" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon1"></span>保存到我的电脑
+        </div>
+        <div class="resume-preview-button previewLayer2 smpevent" data-smpaction="forwardemail" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon2"></span>转发简历到邮箱
+        </div>
+        <div class="resume-preview-button previewLayer3 smpevent" data-smpaction="movefavoritefolder" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon3"></span>移到简历夹
+        </div>
+        <div class="resume-preview-button previewLayer4 smpevent" data-smpaction="recommendposition" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon4"></span>推荐职位
+        </div>
+        <div class="resume-preview-button previewLayer6 smpevent" data-smpaction="movetoresumebank" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon6"></span>保存到人才储备
+        </div>
+        <div class="resume-preview-button previewLayer7" isdelete="2">
+            <span class="resume-preview-button-span preview-icon7"></span>放入回收箱
+        </div>
+        <div class="resume-preview-button previewLayer9 smpevent" data-smpaction="addcomments" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon9"></span>添加评语
+        </div>
+        <div class="resume-preview-button previewLayer14 smpevent" data-smpaction="addtags" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon13"></span>添加标签
+        </div>
+        <div class="resume-preview-button complaints-resume">
+            <span class="resume-preview-button-span complaints-icon"></span>举报该简历
+        </div>
+        <div class="resume-preview-button previewLayer8 smpevent" data-smpaction="printresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon8"></span>打印简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+        <input type="hidden" id="invite_sms_license" value="t2dt6byrQiq0rLGKgngVUU7Tn5r52zC8LMQmwM9oIzlBMQmamW5Xz6qgMsm+jXaSUtHr1JGgZE5ZqK4yYClDt6uWqFI83fQtAYm/bq+gcIa22GRAxHUSYyiKJhAmEWrLIJOE/Ju9Z+plBzB8ydl+PHPjh4voeeP0FERRn8UsqNQwA4AF9U6+U2r74UvfhxW645V4kHjnO9oHp3sZbTGMDM/fAXO5TTOQq4dbMRDj6fGVUprbEaqsHPxdNXnUeYbuiqW1aRRm2Vy8cLRDrGukOG08tFyClE85Pk/HnJQ8oCIyNdyKJgACvK9g2+UbPUWXePCr9MZasodQbanNdgbYarVj3/l695zrUBYdl2koPDYkLrb36KYsNV1Ud7RWDDtePedF6UTmrUy2MI++3+5xDhr60IT/cr6RiYzM40yfuxEPuQVvwksJhk/x7N/rTe8h66XcnMeYlqt3fo2C9nI36Q==" />
+        <input type="checkbox" name="chkid_sendinfo" userinfo_forsend="刘从华$104777899$liuconghua45@aliyun.com$15810235023$6093606225$" id="sendNotify" checked="checked" style="display:none;" />
+    <input type="hidden" value="AppId=1&amp;Id=104777899&amp;Timestamp=635938962675796603&amp;Callback=&amp;signature=f0cc90bddcf5a2aa20bed92558b93e3e&amp;comid=15224761&amp;comname=深圳市柏威国际货运代理有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="刘从华" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="3" />
+    <input type="hidden" name="resume_id" id="resume_id" value="222685449" />
+    <input type="hidden" name="extId" id="extId" value="JR047778994R90250003000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="刘从华简历（附件）" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="104777899" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="深圳市柏威国际货运代理有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="深圳市柏威国际货运代理有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="15224761" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M3" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="201559569" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="15224761" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="6093606225" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JR047778994R90250003000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="2" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvinterview" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+        <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+            <p class="mtTitle">更多靠谱人才</p>
+            <div class="mtChatCon">
+                <ul></ul>
+            </div>
+            <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+        </div>
+    
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="1" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+    
+    
+    <script src="http://img07.zpin.net.cn/2014/rd2/js/timecountdown.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://img08.zpin.net.cn/2014/rd2/js/rob_time.js"></script>
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

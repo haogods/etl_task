@@ -1,0 +1,363 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2015-08-28", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "60.00万（50000元/月 * 12个月）", 
+        "cvId": "16803029", 
+        "recentMajorName": "建筑", 
+        "nowPoliStatus": "", 
+        "nowAddress": "无锡", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "副总经理", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "房地产开发/建筑/建材/工程", 
+        "nowInc": "杭州帮信置业", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "45 岁", 
+        "recentSchName": "长安大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "21 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "", 
+            "proStart": "0000.00", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "0000.00"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产开发/建筑/建材/工程", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "96.00万（80000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "副总裁/副总经理", 
+        "expLocations": "无锡", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "1993.07", 
+            "schName": "长安大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1989.09", 
+            "majorName": "建筑", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "位于杭州文一西路恒生科技园，开发项目四十万平米商业综合体", 
+            "incName": "杭州帮信置业有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.09", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "11个月", 
+            "incEmployee": "500-999人", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "50000元/月", 
+                    "jobAchievement": "建立销售团队，明确项目定位，保证及时回款", 
+                    "positionEnd": "2015/08", 
+                    "subTimeSize": "100 ", 
+                    "report": "总经理", 
+                    "location": "杭州", 
+                    "positionStart": "2014/09", 
+                    "department": "副总办", 
+                    "jobPosition": "营销副总", 
+                    "jobDesc": "负责营销策划，销售管理员以及外联"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "山西畅通达集团", 
+            "jobSalary": "", 
+            "jobEnd": "2014.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.05", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "3年3个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "70000元/月", 
+                    "positionEnd": "2014/08", 
+                    "subTimeSize": "500 ", 
+                    "report": "总经理", 
+                    "location": "太原", 
+                    "positionStart": "2011/05", 
+                    "department": "副总办", 
+                    "jobPosition": "常务副总经理", 
+                    "jobDesc": " 协助总经理全面工作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "陕西华辰地产", 
+            "jobSalary": "", 
+            "jobEnd": "2011.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.04", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "2年10个月", 
+            "incEmployee": "100-499人", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2011/02", 
+                    "location": "宝鸡", 
+                    "positionStart": "2008/04", 
+                    "jobPosition": "副总", 
+                    "jobDesc": "主要负责公司的项目的营销，以及和政府相关部门的沟通协调，对外关系的处理"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "这是国美集团的房地产公司，", 
+            "incName": "北京明天地产", 
+            "jobSalary": "", 
+            "jobEnd": "2007.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2004.10", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "3年2个月", 
+            "incEmployee": "", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2007/12", 
+                    "location": "北京", 
+                    "positionStart": "2004/10", 
+                    "jobPosition": "营销副总", 
+                    "jobDesc": "主要负责国美集团下属的明天第一城的营销，以及政府部门的沟通协调"
+                }
+            ]
+        }, 
+        {
+            "itemId": "5", 
+            "incDesc": "", 
+            "incName": "新时代药业北京分公司", 
+            "jobSalary": "", 
+            "jobEnd": "2004.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2001.09", 
+            "incIndustrys": "食品/饮料/烟酒/日化", 
+            "jobDuration": "2年11个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2004/08", 
+                    "location": "北京", 
+                    "positionStart": "2001/09", 
+                    "jobPosition": "分公司总经理", 
+                    "jobDesc": "负责该医药公司北京地区的医院开发和药品销售"
+                }
+            ]
+        }, 
+        {
+            "itemId": "6", 
+            "incDesc": "", 
+            "incName": "太原52935部队绿军苑", 
+            "jobSalary": "", 
+            "jobEnd": "2001.05", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1999.09", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "1年8个月", 
+            "incEmployee": "", 
+            "incType": "政府机关／非盈利机构", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2001/05", 
+                    "location": "太原", 
+                    "positionStart": "1999/09", 
+                    "jobPosition": "销售总监", 
+                    "jobDesc": "负责太原52935部队绿军苑小区的销售工作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "7", 
+            "incDesc": "", 
+            "incName": "海口方圆置业", 
+            "jobSalary": "", 
+            "jobEnd": "1998.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1996.04", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "2年8个月", 
+            "incEmployee": "", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "1998/12", 
+                    "location": "海口", 
+                    "positionStart": "1996/04", 
+                    "jobPosition": "销售经理", 
+                    "jobDesc": "负责本公司的房屋销售和团队管理"
+                }
+            ]
+        }, 
+        {
+            "itemId": "8", 
+            "incDesc": "", 
+            "incName": "兰州军区后勤部84586部队", 
+            "jobSalary": "", 
+            "jobEnd": "1995.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1993.12", 
+            "incIndustrys": "教育/培训/学术/科研/院校", 
+            "jobDuration": "2年", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "1995/12", 
+                    "location": "兰州", 
+                    "positionStart": "1993/12", 
+                    "jobPosition": "机关干事", 
+                    "jobDesc": "负责机关的日常事务以及上级领导的接待"
+                }
+            ]
+        }
+    ]
+}

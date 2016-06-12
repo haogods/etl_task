@@ -1,0 +1,219 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-10", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "00188102", 
+        "recentMajorName": "国际经济与贸易", 
+        "nowPoliStatus": "", 
+        "nowAddress": "广州", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "广州分部业务开发小组组长", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "银行", 
+        "nowInc": "中国民生银行能源金融事业部", 
+        "nowHukou": "深圳", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "36 岁", 
+        "recentSchName": "武汉理工大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "中国", 
+        "nowWorkAge": "13 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "CDCS Holder(国际信用证专家）大学英语六级，英语可作为工作语言", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "乐观向上，好学，勇于挑战创新，基于市场环境的变动调整产品，易接受新事物，具有很强的团队精神，勇于作出决定并承担责任，诚信，制定计划并执行，能够根据环境的变动作出调整。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "银行", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "客户经理/主管;国际结算/外汇交易;其他", 
+        "expLocations": "北京", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2003.07", 
+            "schName": "武汉理工大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1999.09", 
+            "majorName": "国际经济与贸易", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "中国民生银行能源金融事业部", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.05", 
+            "incIndustrys": "银行", 
+            "jobDuration": "3年10个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "2 ", 
+                    "location": "广州", 
+                    "positionStart": "2012/05", 
+                    "jobPosition": "广州分部业务开发小组组长", 
+                    "jobDesc": "负责省内能源类新客户拓展及现有客户新业务开发（谈判、融资方案设计、信贷报告撰写、额度提用）；负责广东及周边省份范围内民营石油化工、燃气客户的拓展及区域业务规划；参与不良贷款重组；负责团队案例分享及新业务培训。在融资方案设计方面除了传统商业银行业务品种亦涉及投行业务，包括并购（上市公司定向增发）、项目贷款、融资租赁、发债、信托、资产管理等。主要客户为民营企业，熟悉民企工作风格。已经完成及正在跟进的项目包括：A，广西某大型水电站应收账款保理业务（规模：5亿人民币）；B，广东某大型燃煤火电厂股权收益权项目融资（规模：30亿人民币，期限3年）；C，内蒙古某在建煤矿跨境融资租赁业务（规模：3.5亿人民币，期限5年）；D，广东某高速公路公司股权收益权项目融资（规模：7亿人民币，期限1年）；E，内蒙古某跨国投行直投风电项目融资（规模：2.3亿人民币，期限：5年）；F，广东某上市煤炭经销商结构性贸易融资（规模：6亿元人民，期限：1年）。G，上市公司环保并购基金项目（规模：7亿元人民币，期限：3年）。H，机构参与上市公司三年期非公开定向增发配资项目（规模：5亿元人民币，期限：3年）。项目收益率8%-10% P.A；"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "2013/05", 
+                    "subTimeSize": "0 ", 
+                    "location": "上海", 
+                    "positionStart": "2012/05", 
+                    "jobPosition": "南方区域中心产品经理", 
+                    "jobDesc": "南方区域中心（上海）产品经理，汇报给南方大区市场总监。负责所辖广州、成都、杭州分部的业务推动（广州片区大型民营煤炭进口客户，如秦发集团等；成都业务主要集中在四川宜宾和贵州地区的煤矿并购及矿建；杭州的锦江集团为国内氧化铝产业民营第二强）。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "汇丰银行（中国）有限公司环球交易银行部", 
+            "jobSalary": "", 
+            "jobEnd": "2012.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2005.12", 
+            "incIndustrys": "银行", 
+            "jobDuration": "6年4个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2012/04", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2011/04", 
+                    "jobPosition": "福费廷业务南区及西区拓展经理", 
+                    "jobDesc": "福费廷业务南区及西区拓展经理（深圳、广州、东莞、昆明、长沙、武汉、成都、重庆），汇报给福费廷业务中国区总监。负责福费廷业务南西区的业务拓展，涵盖客户包括中小企，大型客户和环球客户，涉及行业包括电子类、化工类、电信类、重型机械，大宗商品等。负责所辖区域客户的尽职调查和福费廷报告审批。涵盖业务包括传统贸易融资项下的福费廷业务（信用证），托收及电汇+保函、备用证项下的福费廷业务，托收保付（DA PER AVAL）项下的福费廷业务及工程项下的结构性福费廷融资。融资期限最短60天，最长6年。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "2011/04", 
+                    "subTimeSize": "1 ", 
+                    "location": "深圳", 
+                    "positionStart": "2009/04", 
+                    "jobPosition": "环球客户贸易融资业务经理", 
+                    "jobDesc": "环球客户贸易融资业务经理.汇报给环球贸易客户拓展中国   区总监，下属一人。负责对环球银行部客户（南区及西区）的贸易融资及产品销售，根据客户需求提供量身制作的全球贸易融资解决方案（主要客户包括华为，中兴通讯，三一重工，中集，三星电子等），协助企业进行全球销售、业务扩展。协调银行内部相关部门（涵盖全球四十多个国家和地区分行）的合作，日常客户维护。期间参与了三一重工北非公司在阿尔及利亚融资平台的搭建、三一重工及中集集团香港融资、中集来福士重建海工业务的海上钻井平台收购（新加坡、英国）、华为斯里兰卡项目以及文莱项目融资、中兴通讯巴拿马项目等跨境融资。"
+                }, 
+                {
+                    "itemId": 3, 
+                    "positionEnd": "2009/03", 
+                    "subTimeSize": "8 ", 
+                    "location": "深圳", 
+                    "positionStart": "2005/12", 
+                    "jobPosition": "出口单据处理部门主管（国际信用证专家CDCS）", 
+                    "jobDesc": "出口单据处理部门主管（国际信用证专家CDCS），下属团队共8人。负责部门日常事务，人员管理及培训，确保日常工作准确，按时完成。熟悉UCP600，URC522，URR725等相关国际惯例。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "中国农业银行广东省江门市分行", 
+            "jobSalary": "", 
+            "jobEnd": "2005.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2003.07", 
+            "incIndustrys": "银行", 
+            "jobDuration": "2年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2005/12", 
+                    "subTimeSize": "0 ", 
+                    "location": "江门", 
+                    "positionStart": "2003/07", 
+                    "jobPosition": "科员", 
+                    "jobDesc": "营业部、信贷审批中心、国际业务部工作。"
+                }
+            ]
+        }
+    ]
+}

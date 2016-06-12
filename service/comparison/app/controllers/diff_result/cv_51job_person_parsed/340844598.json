@@ -1,0 +1,113 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "黄政", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13410719061", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "huangzheng8752@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-06", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "340844598", 
+        "recentMajorName": "计算机应用", 
+        "nowPoliStatus": "", 
+        "nowAddress": "衡阳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "", 
+        "dob": "1995年8月", 
+        "gender": "男", 
+        "age": "20岁", 
+        "recentSchName": "湖南软件职业学院", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "应届毕业生 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（不限），读写（不限）", 
+            "languageName": "英语（一般）"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "华硕fx50j", 
+            "proName": "教育资源共享网站设计", 
+            "proStart": "2015.10", 
+            "devTool": "java1.7   photoshopmyeclipse", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "在互联网时代，教育资源的共享有利于学生以及广大人民的下载学习", 
+            "softwareEnv": "win7", 
+            "proDuty": "网站前端设计与制作", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "对专业技能了解良好，懂得HTML,CSS,JAVASCRPIT,POHTSHOP,D对销售方面有一定的经验。", 
+        "socialActie": "", 
+        "workLoc": "深圳", 
+        "stuPractice": "", 
+        "jobPositionFor": "网络客服（深圳）", 
+        "jobIncNameFor": "深圳市威雄实业发展有限公司", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "计算机软件，互联网/电子商务，网络游戏", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "网店/淘宝客服，网页设计/制作/美工，Web前端开发", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2016.6", 
+            "schName": "湖南软件职业学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2013.8", 
+            "majorName": "计算机应用", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": []
+}

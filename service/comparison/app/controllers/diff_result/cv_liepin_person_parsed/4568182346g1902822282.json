@@ -1,0 +1,272 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-01-27", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "21061093", 
+        "recentMajorName": "国际金融", 
+        "nowPoliStatus": "", 
+        "nowAddress": "上海", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "贸易金融部总经理", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "银行", 
+        "nowInc": "全国性股份制上市银行自贸区分行", 
+        "nowHukou": "上海", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "43 岁", 
+        "recentSchName": "上海交通大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "21 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "房地产项目贷款", 
+            "proStart": "2007.05", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "房地产开发贷款、经营性物业贷款、结构性融资项目项目涵盖住宅、办公楼、厂房等。", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "为多家房企成功办理项目融资。", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "**集团30亿元短融业务", 
+            "proStart": "2011.07", 
+            "devTool": "", 
+            "proRole": "银行方牵头人，负责参与企业价格谈判，银行内部评估、授信上报，总行金融市场部协调、承销协议拟定等。", 
+            "proIncName": "某国有集团公司", 
+            "proDesc": "知名央企发行30亿元短融，多家银行竞争，最终我行获得主承资格。", 
+            "softwareEnv": "", 
+            "proDuty": "银行方牵头人", 
+            "proAchievement": "该项目银行获得主承资格。", 
+            "proEnd": "2012.04"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "20亿元ABS项目", 
+            "proStart": "2010.10", 
+            "devTool": "", 
+            "proRole": "银行方牵头人，主承资质，负责参与项目优劣分级架构设计，价格谈判，银行内部评估、上报流程，拟定产品协议等。", 
+            "proIncName": "**汽车金融有限公司", 
+            "proDesc": "知名中外合资汽车金融公司，出于资产负债表考虑，与信托、银行开展资产证券化合作。标的资产20亿元，通过优先、劣后设置，发行ABS。", 
+            "softwareEnv": "", 
+            "proDuty": "银行方牵头人", 
+            "proAchievement": "该项目银行承销8亿元。", 
+            "proEnd": "2011.02"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "1. 具备良好的团队管理经验、团队合作精神和敬业精神。2. 具有良好的信贷业务从业经历和风险防控意识。拥有近16年的公司类信贷业务从业经验：在行业分析、客户评价、报表解读、财务分析等方面有很强的理论和实践能力；对企业的盈利模式、经营状况、财务状况有很强的分析判断能力；对信贷业务的风险点有较强的识别、分析、防控能力。3. 具有丰富的国际业务从业经验，熟悉进出口业务的各种贸易流程，包括结算、物流、通关等。4. 在企业贸易融资、供应链融资、保理业务等方面有丰富的实践经验。5. 熟悉金融市场动态及各类金融产品。6. 长期从事中小微企业服务，对中小微企业风险控制经验丰富。 7. 具备良好的沟通能力和金融系统人脉关系。为人诚信、待人真诚、性格开朗，有良好的沟通和交流能力。8. 有较好的领悟力、好奇心和学习能力，喜欢专研各类金融创新业务，包括互联网金融。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "银行;保险;基金/证券/期货/投资", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "投资银行业务;资产评估;行长/副行长", 
+        "expLocations": "上海", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "1995.07", 
+            "schName": "上海交通大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1991.09", 
+            "majorName": "国际金融", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": " ", 
+            "incName": "全国性股份制上市银行自贸区分行", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.09", 
+            "incIndustrys": "银行", 
+            "jobDuration": "1年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "6 ", 
+                    "location": "上海", 
+                    "positionStart": "2014/09", 
+                    "jobPosition": "贸易金融部总经理", 
+                    "jobDesc": "负责全行贸易金融业务营销管理负责自贸区产品创新负责全行分账核算业务推进"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "某国有股份制城商行上海分行", 
+            "jobSalary": "", 
+            "jobEnd": "2014.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.05", 
+            "incIndustrys": "银行", 
+            "jobDuration": "2年4个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "2012年筹建支行存款规模超10亿元。2013年支行存贷款规模增长50%。任职期间，无不良资产。", 
+                    "positionEnd": "2014/09", 
+                    "subTimeSize": "20 ", 
+                    "report": "分行行长", 
+                    "location": "上海", 
+                    "positionStart": "2012/05", 
+                    "department": "支行", 
+                    "jobPosition": "支行行长", 
+                    "jobDesc": "负责支行全面管理;面向中小微企业，提供供应链金融服务及贸易融资服务。向房地产项目提供结构化融资服务"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "中国农业银行股份有限公司上海市分行", 
+            "jobSalary": "", 
+            "jobEnd": "2012.05", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1995.07", 
+            "incIndustrys": "银行", 
+            "jobDuration": "16年10个月", 
+            "incEmployee": "", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "1.  加强客户粘性，提升客户回报，存贷款规模连续2年实现50%的增长，2011年末存贷款规模超400亿元。2.  积极开展与金融同业、融资租赁公司、财务公司、证券信托的项目合作。成功承销多家企业超过100亿元的中票及短融；与金融同业开展银团贷款，信贷资产转让等业务；与租赁公司开展飞机，工程设备，船舶、发电装备等项目合作。", 
+                    "positionEnd": "2012/05", 
+                    "subTimeSize": "5 ", 
+                    "location": "上海", 
+                    "positionStart": "2009/01", 
+                    "jobPosition": "分行公司业务部门  部门经理", 
+                    "jobDesc": "1.  负责对名单制大客户营销管理，协调管理20多家区支行80余名客户经理。2.  负责推广创新产品。主要包括供应链融资，保理，信贷资产转让，银团贷款，信托，短融、中票、PPN，公司债等融资工具等。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "jobAchievement": "1.2008年度，全辖12个网点储蓄总量增长30%，理财、基金、保险销售超10亿元；2.信用卡发卡1.8万张，有效活跃卡＞30%，3期以上不良率低于1%；3.2008年度先进集体，先进个人。", 
+                    "positionEnd": "2009/01", 
+                    "subTimeSize": "14 ", 
+                    "location": "上海", 
+                    "positionStart": "2007/06", 
+                    "report": "支行行长", 
+                    "jobPosition": "区支行（二级分行）个人金融部总经理", 
+                    "jobDesc": "负责支行个人金融部、个贷中心、房地产企业的管理；  管理个人金融业务条线的各项工作，包括新产品导入、业务培训、网点营销管理，业务条线考核等工作；  密切与保险公司、基金公司、信托等机构的业务联系，扩大个人零售业务产品线，增强支行的盈利能力； "
+                }, 
+                {
+                    "itemId": 3, 
+                    "jobAchievement": "2000年组建国际业务部，2年内达到分行系统内中上游水平。连续2年支行先进集体，先进个人。", 
+                    "positionEnd": "2007/06", 
+                    "subTimeSize": "7 ", 
+                    "location": "上海", 
+                    "positionStart": "2000/04", 
+                    "report": "支行行长", 
+                    "jobPosition": "区支行（二级分行）国际业务部总经理", 
+                    "jobDesc": "负责支行国际业务部的经营管理； 主要面向以国际结算业务为主的企业客户，向客户提供信用证开证、打包、保理、福费廷、掉期等国际贸易融资产品服务。 "
+                }, 
+                {
+                    "itemId": 4, 
+                    "positionEnd": "2000/04", 
+                    "subTimeSize": "0 ", 
+                    "report": "营业部经理", 
+                    "location": "上海", 
+                    "positionStart": "1995/07", 
+                    "department": "营业部", 
+                    "jobPosition": "区支行（二级分行）营业部柜员、信贷员", 
+                    "jobDesc": "银行基础岗位轮岗，包括储蓄、会计、联行、信贷员等所有工种； "
+                }
+            ]
+        }
+    ]
+}

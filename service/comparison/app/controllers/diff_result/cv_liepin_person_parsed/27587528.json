@@ -1,0 +1,131 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-04", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "9.60万（8000元/月 * 12个月）", 
+        "cvId": "27587528", 
+        "recentMajorName": "平面设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "手机UI设计", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "亨路达实业有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "27 岁", 
+        "recentSchName": "湖北轻工职业技术学院", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "5 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务;影视/媒体/艺术/文化/出版;广告/公关/市场推广/会展", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "10.80万（9000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "UI设计师", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.09", 
+            "schName": "湖北轻工职业技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "平面设计", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "亨路达实业有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.06", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "2年9个月", 
+            "incEmployee": "100-499人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "7000元/月", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2013/06", 
+                    "department": "设计部", 
+                    "jobPosition": "手机UI设计"
+                }
+            ]
+        }
+    ]
+}

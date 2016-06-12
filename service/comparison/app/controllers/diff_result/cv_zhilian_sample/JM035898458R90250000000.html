@@ -1,0 +1,547 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">房地产销售经理简历</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">房地产销售经理</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年12月29日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM035898458R90250000000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://rd.zhaopin.com/img/lookResumes.jpg">
+        <img alt="" src="http://rd.zhaopin.com/img/lookResumes.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年10月)&nbsp;&nbsp;&nbsp;&nbsp;7年工作经验&nbsp;&nbsp;&nbsp;&nbsp;大专&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+        <br />
+        现居住地：重庆 | 户口：重庆
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>重庆</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>不显示职位月薪范围</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>房地产销售经理</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>房地产/建筑/建材/工程</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">本人性格外向、反应敏捷、表达能力强，具有较强的沟通能力及交际能力，具有较强的亲和力，从事房产销售工作快9年了，其中有3年的销售经理岗位经验！有较丰富的管理经验，和带团队的经验，具备良好的市场分析及判断能力，良好的客户服务意识，具有较强的独立工作的能力，具优秀的职业道德和良好的团队合作精神责任心，能承受较大的工作压力； 愿意通过自己的努力获得丰厚的回报，我热爱这份职业.并希望在这个行业越走越好，谢谢！！</div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2014.09 - 至今&nbsp;&nbsp;重庆战友实业（集团）有限公司&nbsp;&nbsp;（1年3个月）</h2>
+            <h5>销售经理 | 8001-10000元/月</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、正确传达公司领导提出的营销组织工作方案，并贯彻执行。<br />2、负责公司的销售运作，包括策划、渠道。<br />3、制定销售计划、销售政策。<br />4、围绕企业下达的销售目、结合当前市场状况，标拟写营销方针和策略计划。<br />5、与其他部门合作，执行销售计划。<br />6、制定销售目标、销售模式、销售战略、销售预算和奖励计划。<br />7、建立和培养销售队伍。<br />8、合理分解销售目标。<br />9、指导、监督本部门进行客户开拓和维护。<br />10、管理日常销售业务工作，审核认购、控制销控、营造销售氛围。<br />11、市场调研预测和制定促销方案、价格。<br />12、参与重大合同的谈判与签订工作，负责对一般合同的审批。<br />13、收集销售信息，并反馈给公司领导。<br />14、组织完成企业年度销售目标。<br />15、客户投诉处理。<br />16、特殊销售情况处理。<br />17、考核直属下级并制定绩效改善计划。<br />18、对销售人员进行销售培训和指导。<br />19、完成领导临时交办的其他工作。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2011.08 - 2014.07&nbsp;&nbsp;重庆用智房地产顾问有限公司&nbsp;&nbsp;（2年11个月）</h2>
+            <h5>销售主管/  销售经理 | 8001-10000元/月</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>在用智房近三年的时间里，我和我的团队一起经历的项目，是我职业生涯一笔宝贵的财富。所经历的项目有“兰波.红城丽景”、“重庆.金贸中心”。在担任销售经理期间主要负责以下事情： <br />1、主持售楼中心的整体运作工作,组织实施公司有关销售方面的决议,负责完成公司下达的销售任务。 <br />2、制定阶段性销售计划,组织实施售楼部年度工作和销售计划,并完成销售计划。 <br />3、协助和参与项目销售策划。 <br />4、拟订售楼部内部管理机构设置方案及各职位的职责范围和标准。 <br />5、与人事部门共同拟订售楼部的基本管理制度。 <br />6、培训销售人员,指挥协调现场人员,营造销售气氛,辅助成交。 <br />7、拟订售楼中心佣金提成及奖励方案。 <br />8、对销售现场的整体监督、管理与控制。 <br />9、制定售楼中心员工的具体管理规章。 <br />10、提请聘任或者解聘本部门员工。 <br />11、及时提交销售报表,汇报所收集的信息、意见及出现的问题。 <br />12、制定员工的招聘、教育与培训计划。 <br />13、定期对本部员工进行考核、考查,对多次考核、考查不合格的员工进行处罚或解聘。 <br />14、负责本部门各项业务(如销售、合同、按揭、催款)的完成。 <br />15、及时协调和处理解决客户与业主的各类投诉并反馈有关信息,认真做好售前和售后的各项服务工作。 <br />16、负责售出单位认购书的签收与审核。 <br />17.参与项目策划工作,负责售楼处、样板房方案及装修标准方案的制定工作和组织实施工作。 <br />18、行使公司和上级授予的其他权利。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2010.03 - 2011.07&nbsp;&nbsp;重庆思源经纪有限公司&nbsp;&nbsp;（1年4个月）</h2>
+            <h5>置业顾问 | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>在思源所经历的项目有“万科.朗润园”、“万科.悦峰”项目，担任置业顾问一职。 <br />主要的职责： <br /><br />案前准备期 <br /><br />　　 1、项目周边的市场和项目进行调研，充分了解周边的详细情况 <br /><br />　　 2、熟记销讲和答客问的内容，积极演练，充分了解和熟悉本项目的产品 <br /><br />　　 3、认真登记来电、来访登记表 <br /><br />　　 4、在销售经理的带领下完成开盘演练 <br /><br />　　 5、遵守各项管理制度 <br /><br />　　 6、完成销售前期的其它准备工作 <br /><br />　　 项目销售期 <br /><br />　　 1、认真接待每一位进入案场的客户，做好来访、来电登记 <br /><br />　　 2、按质按量完成项目组布置的销售任务和其他工作任务 <br /><br />　　 3、遵守各项管理制度，熟练各项工作操作流程 <br /><br />　　 4、对周边市场及项目定期进行调研，及时掌握竞争个案动态，为公司创造新资源 <br /><br />　　 5、认真参加公司组织的培训，提高自己的专业能力 <br /><br />　　 6、认真负责的催缴客户余款，保证开发商的资金回笼 <br /><br />　　 项目结案期 <br /><br />　　 1、与客户保持良好的关系，做好售后服务，保持良好的礼仪规范 <br /><br />　　 2、做好结案的各项相关工作 <br /><br />　　 3、余款的催缴.</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.05 - 2010.03&nbsp;&nbsp;武汉合富锦绣地产顾问有限公司（重庆分公司）&nbsp;&nbsp;（2年10个月）</h2>
+            <h5>置业顾问 | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                房地产/建筑/建材/工程 | 企业性质：民营 | 规模：500-999人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>在武汉合富锦绣地产顾问有限公司(重庆分公司)培训实习一个月后，正式录用为销售主任，工作近两年时间，熟练掌握了房地产销售的各种工作，如：接待流程、楼盘介绍。掌握了很多的销售技巧、谈判技巧。 在职期间曾获得过月销售冠军</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">项目经历</h3>
+            <h2>2014.09 - 至今&nbsp;&nbsp;国宾豪庭三期.花样年华</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>1、正确传达公司领导提出的营销组织工作方案，并贯彻执行。<br />2、负责公司的销售运作，包括策划、渠道。<br />3、制定销售计划、销售政策。<br />4、围绕企业下达的销售目、结合当前市场状况，标拟写营销方针和策略计划。<br />5、与其他部门合作，执行销售计划。<br />6、制定销售目标、销售模式、销售战略、销售预算和奖励计划。<br />7、建立和培养销售队伍。<br />8、合理分解销售目标。<br />9、指导、监督本部门进行客户开拓和维护。<br />10、管理日常销售业务工作，审核认购、控制销控、营造销售氛围。<br />11、市场调研预测和制定促销方案、价格。<br />12、参与重大合同的谈判与签订工作，负责对一般合同的审批。<br />13、收集销售信息，并反馈给公司领导。<br />14、组织完成企业年度销售目标。<br />15、客户投诉处理。<br />16、特殊销售情况处理。<br />17、考核直属下级并制定绩效改善计划。<br />18、对销售人员进行销售培训和指导。<br />19、完成领导临时交办的其他工作。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>国宾豪庭三期花样年华为小区房，规划和特色以自然、生态、简洁、为主，结合原始地貌，运用现代手法营造回归自然的生态景观。 国宾豪庭三期花样年华小区内部配有羽毛球场、篮球场、乒乓球台儿童娱场、健身设施、观光电梯等；小区还设有24小时红外监控系统，人车分流；建筑主体时尚简洁，共33层高，户型面积在30-66平米，为单间配套和跃层小户。 项目周边生活配套齐全：农贸市场、永辉超市、中百仓储超市等；石油路小学、大坪中学、红光中学、医疗配套有：重庆医科大学等：重医附一医院，长航医院，长城医院、协和医院等。 项目健身配套设有：羽毛球场、篮球场、乒乓球台、观景电梯、儿童娱乐中心等。 本项目最大一个特点是交通状况良好有十几条公交通达全城，两条轨道交通（地铁1号线、轨道5号线）在此换乘。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2013.07 - 2014.07&nbsp;&nbsp;重庆.金贸中心</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在金贸中心项目，我的主要工作1、正确传达公司领导提出的营销组织工作方案，并贯彻执行。<br />2、负责公司的销售运作，包括策划、渠道。<br />3、制定销售计划、销售政策。<br />4、围绕企业下达的销售目、结合当前市场状况，标拟写营销方针和策略计划。<br />5、与其他部门合作，执行销售计划。<br />6、制定销售目标、销售模式、销售战略、销售预算和奖励计划。<br />7、建立和培养销售队伍。<br />8、合理分解销售目标。<br />9、指导、监督本部门进行客户开拓和维护。<br />10、管理日常销售业务工作，审核认购、控制销控、营造销售氛围。<br />11、市场调研预测和制定促销方案、价格。<br />12、参与重大合同的谈判与签订工作，负责对一般合同的审批。<br />13、收集销售信息，并反馈给公司领导。<br />14、组织完成企业年度销售目标。<br />15、客户投诉处理。<br />16、特殊销售情况处理。<br />17、考核直属下级并制定绩效改善计划。<br />18、对销售人员进行销售培训和指导。<br />19、完成领导临时交办的其他工作。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>重庆金贸中心，位于二郎科技新城科城路与迎宾大道交汇处，紧邻二郎立交，是重庆伟岸地产进军房地产市场又一力作，也是政府重点打造的二郎片区核心城市商务综合体。项目北临科城路，距迎宾大道、创新大道距离约300米；建设场地北侧为已建成留学生创业园，东侧为已建成渝高智博中心。金贸中心是由1栋甲级写字楼（26层）、1个特色精品酒店（8层）及3层裙楼商业组成的一个综合项目。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2011.08 - 2013.06&nbsp;&nbsp;兰波红城丽景</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在这个项目中我担任销售经理一职，由于是销售中、后期进入到项目，所以经历了项目的后期签约、催款、交房等一系列后续工作。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>兰波红城丽景位于重庆渝中区大坪长江二路39号。其北侧邻城市主干道长江二路，东西两侧邻城市次干道，南侧紧邻红楼宾馆，西侧次干道通往红楼宾馆，东侧次干道为规划道路，尚未成形。该地块距大坪核心区域约500米，周边除红楼宾馆外，还有红楼医院，、大坪医院、万友康年大酒店、佛图关公园等。该项目南侧为红楼宾馆，建筑体量低矮，北侧长江二路对面亦无高大建筑，居高远眺，视野开阔，尤其是其南侧可观长江风景带。长江二路是渝中区通往大坪及九龙坡的城市主干道，交通便捷，且轻轨、公交车站邻近本项目，出行方便，乃居家置业的理想地段。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2010.12 - 2011.07&nbsp;&nbsp;万科、悦峰</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>主要负责万科悦峰前期市调，客户接待（蓄客期、强销期、持销期）</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>万科悦峰--重庆万科2011年全新城市精装高层项目，位于两江新区核心，金开大道中段，坐拥成熟、便捷的金开城市生活。南侧金开大道与东侧市政道路均为城市主干道。万科悦峰南面为万科悦府别墅和市政规划的近400亩颐和公园，先天环境优美，视野开阔。区域交通条件良好，具有良好的地质，地形与生态环境条件。万科悦峰地块位于重庆两江新区重点发展的高新园片区，被定位为居住、商贸、高新技术为主的城市综合性开发区，是重庆高档住宅核心区。 万科悦峰总建筑面积约24万平米，共分三期进行开发，分别由7栋高层和3栋规划中的超高层U5精装修住宅组成；万科悦峰建筑为纯正Art deco建筑风格，Art deco建筑风格强调建筑物的高耸、挺拔,给人以拔地而起、傲然屹立的非凡气势，设计中始终以“人居”为基准点，追求居住的舒适度与品位，同时建立社区的独特性，将“以人为本、健康生活、高品质居住”贯穿于设计的全过程。 万科悦峰景观由一条长400米的雅致大道，总面积达12000平米的景观带构成；此外，万科悦峰项目特有“酒店式三级入户系统”，充分考虑了业主回家的每一步动线；酒店式”泛大堂”以及”入户大堂“和每层楼的玄关设计，真正开启业主居家仪式，让业主回家的路更为丰富有趣，同时也更多的增加了可供邻里交流的公共空间。生活配套方面——万科悦峰自身拥有商业配套近69000平米，为业主日常生活居家提供日用所需。除此之外，小区内部还设计了面积约1000平米的会所配套，届时会所除基本运动的服务功能外，将配备室内非标准恒温游泳池，丰富小区业主的日常休闲生活。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2010.03 - 2010.12&nbsp;&nbsp;万科朗润园</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在项目中担任置业顾问一职，负责接待客户、完成经理交代的销售任务</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>万科朗润园总建筑面积约18万平方米，社区规划合理排布的情景洋房、住宅、公寓多种形态，在产品配置方面以两房三房为主力产品，通过精装修及万科U5标准打造沈城又一城市住宅精品力作。万科朗润园的园林规划也是该产品的最大亮点。面对当代城市人居的“被动西化”状态，万科朗润园首次提出“当代友居院落”规划理念。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.07 - 2010.03&nbsp;&nbsp;隆鑫?玫瑰湾</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责客户接待，项目介绍，签约，客户问题处理等等，后期分析楼盘优劣势。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>隆鑫?玫瑰湾项目位于重庆市黔江区西街道黔州桥头北侧，南面为城市干道新华西路，西面靠江，东面为黔江市区，具有良好的山景和江景资源。 隆鑫?玫瑰湾项目地处渝湘高速进入黔江市区的入口门户，交通便利，地势优越。随着隆鑫?玫瑰月光大酒店一期酒店的建设，该地区将形成集居住、休闲、餐饮为一体的较成熟社区。二期高档住宅建成后，将进一步提升该区品质，逐步完善配套设施，使该区成为黔江新城市地标。 隆鑫?玫瑰湾项目为集酒店、商业、住宅等一体的高尚居住小区</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2009.05 - 2009.07&nbsp;&nbsp;隆鑫花漾四季</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>负责客户接待，项目介绍，签约，客户问题处理等等，后期分析楼盘优劣势。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>隆鑫花漾四季”位于石桥铺高九路花漾湖大社区，地处沙坪坝区，高新区，九龙坡区三区交汇的制高点，地理位置得天独厚。重庆首条公交车快速干道，贯穿渝中区、沙坪坝区和高新区，交通便捷畅达全城。到沙坪坝区三峡广场、高新区石桥铺、九龙坡区杨家坪这三个区域中心组团的车程都在10分钟以内</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2008.08 - 2009.05&nbsp;&nbsp;湖榕锦苑</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在湖榕锦苑做置业顾问期间，带领业务员团队，经历过前期所筹，开盘，签约，催款等流程。性格随和、幽默，且能吃苦耐劳，团队关系融洽！</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>湖榕锦苑位于重庆市大渡口区湖榕路，该项目由重庆市卢山房地产公司倾力打造，总建筑面积78000方，拥有6000多方的绿地面积，近3000方的社区商业，围合式小区设计，力在为业主营造出舒适宜人的居住环境，以人为本的设计更体现了人与自然、人与人之间的和谐共处，让每一位业主轻松享受生活。 周边配套：香港城购物中心、国瑞城步行街、各大餐饮店、学校、医院、银行、大渡口公园等完善市政配套设施使得该区域不得不成为最理想居家之所。 自身配套：小区幼儿园、社区商业、车库、健身设施、喷泉水景、绿化景观等每一件配套设施皆是为业主提供便捷舒适生活的保障。</td>
+                        </tr>  
+                </table>
+            </div>
+            <h2>2007.05 - 2008.07&nbsp;&nbsp;第一书香</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+
+
+                        <tr valign="top">
+                            <td width="60">责任描述：</td>
+                            <td>在第一书香做置业顾问期间，经历过预约，开盘，签约，催款等流程。对各种政策有一定的了解，性格随和、幽默，且能吃苦耐劳，团队关系融洽。</td>
+                        </tr>
+
+                        <tr valign="top">
+                            <td width="60">项目描述：</td>
+                            <td>第一书香是重庆新欧鹏地产开发，位于重庆巴川中学旁。是铜梁首席大型人文社区。总共16万方，10栋楼，4栋32层景观高层，6栋18层小高层。开盘时间2007年9月。为铜梁标志性建筑。一期均价2400。2期均价2700</td>
+                        </tr>  
+                </table>
+            </div>
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2005.03 - 2007.01&nbsp;&nbsp;重庆广播电视大学&nbsp;&nbsp;工商管理&nbsp;&nbsp;大专<br />
+        </div>
+    </div>
+
+
+
+
+
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=603589845&amp;Timestamp=635871624222961331&amp;Callback=&amp;signature=e426ad40d6806256c898ee1e80c1fa7b&amp;comid=75176229&amp;comname=广州硕荣贸易有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="管雄炜" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="176436120" />
+    <input type="hidden" name="extId" id="extId" value="JM035898458R90250000000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="房地产销售经理简历" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="603589845" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="广州硕荣贸易有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="广州硕荣贸易有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="75176229" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656562614" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="75176229" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM035898458R90250000000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

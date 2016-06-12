@@ -1,0 +1,141 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "9.10万（6500元/月 * 14个月）", 
+        "cvId": "21227037", 
+        "recentMajorName": "工商企业管理", 
+        "nowPoliStatus": "", 
+        "nowAddress": "上海", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "贸易/进出口", 
+        "nowInc": "外企", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "30 岁", 
+        "recentSchName": "河北大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "中国", 
+        "nowWorkAge": "6 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话、韩语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "持 会计从业资格证书、TOPIC6级、精通韩语及韩国文化，较好的英语能力。可以常驻韩国或者接受经常韩国出差。", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "精通韩国语，能适应各种工作环境。希望有一个能发挥才能的平台。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "全部行业", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，急寻新工作", 
+        "expSalary": "15.60万（13000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "不限", 
+        "expLocations": "上海", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.03", 
+            "schName": "河北大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "工商企业管理", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2008.06", 
+            "schName": "河北金融学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2005.09", 
+            "majorName": "会计学", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "大宇国际（上海）贸易有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.07", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "4年8个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "6500元/月", 
+                    "positionEnd": "至今", 
+                    "report": "会计主管", 
+                    "location": "上海", 
+                    "positionStart": "2011/07", 
+                    "department": "管理", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "1.每月记账，结账(SAP结账,SD&MM ,FI,MASTER DATA生成），与韩国总部联合结账,银行对账 2.每月报税，凭证装订 3.外高桥保税区相关业务联系 4.年度审计，联合年检等相关工作 5.兼总经理秘书工作"
+                }
+            ]
+        }
+    ]
+}

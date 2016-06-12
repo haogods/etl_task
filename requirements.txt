@@ -1,0 +1,12 @@
+beautifulsoup4
+simplejson
+tornado
+thrift
+lxml
+requests
+cv_parser_html
+ipin-rpc-gen-common
+ipin-rpc-gen-edu
+ipin-rpc-gen-etl
+ipin-rpc-inc-idinfo-gen
+ipin-rpc-inc-info-gen

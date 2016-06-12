@@ -1,0 +1,190 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "36301265", 
+        "recentMajorName": "艺术设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "设计主管、资深UI设计师、高级视觉设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "深圳惠卡世纪有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "27 岁", 
+        "recentSchName": "衡阳师范学院", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "5 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "惠卡商城  http://www.huikamall.com/", 
+            "proStart": "2014.07", 
+            "devTool": "", 
+            "proRole": "主导设定整体视觉风格和UI设计，跟进设计进度，制定设计规范，验收设计结果。对接开发，产品等把项目体验跟功能上优化完善好。", 
+            "proIncName": "深圳惠卡世纪有限公司", 
+            "proDesc": "大型商城，集购物、金融、社交于一体的综合互联网项目。", 
+            "softwareEnv": "", 
+            "proDuty": "主设计师", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "钱包金融  https://pay.365sji.com/", 
+            "proStart": "2014.07", 
+            "devTool": "", 
+            "proRole": "主导设定整体视觉风格和UI设计，跟进设计进度，制定设计规范，验收设计结果。对接开发，产品等把项目体验跟功能上优化完善好。", 
+            "proIncName": "深圳惠卡世纪有限公司", 
+            "proDesc": "面对大众用户的一个钱包理财项目，主打稳建收益，有保障。", 
+            "softwareEnv": "", 
+            "proDuty": "主设计师", 
+            "proAchievement": "", 
+            "proEnd": "2015.10"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "作品链接地址 http://594734939.lofter.com/", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "本人乐观开朗，勤奋好学，具备互联网思维，时刻关注业内设计动态和互联网趋势，能整体把控整套的UI设计风格。4年UI设计经验，曾混在平面视觉、品牌行业。上可沟通产品，下可对接程序，验收设计结果，经重重磨练，具备各方综合能力。能根据项目的前期视觉用户研究、设计流行趋势分析，主导设定整体视觉风格和UI设计，同时分享设计经验、推动提高团队的设计能力。作品链接地址：http://594734939.lofter.com/", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "UI设计师;视觉设计师;视觉设计总监/经理", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2012.07", 
+            "schName": "衡阳师范学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "艺术设计", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "深圳惠卡世纪有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.03", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "2年", 
+            "incEmployee": "1000-2000人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "8 ", 
+                    "location": "深圳", 
+                    "positionStart": "2014/03", 
+                    "jobPosition": "设计主管、资深UI设计师、高级视觉设计师", 
+                    "jobDesc": "负责公司互联网产品的前期视觉用户研究、设计流行趋势分析，主导设定整体视觉风格和UI设计，根据项目制定设计规范，分享设计经验、推动提高团队的设计能力。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "牧星策划设计机构", 
+            "jobSalary": "", 
+            "jobEnd": "2014.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.06", 
+            "incIndustrys": "影视/媒体/艺术/文化/出版", 
+            "jobDuration": "1年9个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/03", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2012/06", 
+                    "jobPosition": "视觉设计师、网页交互设计师，UI设计师", 
+                    "jobDesc": "按原型架构设计出色的设计稿，跟进设计风格，保证输出结果与设计稿一致，学到了专业的UI知识跟平面视觉方面经验。"
+                }
+            ]
+        }
+    ]
+}

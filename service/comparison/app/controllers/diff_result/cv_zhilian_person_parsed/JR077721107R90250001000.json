@@ -1,0 +1,228 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "36个月", 
+            "skillName": "驾驶执照", 
+            "skillLevel": "良好"
+        }, 
+        {
+            "itemId": "2", 
+            "skillDuration": "60个月", 
+            "skillName": "国际物流货运证书", 
+            "skillLevel": "精通"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "潘霞", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "18618484391", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "286246824@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月16日", 
+        "overSea": "1", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR077721107R90250001000", 
+        "recentMajorName": "国际商务", 
+        "nowPoliStatus": "中共党员(含预备党员)", 
+        "nowAddress": "北京 崇文区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "天津", 
+        "dob": "1983年10月", 
+        "gender": "女", 
+        "age": "33岁", 
+        "recentSchName": "天津外国语大学", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "8年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2007.04", 
+            "certName": "英语专业四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2006.07", 
+            "certName": "大学英语六级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2004.11", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2004.08", 
+            "certName": "中级口译证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2006.08", 
+            "certName": "驾照", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "6", 
+            "certTime": "2011.06", 
+            "certName": "国际货运代理证书", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力精通 | 听说能力精通", 
+            "languageName": "英语"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "读写能力一般 | 听说能力良好", 
+            "languageName": "西班牙语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "埃塞俄比亚铁路项目", 
+            "proStart": "2011.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "参与了同一国家的两个项目。轻轨项目3年合同期，铁路项目4年合同期。轻轨主要是连接市区轨道建设，后期电务运营等，一期项目17公里。铁路项目为320公里，此项目为主要修建连通吉布提与埃塞的铁路建设。", 
+            "softwareEnv": "", 
+            "proDuty": "参与项目前期考察，负责项目中商务工作，国内组织货物发运，海外主要负责协调沟通客户与埃塞当地代理组织运输方案等。", 
+            "proAchievement": "", 
+            "proEnd": "2015.08"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "物流/仓储项目管理 7年 北京", 
+        "gainHoner": "", 
+        "schoolExp": "\n曾获 院校级 二等奖\n曾获 院校级 二等奖\n曾获 院校级 三等奖\n\n\n\n活动描述：\n在班级里担任班委职务，有一定的组织协调能力，善于沟通交流，曾在篮球协会担任干事，参加英语俱乐部，摄影协会，成功协助团委组织绿色彩虹周活动。在校期间学习刻苦，考试中获得优异成绩，学习市场营销，人力资源，物流，国际金融，英语管理等课程。有一定的商务知识。", 
+        "religion": "", 
+        "selfIntro": "本人性格外向，开朗大方，善于与人沟通，做事认真仔细，意志坚强，抗压能力强，有良好的团队精神及组织协调能力。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": " \n2007.07 - 2007.08  青岛辛迪加出国咨询服务有限公司\n\n\n\n实践描述：\n工作认真负责，有很强的团队精神。熟练掌握了办公软件操作，主要负责整理、翻译资料，及时完成自己的工作任务。与同事相处融洽，工作表现良好，得到同事和领导认可。\n\n\n\n2005.12 - 2006.02  青岛国贸\n\n\n\n实践描述：\n主要负责产品促销，通过积极设计货位、广告语，良好的服务态度，取得良好销售业绩。与同事相处融洽，与上级沟通每天的销售状况，及时汇报工作中出现的问题，从而提高整个销售团队的成绩。", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "交通/运输、医疗设备/器械、物流/仓储、能源/矿产/采掘/冶炼、房地产/建筑/建材/工程、教育/培训/院校、石油/石化/化工、贸易/进出口、大型设备/机电设备/重工业", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）", 
+        "expSalary": "10001-15000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "物流/仓储项目管理、物流经理/主管、英语翻译、业务拓展经理/主管、货运代理", 
+        "expLocations": "北京、天津、青岛、坦桑尼亚、其他", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2008.07", 
+            "schName": "天津外国语大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2004.09", 
+            "majorName": "国际商务", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "directUnder": "", 
+            "incName": "海程邦达", 
+            "jobSalary": "8001-10000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "海外团队由三人发展至九人，培训新生力量，增强团队凝聚力。", 
+            "reportTo": "副总裁", 
+            "annualIncome": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.04", 
+            "incIndustrys": "物流/仓储", 
+            "jobDuration": "5年11个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "项目经理", 
+            "jobDesc": "\n主要负责部门工作计划的制定，实施与监控；协调本部门与公司外部的合作关系；负责部门新员工的培训；处理作业中的异常与投诉。同时兼任海外部主管，制定海外部发展计划，协助国内项目部处理国外货物清关、转运事宜。与海外代理，国内项目部、操作部相互协调沟通完成货物的顺利发运，直至货物到门。长驻海外工作2年，主要负责海外商务、客户、代理协调。组织清关、货物发运等。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "希世国际物流有限公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2010.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.10", 
+            "incIndustrys": "物流/仓储", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "海外代理开发", 
+            "jobDesc": "\n主要货物的跟踪与操作。成功开发南美代理，通过邮件及电话同海外代理进行联系与沟通。及时准确的同客户及代理进行结算。短短几个月时间开发出巴西、阿根廷、智利、秘鲁、乌拉圭、巴拉圭、哥伦比亚、厄瓜多尔、墨西哥、加拿大、澳大利亚等国代理。并且成功开发加拿大客户，建立友好互惠的长期合作关系。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "天津有容工贸有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2008.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.06", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "2个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "客户服务专员/助理", 
+            "jobDesc": "\n毕业前实习单位。主要负责通过B2B网站开发国外客户，邮件沟通，接订单业务。", 
+            "witness": ""
+        }
+    ]
+}

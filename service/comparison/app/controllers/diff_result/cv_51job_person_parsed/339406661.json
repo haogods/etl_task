@@ -1,0 +1,152 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "339406661", 
+        "recentMajorName": "日语", 
+        "nowPoliStatus": "", 
+        "nowAddress": "天津", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "人事专员", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "服装/纺织/皮革", 
+        "nowInc": "杭州锦欧时装有限公司", 
+        "nowHukou": "", 
+        "dob": "1992年2月", 
+        "gender": "女", 
+        "age": "24岁", 
+        "recentSchName": "河北工业大学", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（一般），读写（一般）", 
+            "languageName": "英语（一般）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "日语（良好）"
+        }, 
+        {
+            "itemId": "3", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }, 
+        {
+            "itemId": "4", 
+            "languageLevel": "一级", 
+            "languageName": "日语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "我喜欢和人交流，觉得团结很重要。我在社团担任干部时，每周会组织一些活动并为活动拉赞助；也去敬老院当过志愿者。     我平时喜欢听音乐，看一些服装杂志，心思细腻，常常会注意一些小的事情，做事情会有条理的去做。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "人力资源", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2015.7", 
+            "schName": "河北工业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.9", 
+            "majorName": "日语", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "杭州锦欧时装有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "人事部", 
+            "jobStart": "2015.8", 
+            "incIndustrys": "服装/纺织/皮革", 
+            "jobDuration": "6个月", 
+            "incEmployee": "1000-5000人", 
+            "incType": "", 
+            "jobPosition": "人事专员", 
+            "jobDesc": "工作岗位为人事专员，但考虑到工厂特殊情况，位置设在前台。平时主要负责员工的入职，离职，考勤，合同整理，饭补，一些简单的工资核算，社保缴纳，培训等工作。此外，还负责一些行政类工作，宿舍的管理，饭卡补贴，快递收发，礼品发送等工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "天津莱恩企业管理咨询有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.6", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.4", 
+            "incIndustrys": "金融/投资/证券", 
+            "jobDuration": "2个月", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "人事助理", 
+            "jobDesc": "主要是利用招聘软件选择合适的人选，然后电话邀约，来进行初试，笔试，入职后对新人进行公司业务的基本培训，然后由各部门主管人员进行投递相关职位的培训。", 
+            "witness": ""
+        }
+    ]
+}

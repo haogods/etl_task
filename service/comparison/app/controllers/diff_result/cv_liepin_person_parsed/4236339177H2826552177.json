@@ -1,0 +1,278 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-01-15", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "16806291", 
+        "recentMajorName": "土木工程", 
+        "nowPoliStatus": "", 
+        "nowAddress": "南通", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "城市公司总经理", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "房地产开发/建筑/建材/工程", 
+        "nowInc": "雨润地产", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "42 岁", 
+        "recentSchName": "湖南大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "15 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "如皋雨润广场", 
+            "proStart": "2013.04", 
+            "devTool": "", 
+            "proRole": "负责全面管理事务（营销、工程、设计、成本、前期、综合、物业）", 
+            "proIncName": "雨润地产", 
+            "proDesc": "百万大盘，30万住宅，70万城市综合体，含商业、酒店、写字楼、公寓等。", 
+            "softwareEnv": "", 
+            "proDuty": "总经理", 
+            "proAchievement": "住宅13年底实现开工，14年6月份开盘，至今保持当地市场销冠地位；促使集团对综合体方案向品质更优、成本更省、开发节奏更易掌握等方向调整。", 
+            "proEnd": "至今"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "在富力威尼斯湾项目12年底年终考核获第一名；在雨润如皋项目获得14年唯一全额开盘奖。", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "本人性格温和，爱好广泛，对生活和工作充满激情和创造力，与人沟通协调能力、表达能力与文字运用能力较强。熟悉土地政策和开发运作程序，有一定的项目运作和管理手段。个人最突出的两点：    1、执行力强：一切工作以结果为导向，遇到困难和障碍能找到切实可行的解决办法；    2、组织管理能力强：组织管理以以身作则为基本准则，高标准严要求为基本思路，形成凝聚力强和战斗力强的团队。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产开发/建筑/建材/工程", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "首席执行官CEO/总裁/总经理;副总裁/副总经理;总裁助理/总经理助理", 
+        "expLocations": "广东省;湖南省;重庆", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2001.06", 
+            "schName": "湖南大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1997.09", 
+            "majorName": "土木工程", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "集食品,农产品,地产,建筑,物流,酒店管理于一体的大型企业.", 
+            "incName": "雨润地产", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.04", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "2年11个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": " 1、住宅（33层、2层地下室）开工6个月内实现开盘销售（当地销售条件为形象进度80%） ，14年销售额2.5亿，属当地销售冠军）2、协调当地政府减少商业规划方案中地下室面积12000平方。取得荣誉及嘉奖：1、2014年开盘奖第一名（全集团在售项目30个，在建项目72个）；2、2014年节约成本单项奖第一名（取消地下室夹层，减少地下面积约12000平方）", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "120 ", 
+                    "report": "区域总裁", 
+                    "location": "南通", 
+                    "positionStart": "2013/04", 
+                    "department": "城市公司", 
+                    "jobPosition": "城市公司总经理", 
+                    "jobDesc": " 1、\t对外协调政府关系；2、\t带团队积极主动完成集团下达的各项指标任务；3、\t管控工程安全、质量、进度、成本核算；4、主抓销售管理工作；5、管理财务及人事工作。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "国内十强地产公司", 
+            "incName": "广州富力地产股份有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.03", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "1年11个月", 
+            "incEmployee": "2000-5000人", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "1\\拿到项目(33万一亩,7000亩地)2\\获取土地(分两期取得2000亩土地使用权)3\\办理填海手续(已取得750亩土地海域使用权)4\\协调政府按投资协议条款履行,提供相应的配套和优惠.(电\\水\\排污,归费减免)5\\圈住8000亩用地范围(占地不拿地)", 
+                    "positionEnd": "2013/02", 
+                    "subTimeSize": "5 ", 
+                    "report": "总经理", 
+                    "location": "惠州", 
+                    "positionStart": "2011/03", 
+                    "department": "开发部和BT工程部", 
+                    "jobPosition": "开发总监", 
+                    "jobDesc": "获取土地,协调政府关系."
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "以建筑工程起家的地产开发企业", 
+            "incName": "深圳中洲投资有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2011.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2006.10", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "4年4个月", 
+            "incEmployee": "1000-2000人", 
+            "incType": "私营·民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "jobAchievement": "1\\ 取得新桥193万平住宅土地,BT模式协议合作（一次一块挂牌，土地正在收地盘整，还需征地拆迁，解决3村子的统建上楼问题），重点解决短时间办证问题，为集团融资作出了巨大贡献；2、取得数码园92万平住宅土地，会展中心配套36000方住宅土地（解决挂牌竞争问题7。4亿增加到9。8亿）要求政府返回挂牌溢价。3、取得汝湖水库高尔夫项目（3000亩地），圈地少占地，解决了500亩用地指标问题和国家严查高尔夫问题。4、取得青岛胶州少海新城（2600）亩住宅用地。", 
+                    "positionEnd": "2011/02", 
+                    "subTimeSize": "6 ", 
+                    "report": "总经理", 
+                    "location": "惠州", 
+                    "positionStart": "2006/10", 
+                    "department": "开发拓展部", 
+                    "jobPosition": "开发拓展经理,总监", 
+                    "jobDesc": "1、拿地；2、征地拆迁；3、BT工程管理；4、维护政府关系。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "深圳浩和投资有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2006.09", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2003.03", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "3年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2006/09", 
+                    "report": "开发部经理", 
+                    "location": "深圳", 
+                    "positionStart": "2003/03", 
+                    "department": "开发拓展部", 
+                    "jobPosition": "开发主管", 
+                    "jobDesc": "1.\t深圳葵涌旅游度假用地 43方 土地测算 前期规划调整 方案调整 当地拆迁谈判2.\t龙岗区家具产业基地 工业园项目 72方 土地测算政府谈判 合作协议确定 九通一平的前期工作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "5", 
+            "incDesc": "国有大型铁路施工企业", 
+            "incName": "中铁一局 二处", 
+            "jobSalary": "", 
+            "jobEnd": "2003.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2001.06", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "1年8个月", 
+            "incEmployee": "5000-10000人", 
+            "incType": "国有企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2003/02", 
+                    "location": "岳阳", 
+                    "positionStart": "2001/06", 
+                    "jobPosition": "土建施工员", 
+                    "jobDesc": "施工,测量放线等基础工作"
+                }
+            ]
+        }
+    ]
+}

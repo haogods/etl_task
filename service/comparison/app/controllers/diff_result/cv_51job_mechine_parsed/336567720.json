@@ -1,0 +1,162 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "_cls": "MCvPrivateInfo", 
+        "keywords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "nowPolistatus": "", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "", 
+        "annualIncome": "", 
+        "recentMajorName": "教育学", 
+        "nowAddress": "武汉", 
+        "subsidy": "", 
+        "bonus": "", 
+        "nowPosition": "特效制作", 
+        "nowAddressDetail": "", 
+        "recentJobDuration": "", 
+        "stock": "", 
+        "nowZipCode": "", 
+        "nowLocation": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "影视/媒体/艺术/文化传播", 
+        "nowInc": "拓睿传媒", 
+        "nowHukou": "", 
+        "dob": "1992年1月", 
+        "gender": "男", 
+        "age": "24岁", 
+        "recentSchName": "湖北第二师范学院", 
+        "credit": "", 
+        "marriage": "", 
+        "_cls": "BaseInfo", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.5", 
+            "certName": "教师资格证", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2013.10", 
+            "certName": "全国计算机等级一级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2013.10", 
+            "certName": "普通话等级证书", 
+            "certLevel": "二级乙等"
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainContent": "", 
+            "trainDesc": "掌握3dmax，maya，ps，ae，nuke，mocha等影视特效合成软件", 
+            "trainAgency": "火星时代", 
+            "trainCert": "", 
+            "trainStart": "2015.3", 
+            "trainTitle": "影视后期合成设计师", 
+            "trainEnd": "2015.9"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "英语四级", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "attachment": "\n \n \n \n \n  \r\n                 \n \n", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "religion": "", 
+        "selfIntro": "本人积极好学，做事认真负责", 
+        "socialActie": "", 
+        "stuPractice": "2012 /9--2012 /12教师实习中专实习老师2012 /5--2013 /8创业餐饮", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "workLoc": ""
+    }, 
+    "jobExp": {
+        "expPositions": "", 
+        "expIndustrys": "", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "后期制作", 
+        "expLocations": "武汉", 
+        "expJobTypes": "全职", 
+        "_cls": "MCvJobExp"
+    }, 
+    "cvFrom": "cv_51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduType": "", 
+            "eduEnd": "2014.6", 
+            "eduDesc": "", 
+            "schName": "湖北第二师范学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2010.9", 
+            "majorName": "教育学", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "cvId": "cv_51job://336567720", 
+    "jobList": [
+        {
+            "incDesc": "", 
+            "incName": "拓睿传媒", 
+            "jobSubTeamSize": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "技术部", 
+            "jobStart": "2015.10", 
+            "incIndustrys": "影视/媒体/艺术/文化传播", 
+            "jobDuration": "4个月", 
+            "incLocation": "", 
+            "jobPosition": "特效制作", 
+            "witness": "", 
+            "incType": "", 
+            "jobDesc": "进行广告的特效制作及后期合成", 
+            "jobAchievement": "", 
+            "jobEnd": "2016.2", 
+            "underNum": "", 
+            "itemId": "1", 
+            "jobSalary": "", 
+            "leaveReason": "", 
+            "positionList": [], 
+            "incEmployee": ""
+        }
+    ]
+}

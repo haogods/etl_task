@@ -1,0 +1,150 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "黄思婷", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "13691601373", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "siting0703@163.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-22", 
+        "overSea": "", 
+        "height": "155", 
+        "nowSalary": "月薪4500-5999人民币", 
+        "cvId": "65996657", 
+        "recentMajorName": "文秘", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳-龙岗区", 
+        "annuallncome": "", 
+        "subsidy": "1万元/年", 
+        "nowZipCode": "518100", 
+        "nowPosition": "网店/淘宝店长", 
+        "nowAddressDetail": "深圳龙岗坂田 ", 
+        "stock": "", 
+        "bonus": "1万元/年", 
+        "nowDiploma": "中专", 
+        "baseSalary": "5万元/年", 
+        "nowIndustry": "通信/电信/网络设备", 
+        "nowInc": "私营淘宝", 
+        "nowHukou": "惠州", 
+        "dob": "1992年8月", 
+        "gender": "女", 
+        "age": "23岁", 
+        "recentSchName": "广州", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "3-4年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（一般），读写（一般）", 
+            "languageName": "粤语（一般）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "未参加", 
+            "languageName": "英语等级"
+        }, 
+        {
+            "itemId": "3", 
+            "languageLevel": "无", 
+            "languageName": "日语等级"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "pubWork": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "jobIncNameFor": "", 
+        "jobPositionFor": "", 
+        "recommendLetter": "", 
+        "workLoc": "", 
+        "schoolExp": "", 
+        "specialSkill": "", 
+        "patent": "", 
+        "subsidy": "1万元/年", 
+        "religion": "", 
+        "selfIntro": "1. 本人性格比较随和、有耐心、不易发脾气、沉稳2. 工作务实,有较强的沟通能力和团队精神3. 熟悉电脑操作及淘宝整个网购流程能有效地引导客户完成购物流程并且认真解决售后问题。4.能长期稳定的做好工作，积极进取与公司共同成长", 
+        "stuPractice": "", 
+        "attachment": "", 
+        "otherHobby": "", 
+        "professionOrg": "", 
+        "bonus": "1万元/年", 
+        "longCareerGoal": "", 
+        "baseSalary": "5万元/年", 
+        "otherInfo": "兴趣爱好：\r\n              我认为我不会太多话，但是在面对网络销售，我能用文字跟客户交流的情况下我非常的开心，我的兴趣就是网络销售，我的爱好就是与网络客户进行开心的交流后促成交易，并为他们做出完善的售后", 
+        "socialActie": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "通信/电信/网络设备", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪3000-4499", 
+        "ignoreIncs": "", 
+        "expJobCates": "售前/售后技术支持经理，售前/售后技术支持工程师，客服专员/助理", 
+        "expLocations": "深圳，惠州", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.9", 
+            "schName": "广州", 
+            "eduTongZhao": "", 
+            "eduStart": "2009.7", 
+            "majorName": "文秘", 
+            "eduDiploma": "中专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "私营淘宝", 
+            "jobSalary": "", 
+            "jobEnd": "2015.12", 
+            "leaveReason": "", 
+            "underNum": "10", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "客服店长", 
+            "jobStart": "2013.12", 
+            "incIndustrys": "通信/电信/网络设备", 
+            "jobDuration": "2年", 
+            "incEmployee": "少于50人", 
+            "incType": "", 
+            "jobPosition": "网店/淘宝店长", 
+            "jobDesc": "负责工作项目是采购和售后管理，生产管理。我们是要做无线路由器，华强北拿配件，自己工厂生产，验货，出货，销售，售后，一条线跟进。淘宝客服售前售后，客户购买后随机抽用户回访 一分钟可以打50个字，同时可以兼顾10个客户同时聊天（了解产品客户上手后）", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "星联发淘宝有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.11", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "私营网店", 
+            "jobStart": "2011.7", 
+            "incIndustrys": "通信/电信/网络设备", 
+            "jobDuration": "2年4个月", 
+            "incEmployee": "少于50人", 
+            "incType": "", 
+            "jobPosition": "私营网店", 
+            "jobDesc": "和好友经营淘宝C店。这期间，基本熟悉淘宝网购及销售的整个流程，了解淘宝规则，陪同网店从2星走到了一皇冠，我也渐渐从一个菜鸟成长为一名较为资深的客服，主营产品：三星中高端手机，HTC 中高端，索尼中高端手机以及苹果手机，采购，售前，售后，打包都是一手包办。推广采用的是直通车和刷单，论坛推广", 
+            "witness": ""
+        }
+    ]
+}

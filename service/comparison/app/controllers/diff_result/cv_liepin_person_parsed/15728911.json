@@ -1,0 +1,161 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "15728911", 
+        "recentMajorName": "会计电算化", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "财务", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "其他", 
+        "nowInc": "深圳盛景网联企业管理顾问有限公司", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "28 岁", 
+        "recentSchName": "南华工商学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "中国", 
+        "nowWorkAge": "5 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "认真负责，执行力强。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "其他", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "会计/会计师", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.06", 
+            "schName": "南华工商学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "会计电算化", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "柔广传媒(深圳)有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.09", 
+            "incIndustrys": "广告/公关/市场推广/会展", 
+            "jobDuration": "3个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/12", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2015/09", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "1、编制两家公司凭证记账、报税； 2、购买并开具发票，认证进项票 3、与供应商及客户的对账； 4、编制财务部报表； 5、申请农业公司免税备案的办理及开具免税发票； 6、审核原始单据，负责员工报销； "
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "培训咨询类", 
+            "incName": "深圳盛景网联企业管理顾问有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.06", 
+            "incIndustrys": "其他", 
+            "jobDuration": "3年2个月", 
+            "incEmployee": "100-499人", 
+            "incType": "私营?民营企业", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/08", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2012/06", 
+                    "jobPosition": "财务", 
+                    "jobDesc": "1、编制凭证记账、报税、负责资金报表；2、购买并开具发票，认证进项票3、负责每月与北京总部的费用对账；4、编制财务部报表；5、编制CRM系统收款单、监督销售人员CRM系统保护池客户数据完整性；6、审核原始单据；7、固定资产、低值易耗品的盘点8、广州、深圳会计凭证与原始单据的整理与装订；"
+                }
+            ]
+        }
+    ]
+}

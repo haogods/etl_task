@@ -1,0 +1,370 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "48个月", 
+            "skillName": "B2", 
+            "skillLevel": "一般"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2015年12月06日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR013756621R90250001000", 
+        "recentMajorName": "信息管理与信息系统", 
+        "nowPoliStatus": "群众", 
+        "nowAddress": "贵阳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "贵阳", 
+        "dob": "1983年12月", 
+        "gender": "男", 
+        "age": "32岁", 
+        "recentSchName": "黑龙江大学", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "8年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2009.12", 
+            "certName": "荣获高等教育出版社教学服务中心2009年度“信息工作先进个人”荣誉称号", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2013.01", 
+            "certName": "贵州电力工程建设监理公司2013年度“优秀员工”荣誉称号", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2014.06", 
+            "certName": "贵州电力工程建设监理公司2014年度“优秀青年”荣誉称号", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2015.01", 
+            "certName": "安风体系建设突出贡献奖", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2013.12", 
+            "certName": "中级工程师", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "由于现在的很多工程都需要进行环保方面的监理，并且需要相应的资质的人员，公司特意邀请环境监理协会来培训取证。", 
+            "trainAgency": "中国环境监理协会", 
+            "trainCert": "环境监理工程师证书", 
+            "trainStart": "2015.06", 
+            "trainTitle": "环境监理工程师培训", 
+            "trainEnd": "2015.06"
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "中级审核员资格证书，可以审核南网系统的四钻及下得单位的体系达标审核，2014年审核了贵州电网下属的都匀供电局、凯里供电局、兴义供电局等。", 
+            "trainAgency": "中国南方电网培训中心", 
+            "trainCert": "中级体系审核员资格证书", 
+            "trainStart": "2014.03", 
+            "trainTitle": "中级审核员资格培训", 
+            "trainEnd": "2014.04"
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "", 
+            "trainAgency": "贵州建设监理协会", 
+            "trainCert": "安全员", 
+            "trainStart": "2013.12", 
+            "trainTitle": "三类人员培训", 
+            "trainEnd": "2013.12"
+        }, 
+        {
+            "itemId": "4", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "", 
+            "trainAgency": "贵州电力培训中心", 
+            "trainCert": "", 
+            "trainStart": "2013.10", 
+            "trainTitle": "安全内训师培训", 
+            "trainEnd": "2013.10"
+        }, 
+        {
+            "itemId": "5", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "", 
+            "trainAgency": "贵州电力培训中心", 
+            "trainCert": "", 
+            "trainStart": "2013.09", 
+            "trainTitle": "安全监察培训", 
+            "trainEnd": "2013.09"
+        }, 
+        {
+            "itemId": "6", 
+            "trainLoc": "昆明", 
+            "trainDesc": "本证书由中国南方电网认可的安全生产风险管理体系的内审员资格，参加每年公司的安风体系审核。", 
+            "trainAgency": "广东汇安恒达管理咨询有限公司", 
+            "trainCert": "内审员证书", 
+            "trainStart": "2012.08", 
+            "trainTitle": "内审员培训", 
+            "trainEnd": "2012.08"
+        }, 
+        {
+            "itemId": "7", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "", 
+            "trainAgency": "贵州省建设监理协会", 
+            "trainCert": "监理员资格证书", 
+            "trainStart": "2011.07", 
+            "trainTitle": "监理员培训", 
+            "trainEnd": "2011.07"
+        }, 
+        {
+            "itemId": "8", 
+            "trainLoc": "贵阳", 
+            "trainDesc": "", 
+            "trainAgency": "贵阳市十七驾驶学校", 
+            "trainCert": "B2驾驶执照", 
+            "trainStart": "2007.09", 
+            "trainTitle": "驾驶培训", 
+            "trainEnd": "2008.01"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力一般 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "贵州电网公司安全生产风险管理体系审核", 
+            "proStart": "2014.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "根据中国南方电网公司安全生产风险管理体系建设要求，结合审核指南对被审核单位进行审核，提出审核的强项和改进机会，得出综合的风险评估报告，对企业进行生产评价。", 
+            "softwareEnv": "", 
+            "proDuty": "按照审核组长的安排，对相应章节进行审核，提出相应的整改机会，并对强项进行展示，提高企业的综合形象。", 
+            "proAchievement": "", 
+            "proEnd": "2015.06"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "公司安全生产风险管理体系推进建设", 
+            "proStart": "2012.04", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "安全生产风险管理体系是贵州电网公司按照南方电网公司的要求，对综合单位下达的体系建设任务，作为下属单位必须强制执行，并结合公司的实际建设情况，对公司的安全生产风险管理进行规范化管理，从而提升公司的综合管理水平。", 
+            "softwareEnv": "", 
+            "proDuty": "是公司安全生产风险管理体系从起步阶段开始组织建设、推进及不断的提升，对公司体系建设过程中存在的问题及时的进行改进提升。", 
+            "proAchievement": "", 
+            "proEnd": "2013.12"
+        }
+    ], 
+    "others": {
+        "otherHobby": "个人比较喜欢休闲性的运动", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "没有做过，不代表自己做不好", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "一、曾在不同行业企业和岗位锻炼，能够很快的适应新岗位工作。二、在牵头对公司进行体系建设的过程中，积累了丰富的经验，对系统化、协同化、标准化、流程化有一定的认识和提高，对以后的工作奠定了基础。三、很多事情我愿意不断的去尝试，没有干过，不代表自己永远都不会，只有不断学习、超越自我，努力提升自己的综合能力，才能有自己的立足之地。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "其他", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "其他", 
+        "expLocations": "贵阳", 
+        "expJobTypes": "全职、兼职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2007.06", 
+            "schName": "黑龙江大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "信息管理与信息系统", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "2003.06", 
+            "schName": "开阳县第三中学", 
+            "eduTongZhao": "", 
+            "eduStart": "2000.09", 
+            "majorName": "高中", 
+            "eduDiploma": "高中"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "贵州电力工程建设监理公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.12", 
+            "incIndustrys": "电气/电力/水利", 
+            "jobDuration": "1年", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "监理管理部综合主管", 
+            "jobDesc": "\n负责监理管理部日常行管管理工作、工程项目管理、现场人员调动并参与贵州电网公司风险体系审核工作，2014年获得工作体系建设突出贡献奖荣誉称号。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "贵州电力工程建设监理公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2014.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.01", 
+            "incIndustrys": "电气/电力/水利", 
+            "jobDuration": "11个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "安全质量管理部安全主管", 
+            "jobDesc": "\n负责公司安全管理以及安全生产风险管理体系建设工作。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "贵州电力工程建设监理公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2014.01", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.03", 
+            "incIndustrys": "电气/电力/水利", 
+            "jobDuration": "10个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "企业管理部体系和资质主管", 
+            "jobDesc": "\n主要负责公司三标体系、安全生产风险管理体系建设和推广工作，并兼任公司企业资质的主管职务，2013年底获得公司优秀员工荣誉称号。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "4", 
+            "incName": "贵州电力工程建设监理公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2013.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2010.09", 
+            "incIndustrys": "能源/矿产/采掘/冶炼", 
+            "jobDuration": "2年6个月", 
+            "incEmployee": "100-499人", 
+            "incType": "国企", 
+            "jobPosition": "监理员、监理工程师", 
+            "jobDesc": "\n担任遵义地区光缆工程监理员、贵州电网公司综合数据网监理工程师、贵州电网应急通信工程监理工程师、第九届民运会贵州省体育馆综合改造项目（LED、配电改造、灯光改造）监理员。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "5", 
+            "incName": "北京蓝色畅想教育信息咨询有限公司（高等教育出版社贵州教学服务中心）", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2010.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2009.04", 
+            "incIndustrys": "媒体/出版/影视/文化传播", 
+            "jobDuration": "1年2个月", 
+            "incEmployee": "500-999人", 
+            "incType": "国企", 
+            "jobPosition": "商务专员/助理", 
+            "jobDesc": "\n主要负责贵州省中职院校（当时统计的贵州省总共有266所，包括国家级重点、省级重点等）的教材和教学资源的推广、维护以及新教材的选题等。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "6", 
+            "incName": "重庆顶津食品有限公司贵阳营业所", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2008.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2007.07", 
+            "incIndustrys": "快速消费品（食品/饮料/烟酒/日化）", 
+            "jobDuration": "1年5个月", 
+            "incEmployee": "100-499人", 
+            "incType": "外商独资", 
+            "jobPosition": "销售代表", 
+            "jobDesc": "\n负责区域的销售、维护、开发等工作。", 
+            "witness": ""
+        }
+    ]
+}

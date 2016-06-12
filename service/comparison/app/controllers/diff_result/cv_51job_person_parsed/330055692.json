@@ -1,0 +1,205 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "月薪6000-7999", 
+        "cvId": "330055692", 
+        "recentMajorName": "计算机网络", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "UI设计师/顾问", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/电子商务", 
+        "nowInc": "北京新赛纪科技信息有限公司", 
+        "nowHukou": "长治", 
+        "dob": "1991年12月", 
+        "gender": "女", 
+        "age": "24岁", 
+        "recentSchName": "长治学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验 "
+    }, 
+    "certList": [], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "北京达内科技", 
+            "trainCert": "", 
+            "trainStart": "2014.12", 
+            "trainTitle": "UID", 
+            "trainEnd": "2015.4"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "英语（良好）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "英语六级", 
+            "languageName": "英语等级"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "21世纪基础教育国际论坛", 
+            "proStart": "2016.1", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "该项目主要完成用户查看该论坛的详情，并实现报名支付功能。", 
+            "softwareEnv": "", 
+            "proDuty": "负责该项目移动端的详清页、报名支付页面的设计。", 
+            "proAchievement": "", 
+            "proEnd": "至今"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "比赛360h5页面", 
+            "proStart": "2016.1", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "比赛360的h5页面主要是实现用户查看比赛活动详情，并登陆、注册完成报名支付的功能。", 
+            "softwareEnv": "", 
+            "proDuty": "负责完成比赛360项目移动端界面详情页、列表页、登录页等页面设计。", 
+            "proAchievement": "", 
+            "proEnd": "2016.1"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "比赛360商家服务中心", 
+            "proStart": "2015.12", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "比赛360商家服务中心是一个B2B的平台，该项目的风格重点是突出商务化，功能主要是向商家提供服务，给商家提供平台供他们发布自己的需求，整体配色和比赛360网站统一。", 
+            "softwareEnv": "", 
+            "proDuty": "比赛360商家服务中心网站首页、详情页、列表页、登录页等整个网站的界面设计", 
+            "proAchievement": "", 
+            "proEnd": "2016.1"
+        }, 
+        {
+            "itemId": "4", 
+            "hardwareEnv": "", 
+            "proName": "比赛360网站", 
+            "proStart": "2015.10", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "比赛360是一个B2C的平台，主要向用户展示一系列的比赛活动。网站首页设计主要分为4个层级：轮播图、今日推荐、热门比赛、最新比赛，可以让用户方便的去浏览自己感兴趣的比赛活动，并参看详情，报名参加比赛。", 
+            "softwareEnv": "", 
+            "proDuty": "比赛360网站首页、详情页、列表页等整站的界面设计", 
+            "proAchievement": "", 
+            "proEnd": "2015.11"
+        }, 
+        {
+            "itemId": "5", 
+            "hardwareEnv": "", 
+            "proName": "中国竞赛活动联盟会议", 
+            "proStart": "2015.8", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "配合产品部设计并制作公司宣传册、宣传单页以及中国竞赛活动联盟的全部物料，并与印刷厂沟通确定材质、数量等，确保会议的顺利召开。", 
+            "softwareEnv": "", 
+            "proDuty": "我负责中国竞赛活动联盟会议VI标识的设计，含会员手册、产品手册、易拉宝、纸袋、签名墙、邀请函、会员卡、工作证等。", 
+            "proAchievement": "", 
+            "proEnd": "2015.9"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "\n2014 /10优秀班干，国家励志奖学金，二等奖学金院级", 
+        "schoolExp": "2013 /9--2015 /7学习委员", 
+        "religion": "", 
+        "selfIntro": "1.熟练运用photoshop、Illustrator、InDesign软件操作，能够独立完成网页和手机图标制作。了解网页设计规范，具有独立完成网页设计的能力。2.熟悉Dreamweaver、Div+CSS排版布局，能运用javascript和jquery实现网页中部分交互效果。3.熟悉iOS、Android等移动界面设计规范；能够设计手机图标，使用Axure设计完成交互原型图。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/电子商务，广告，计算机软件", 
+        "dutyTime": "即时", 
+        "notes": "", 
+        "workStatus": "目前正在找工作", 
+        "expSalary": "月薪8000-9999", 
+        "ignoreIncs": "", 
+        "expJobCates": "软件UI设计师/工程师", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2015.6", 
+            "schName": "长治学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2011.9", 
+            "majorName": "计算机网络", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "北京新赛纪科技信息有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "运营", 
+            "jobStart": "2015.8", 
+            "incIndustrys": "互联网/电子商务", 
+            "jobDuration": "6个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "UI设计师/顾问", 
+            "jobDesc": "1. 根据业务模型和品牌定位设计比赛360网站标识及网站整体风格定位，承办移动端界面、网页界面的全部设计工作;2. 配合产品部设计并制作公司宣传册、宣传单页及中国竞赛活动联盟新闻发布会的全部物料；3. 与销售部配合比赛主办方及其他客户设计项目包装等。", 
+            "witness": ""
+        }
+    ]
+}

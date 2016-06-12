@@ -1,0 +1,262 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "15325253", 
+        "recentMajorName": "土木工程", 
+        "nowPoliStatus": "", 
+        "nowAddress": "南通", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "工程副总监", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "房地产开发/建筑/建材/工程", 
+        "nowInc": "恒盛集团工程管理中心", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "47 岁", 
+        "recentSchName": "东南大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "26 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "恒盛豪庭商住项目（30万平方米）", 
+            "proStart": "2011.04", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "恒盛宝丰置业发展有限公司", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "总经理", 
+            "proAchievement": "", 
+            "proEnd": "2013.03"
+        }, 
+        {
+            "itemId": "2", 
+            "hardwareEnv": "", 
+            "proName": "江苏南通洋口港项目（30平方公里）", 
+            "proStart": "2007.09", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "香港保华集团江苏洋口港投资有限公司", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "工程副总监", 
+            "proAchievement": "", 
+            "proEnd": "2011.04"
+        }, 
+        {
+            "itemId": "3", 
+            "hardwareEnv": "", 
+            "proName": "焯盛石化建厂项目（1500亩）", 
+            "proStart": "2003.11", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "南通焯盛石化有限公司", 
+            "proDesc": "", 
+            "softwareEnv": "", 
+            "proDuty": "工程经理", 
+            "proAchievement": "", 
+            "proEnd": "2005.08"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "1999年获取全国造价工程师资格。注：上述恒盛集团、恒盛宝丰公司是上海阳光集团的房产板块；焯盛石化和熔盛重工公司是上海阳光集团的实业板块。", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "熟悉并经历工程全过程.本人在煤气公司13年,从技术员干起,到现场施工员、到甲方工地代表、到基建科长；在大型民营企业担任建厂工程部经理，从一片荒地建成规模150万吨/年重油深加工的石化厂；在造船厂建成工艺最为复杂的涂装车间和900吨龙门吊后平台；在香港保华集团洋口港项目担任工程副总监，指挥人工岛、码头及围堤工程，在恒盛集团南通公司担任总经理，负责房地产项目运作; 调任集团总部工程管理中心，负责北京、天津、沈阳、大连北方项目工程层面管理。本人获得全国造价工程师资格，尤其擅长项目的规划和运作，可为实战型的工程复合人才。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "房地产开发/建筑/建材/工程", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "建筑工程管理/项目经理", 
+        "expLocations": "南通", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2005.07", 
+            "schName": "东南大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "土木工程", 
+            "eduDiploma": "本科"
+        }, 
+        {
+            "itemId": "2", 
+            "eduEnd": "1990.07", 
+            "schName": "南通职业大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1987.09", 
+            "majorName": "工业与民用建筑", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "恒盛集团总部工程管理中心", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.04", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "4年11个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "上海", 
+                    "positionStart": "2013/04", 
+                    "jobPosition": "工程副总监", 
+                    "jobDesc": "负责集团北方区域北京、天津、沈阳、大连等地项目集团层面的工程管理，重点方向是项目大型招投标、工程质量安全检查、项目运行状况、执行项目老总的考核以及项目突发事件难题的解决。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "2013/03", 
+                    "subTimeSize": "49 ", 
+                    "location": "南通", 
+                    "positionStart": "2011/04", 
+                    "jobPosition": "恒盛宝丰（南通）置业发展有限公司总经理", 
+                    "jobDesc": "负责项目的操盘运作。即从项目的前期策划到设计规划、楼盘推广、工程建设到竣工交付，同时把控预算成本，确保利润上缴。2011年该楼盘获得南通地区楼盘销售冠军。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "香港保华江苏洋口港开发公司", 
+            "jobSalary": "", 
+            "jobEnd": "2011.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2007.11", 
+            "incIndustrys": "房地产开发/建筑/建材/工程", 
+            "jobDuration": "3年5个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2011/04", 
+                    "subTimeSize": "33 ", 
+                    "location": "南通", 
+                    "positionStart": "2007/11", 
+                    "jobPosition": "工程副总监", 
+                    "jobDesc": "负责管理公司工程部和商务部，承担洋口港外海人工岛、11.5公里黄海大桥、30平方公里临港工业区及11平方公里度假区建设任务。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "南通焯盛石化有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2007.11", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2003.11", 
+            "incIndustrys": "原材料及加工", 
+            "jobDuration": "4年", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2007/11", 
+                    "subTimeSize": "12 ", 
+                    "location": "南通", 
+                    "positionStart": "2005/08", 
+                    "jobPosition": "建厂指挥部第四项目部经理", 
+                    "jobDesc": "负责熔盛造船厂900吨龙门吊后平台及涂装车间的建设。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "2005/08", 
+                    "subTimeSize": "5 ", 
+                    "location": "南通", 
+                    "positionStart": "2003/11", 
+                    "jobPosition": "工程部经理", 
+                    "jobDesc": "负责油厂从无到有的工程建设任务，包括5万吨输油码头、25万立方储罐区及生产装置区和生活办公区的建成。"
+                }
+            ]
+        }
+    ]
+}

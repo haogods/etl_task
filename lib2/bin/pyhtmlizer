@@ -1,0 +1,12 @@
+#!/Users/apple/PycharmProjects/jd_etl_task/lib2/bin/python
+# Copyright (c) Twisted Matrix Laboratories.
+# See LICENSE for details.
+import sys
+
+try:
+    import _preamble
+except ImportError:
+    sys.exc_clear()
+
+from twisted.scripts.htmlizer import run
+run()

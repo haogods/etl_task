@@ -1,0 +1,195 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "26408953", 
+        "recentMajorName": "艺术设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "深圳", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "UI设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "医学界传媒", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "女", 
+        "age": "27 岁", 
+        "recentSchName": "中南民族大学工商学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "中国", 
+        "nowWorkAge": "4 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语、普通话"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "个人部分作品集地址： http://shiliu.zcool.com.cn/移动端ui界面设计汇总: http://huaban.com/boards/28360364/", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "热爱生活艺术有一定的设计基础，敏锐的设计触觉以及对色彩的把控能力。是一个极简主义与素食主义推崇者，自学能力强。熟悉大型团队合作流程，熟悉互联网用户体验，具有良好的沟通表达能力。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "16.80万（14000元/月 * 12个月）", 
+        "ignoreIncs": "", 
+        "expJobCates": "UI设计师", 
+        "expLocations": "深圳", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2012.07", 
+            "schName": "中南民族大学工商学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "艺术设计", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "医学界传媒", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.04", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "11个月", 
+            "incEmployee": "100-499人", 
+            "incType": "事业单位", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "jobAchievement": "2016 年年会表彰上获得3000元项目团队奖金", 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2015/04", 
+                    "department": "研发部", 
+                    "jobPosition": "UI设计师", 
+                    "jobDesc": "独立负责公司移动医疗D+项目app的界面设计（主要负责模块群交流、红包模块、积分商城、直播讲座），目前iOS 、安卓已面市（50万＋用户量，日活8w＋）。另还负责D+直播讲座桌面录屏器界面设计、D+后台管理系统界面设计，公司日常运营活动广告的设计，官网的用户体验视觉优化等。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "深圳市环球易购电子商务有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2015.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.08", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年7个月", 
+            "incEmployee": "1000-2000人", 
+            "incType": "国内上市公司", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2015/03", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2013/08", 
+                    "jobPosition": "视觉设计师", 
+                    "jobDesc": "独立负责sammydress 服装电商app端设计，目前iOS、iPad已面市（IOS注册用户量400W，年销售额3000万），安卓于14年4月上线。iPad版于15年初上线。另负责S网官网活动专题、站外投放广告banner、EDM邮件推广类设计等。曾参与服饰网站的改版有zaful.com （14年改版后用户量增加了12W）、 nastydress.com、  rosegal.com。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "深圳鸿兆科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.03", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.08", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "7个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2013/03", 
+                    "subTimeSize": "0 ", 
+                    "location": "深圳", 
+                    "positionStart": "2012/08", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "主要负责公司eBay店铺、Facebook店铺的设计（公司主要经营电子3c类产品、车载类产品为主等），EDM邮件推广设计以及站内活动促销类设计等。"
+                }
+            ]
+        }
+    ]
+}

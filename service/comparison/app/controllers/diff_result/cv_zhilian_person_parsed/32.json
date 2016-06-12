@@ -1,0 +1,150 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月08日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM555374077R90250000000", 
+        "recentMajorName": "社会工作", 
+        "nowPoliStatus": "", 
+        "nowAddress": "上海 浦东新区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "上海", 
+        "dob": "1993年11月", 
+        "gender": "男", 
+        "age": "23岁", 
+        "recentSchName": "华东师范大学", 
+        "credit": "", 
+        "marriage": "", 
+        "country": "", 
+        "nowWorkAge": "1年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2014.02", 
+            "certName": "大学英语六级", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2014.10", 
+            "certName": "驾驶执照", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力良好 | 听说能力一般", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "擅长篮球，青少年社工实务。", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "人力资源专员/助理 1年 上海", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "华东师范大学社会工作2012级社会工作专业学生，有篮球特长，接触过社会工作专业的实务工作，希望能接触人力资源管理方面的工作。爱好是篮球和旅游，性格开朗，容易与人亲近。篮球国家二级运动员，英语6级以及普通话二级甲等证书。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "娱乐/体育/休闲、旅游/度假、快速消费品（食品/饮料/烟酒/日化）", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "应届毕业生", 
+        "expSalary": "1000-2000元/月", 
+        "ignoreIncs": "", 
+        "expJobCates": "市场营销专员/助理、活动策划、销售代表、客户代表", 
+        "expLocations": "上海", 
+        "expJobTypes": "全职、实习"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "至今", 
+            "schName": "华东师范大学", 
+            "eduTongZhao": "", 
+            "eduStart": "2012.09", 
+            "majorName": "社会工作", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "任仕达企业管理(上海)有限公司", 
+            "jobSalary": "1000-2000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.08", 
+            "incIndustrys": "专业服务/咨询(财会/法律/人力资源等)", 
+            "jobDuration": "7个月", 
+            "incEmployee": "", 
+            "incType": "外商独资", 
+            "jobPosition": "猎头顾问/助理", 
+            "jobDesc": "\n主要职责： 1、负责帮助项目组找寻候选人 2、电话联系候选人进行沟通，了解候选人具体情况 3、推荐候选人至客户公司，客户公司进行评定 4、联系候选人面试 5、候选人面试后进行跟进 次要职责：帮助公司后台进行简历下载等工作", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "上海慧灵智障人士服务机构", 
+            "jobSalary": "1000元/月以下", 
+            "jobEnd": "2015.07", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.04", 
+            "incIndustrys": "政府/公共事业/非盈利机构", 
+            "jobDuration": "3个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "社会工作者/社工", 
+            "jobDesc": "\n负责对学员看护，有时进行一对一指导，与他们参与一些活动，帮助机构老师完成一些行政工作。", 
+            "witness": ""
+        }
+    ]
+}

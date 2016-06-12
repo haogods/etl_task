@@ -1,0 +1,684 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css?version=20150713" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/ui/jquery.zlzp.popupdiv.css" type="text/css" rel="stylesheet" />
+    <link href="http://img01.zhaopin.cn/2014/rd2/css/feedbackD.css?version=20150915" type="text/css" rel="stylesheet" />
+    <link href="/css/sendinfo.css" type="text/css" rel="stylesheet" />
+    <style media="print">
+        .resume-preview { color: #000; }
+        .resume-body-left { width: auto; }
+        .resume-preview-left { box-shadow: none; border: none; }
+        .resume-preview-right, .nav-body-top { display: none; }
+        h3 { border-bottom: 2px solid #ccc; }
+        .similar-resume { display: none; }
+    </style>
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        
+
+<style type="text/css">
+    .posR { position: relative; border: 1px solid #ccc; height: 32px; }
+    .nameMatching, .nameMatchings { line-height: 32px; font-size: 12px; float: left; font-weight: normal; }
+    .nameMatching { margin-left: 28px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pmatching.png) no-repeat 7px 7px; padding-left: 50px; height: 22px; padding-top: 10px; }
+    .nameMatching .star { width: 50px; height: 9px; display: block; font-size: 0; background: url(http://img02.zhaopin.cn/2012/img/rd/matching-mark.png) no-repeat; }
+    .nameMatching .star5 { background-position: 0 0; }
+    .nameMatching .star4 { background-position: 0 -9px; }
+    .nameMatching .star3 { background-position: 0 -18px; }
+    .nameMatching .star2 { background-position: 0 -27px; }
+    .nameMatching .star1 { background-position: 0 -36px; }
+    .nameMatching .star0 { background-position: 0 -45px; }
+    .nameMatchings { cursor: pointer; margin-left: 10px; background: url(http://img02.zhaopin.cn/2012/img/rd/Pcell.png) no-repeat 0 7px; height: 22px; width: 35px; }
+    /*给我推荐更多相似人才 按钮*/
+    .acceptInvite { width: 100%; overflow: hidden; }
+    .preview3 { float: left; }
+    .preview3 span { font-size: 14px; }
+    .moreRecom { float: left; width: 155px; height: 25px; background-color: #ff6600; border-radius: 3px; margin-left: 5px; margin-top: 25px; font: 12px/25px '微软雅黑'; color: #fff; text-align: center; cursor: pointer; }
+    .fbtips { width: 748px; background-color: #fef8e0; line-height: 28px; border: 1px #eeebde solid; border-bottom: 1px #ffd138 solid; padding-left: 20px; font-size: 12px; color: #777; letter-spacing: 1px; height: 100%; overflow: hidden; }
+    .fbtips span { float: left; }
+    .fbtips span.textsty { color: #222; font-weight: bold; }
+    .fbtips span.textstyone { color: #222; font-weight: bold; width: 180px; float: left; word-wrap: break-word; }
+    #kp_num{display:none;}
+    .printcontack{ display: none;width: 400px;margin-top: -80px;*margin-top:15px;}/*jianguo*/
+</style>
+<style media="print">
+    .noprint { display: none; }
+    .feedbackE_show,.feedbackD_show{display: none;}/*jianguo*/
+    .printcontack{display: block;}/*jianguo*/	
+    .preview-table-body-add{margin-top:-80px;*margin-top:0;}/*jianguo*/
+</style>
+
+<script type="text/javascript">
+    function showMatchDesc(id, rootcompanyId, name) {
+        $(".MatchingDescriptionBtn").match({
+            url: "http://rd2.zhaopin.com/s/resuadmi/resumematchingdescription.asp",
+            type: "Get",
+            data: { id: id, rootcompanyId: rootcompanyId, name: name },
+            callback: "matchingcallback"
+        });
+    }
+</script>
+<link type="text/css" rel="stylesheet" href="http://img00.zhaopin.cn/2012/css/rd/rdmatching.css">
+
+<div class="resume-body-left">
+
+
+<div class="resume-preview-head" id="resumeContentHead">
+    <img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+        <div class="intro-span-right">
+            还有<span>0</span>份简历下载余额
+        </div>
+        <input type="hidden" name="resumeDownloadNum" id="resumeDownloadNum" value="0" />
+        <div class="resume-preview-title">
+            <span class="resume-preview-list">简历名称： <strong id="resumeName">销售管理 8年 银川</strong></span>
+            <br />
+            <span class="resume-preview-list">期望从事职业： <strong id="desireIndustry">销售经理、销售主管、销售总监</strong></span>
+            <br />
+            <span class="resume-preview-list">简历更新时间： <strong id="resumeUpdateTime">2015年12月21日</strong></span>
+        </div>
+    <div class="resume-preview-center">
+        <div class="center-left">
+            <div class="resume-left-tips">
+                    <div class="resume-left-tips-span">
+                        <span class="resume-left-tips-id">ID:JM154523241R90250000000</span>
+                    </div>
+                <div class="resume-left-tips-span tips-span-right">
+                </div>
+            </div>
+        </div>
+        <!--<div class="center-right">你可能对这些简历感兴趣</div>-->
+        <input type="hidden" value="Chinese" name ="language" id="language" />
+        <input type="hidden" value="Chinese" name ="anotherLanguage" id="anotherLanguage" />
+    </div>
+    <input type="hidden" id="guid" name="guid" value="-1" />
+</div>
+    <div id="resumeDetail">
+        
+        <div class="resume-preview-main">
+            <div class="resume-preview-left">
+                <div id="resumeContentBody">
+<div class="resume-preview-main-title">
+        <div class="main-title-fl fc6699cc" style="height: 54px;">
+            个人信息
+        </div>
+</div>
+<div class="summary">
+    <a target="_blank" href="http://my.zhaopin.com">
+        <img alt="" src="http://my.zhaopin.com" width="93" height="131" align="right" class="headerImg" /></a>
+    <div class="summary-top">
+        <span>男&nbsp;&nbsp;&nbsp;&nbsp;32岁(1983年11月)&nbsp;&nbsp;&nbsp;&nbsp;11年工作经验&nbsp;&nbsp;&nbsp;&nbsp;大专&nbsp;&nbsp;&nbsp;&nbsp;未婚</span>
+        <br />
+        现居住地：银川 | 户口：银川 | 群众
+    </div>
+    <div class="summary-bottom">
+        <!--普通简历显示联系方式-->
+        <!--end显示联系方式-->
+        <!--橄榄枝-->
+        <!--end橄榄枝-->
+            <div class="preview-table-body-add add_bgColor">如需联系方式请下载该简历</div>
+            <div class="preview-table-body-add preview1 noprint" style="left: 250px; position: absolute;">
+                <input type="button" class="__ga__RecommendResume_jobinvite_004 Olive_send_btn" id="jobinvited_select_posi" value="发送橄榄枝" name="jobinvited_select_posi" style="height:52px;" />
+            </div>
+    </div>
+</div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">求职意向</h3>
+        <div class="resume-preview-top">
+            <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作地区：</td>
+                        <td>银川</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望月薪：</td>
+                        <td>不显示职位月薪范围</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">目前状况：</td>
+                        <td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望工作性质：</td>
+                        <td>全职</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事职业：</td>
+                        <td>销售经理、销售主管、销售总监</td>
+                    </tr>
+                    <tr valign="top">
+                        <td width="85" align="right">期望从事行业：</td>
+                        <td>汽车/摩托车</td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">自我评价</h3>
+        <div class="resume-preview-dl rd-break">经过8年多来在汽车销售服务行业从事中、从基层到高层管理岗位工作锻炼及磨砺，并通过不同汽车品牌文化、经营、管理实践，积累了丰富的4s店全盘工作管理、统筹、规划等工作经验；这些经验将为自己在汽车行业中走向更高、更好垫定坚实的基础，同时也将会为贵公司在汽车产业中的发展将会起到良好的辅助及推动作用。<br />诚实，忠诚，刻苦耐劳，上进心强，有较强的自我指导和自我激励能力，优秀的统筹规划能力，很强的团队合作精神。<br /></div>
+    </div>   
+
+    <div class="resume-preview-all workExperience">
+        <h3 class="fc6699cc">工作经历</h3>
+            <h2>2013.02 - 2015.02&nbsp;&nbsp;宁夏京胜尼桑汽车销售服务有限公司有限公司&nbsp;&nbsp;（2年）</h2>
+            <h5>总经理 | 15000-25000元/月</h5>
+            <div class="resume-preview-dl">
+                汽车/摩托车 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、全面负责尼桑品牌4s店整体运营及各部门日常管理工作 <br />2、负责制定年度整车销售、售后产值、毛利、精品销售、ssi、csi、财务资金、人力资源、市场推广费用等预算目标并督导各部门严格按照预算目标进行周、月、季度分解达成； <br />3、负责定期组织召开各部门经理经营分析会；检查、督导和协调各部门工作进展情况，认真听取各部门工作总结、汇报并针对性提出整改指导意见及改善措施； <br />4、全面掌握、落实品牌商务政策并完成各项考核指标，提升公司整体销售能力和售后服务质量,提高公司市场知明度及品牌在本区域市场占有率 <br />5、负责建立、健全各部门管理体系及组织结构； <br />6、负责审定公司具体规章、奖罚条款、薪资奖金分配方案及各部门经济责任考核办法并组织实施； <br />7、负责公司各部门管理团队建设，规范岗位职责及工作流程； <br />8、结合集团提出的战略目标，制定本品牌战略及业务规划、经营方针和经营方式，经董事会审核后组织实施；向集团建议企业更新、改造发展规划方案、预算外开支计划等； <br />9、负责处理公司突发事件及协调地方行政、事业等单位及政府关系； <br />10、及时、认真执行董事会安排的各项任务，传达集团决策层的理念和意图，确保各项任务有效落实 ； <br />11、负责公司经营计划、销售策略、资本运作等方面向决策层提供相关解决方案； <br />12、负责企业文化建设及企业战略发展规划。统筹规范公司各部门工作流程.在管理过程中,施行&quot;以人为本,科学管理&quot;原则以销售和售后服务为中心以提高销售业绩、售后产值、售后服务质量为宗旨,强化员工行为规范及服务意识,树立良好企业形象努力调配监督检查指导各部门工作.在公司整体发展过程中明确并制定公司发展方向和目标</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2011.10 - 2013.02&nbsp;&nbsp;宁夏京胜尼桑怡通别克荣通荣威汽车销售集团公司（尼桑）&nbsp;&nbsp;（1年4个月）</h2>
+            <h5>销售经理兼新建日产店副总经理 | 10001-15000元/月</h5>
+            <div class="resume-preview-dl">
+                汽车/摩托车 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、负责新建店与厂家的全部沟通事项<br />2、在日常工作过程中结合品牌厂家、公司每月下达整车销售任务目标合理进行分配并督导、跟踪销售顾问任务目标达成情况； <br />3、结合厂家商务政策及市场状况合理、有效的制定销售部门商务政策经总经理审批后监督实施； <br />4、定期组织召开销售部门业务研讨会，总结本部门阶段性业务进展情况，指导销售顾问工作方向及存在问题整改措施、方案； <br />5、负责将销售部门年度整车销量、毛利、车饰、ssi、新车保险渗透率、按揭渗透率等各项预算目标任务进行周、月、季等分解达成； <br />6、结合品牌厂家要求、市场竞品状况及销售顾问日常工作需求定期对销售顾问进行针对性专业知识课程培训，提高销售顾问综合能力及整体战斗力； <br />7、负责销售部门客户投诉问题处理，协调好客户与公司之间关系，提高客户满意度； <br />8、负责协助大客户部门对品牌在本区域内大客户群体开发、跟踪工作，提高品牌市占率； <br />9、负责销售部门各项管理制度、奖、惩标准等制定，经总经理审批后监督实施； <br />10、负责与品牌区域经理经常沟通、汇报工作，保持良好的厂家领导关系； <br />11、负责协调销售部门与公司各部门之间关系，协助、配合市场部门所策划活动方案； <br />12、负责市场调研,充分了解和掌握品牌竞争对手及市场变化,有效调整销售策略； <br />13、负责完成公司领导临时下达的其它工作任务<br /></td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2010.11 - 2011.10&nbsp;&nbsp;宁夏京胜尼桑怡通别克荣通荣威汽车销售集团公司（尼桑）&nbsp;&nbsp;（11个月）</h2>
+            <h5>销售经理 | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                汽车/摩托车 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、在日常工作过程中结合厂家、公司每月下达整车销售任务目标合理进行分配并督导、跟踪销售顾问任务目标达成情况； <br />2、结合厂家商务政策及市场状况合理、有效的制定销售部门商务政策经总经理审批后监督实施； <br />3、定期组织召开销售部门业务研讨会，总结本部门阶段性业务进展情况，指导销售顾问工作方向及存在问题整改措施、方案； <br />4、负责将销售部门年度整车销量、毛利、车饰、ssi、新车保险渗透率、按揭渗透率等各项预算目标任务进行周、月、季等分解达成； <br />5、结合品牌厂家要求、市场竞品状况及销售顾问日常工作需求定期对销售顾问进行针对性专业知识课程培训，提高销售顾问综合能力及整体战斗力； <br />6、负责销售部门客户投诉问题处理，协调好客户与公司之间关系，提高客户满意度； <br />7、负责协助大客户部门对品牌在本区域内大客户群体开发、跟踪工作，提高品牌市占率； <br />8、负责销售部门各项管理制度、奖、惩标准等制定，经总经理审批后监督实施； <br />9、负责与品牌区域经理经常沟通、汇报工作，保持良好的厂家领导关系； <br />10、负责协调销售部门与公司各部门之间关系，协助、配合市场部门所策划活动方案； <br />11、负责市场调研,充分了解和掌握品牌竞争对手及市场变化,有效调整销售策略； <br />12、负责完成公司领导临时下达的其它工作任务；<br /></td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2010.05 - 2010.11&nbsp;&nbsp;宁夏京胜尼桑怡通别克荣通荣威汽车销售集团公司（别克）&nbsp;&nbsp;（6个月）</h2>
+            <h5>销售主管 | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                汽车/摩托车 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1、依据厂家和企业营销目标和市场需求，制定协助销售经理的销售计划并组织实施。<br />2、协助销售经理管理销售部门日常工作事务，合理调配人力、物力等资源。<br />3、协助销售经理处理销售人员无权处理或无法解决的重大问题。<br />4、处理与公司其他部门的关系，与其他部门有效合作。<br />5、做好本部门人员的工作指导和考核工作。<br />6、寻求部门新的利润增长点。<br />7、积极配合市场部门进行促销活动策划及市场推广方案执行，提高品牌市场占有率 <br />8、培训销售部门员工销售工作流程专业知识沟通谈判技巧等 <br />9、合理拓展二级销售网点促进销量提升保持与品牌生产厂家良好沟通渠道,及时掌握厂家商务政策及公司车辆库存情况,并合理制定车辆拷车计划，努力配合各部门工作。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2007.11 - 2010.05&nbsp;&nbsp;宁夏京胜尼桑怡通别克荣通荣威汽车销售集团公司（别克）&nbsp;&nbsp;（2年6个月）</h2>
+            <h5>销售主管兼内训师 | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                汽车/摩托车 | 企业性质：民营 | 规模：100-499人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1：2007年11月进入公司任销售顾问。<br />2：2008年6月任销售部内训师。<br />3：2009年1月至2010年5月销售主管兼销售部内训师。<br />4：2008年全年销售别克车147台，保险销售60万元，在08年8个月获得月的销售冠军，同时获得08年年度销售冠军。<br />5：2009年个人全年销售175台车，保险完成98万元，装饰销售35万元，带领销售小组完成公司制定的任务指标，个人获得年度销售冠军，公司年度优秀员工。<br />6：担任公司内训师，参加上海通用的各种培训，回来制定培训计划，给所有销售顾问进行转训。<br />7：2009年通过考试获得上海通用汽车市场营销部优秀内训师证书。<br />8：积极配合市场部门进行促销活动策划及市场推广方案执行，提高品牌市场占有率 <br />9：培训销售部门员工销售工作流程专业知识沟通谈判技巧等 <br />10：合理拓展二级销售网点促进销量提升保持与品牌生产厂家良好沟通渠道,及时掌握厂家商务政策及公司车辆库存情况,并合理制定车辆拷车计划，努力配合各部门工作。<br /></td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2005.08 - 2007.05&nbsp;&nbsp;北京北方长远科技有限公司&nbsp;&nbsp;（1年9个月）</h2>
+            <h5>大客户部 | 大客户销售经理 | 6001-8000元/月</h5>
+            <div class="resume-preview-dl">
+                IT服务(系统/数据/维护) | 企业性质：民营 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1:公司代理了高端的IT产品,包括:IBM,SUN,惠普,联想,方正,同方,CISCO等.公司从事政府采购,系统集成,网络综合布线,UPS电源配置以及机房装修等大型工程。<br />2:负责北京市以及各个区县的政府采购招投标项目,以及系统集成机房装修等大型项目的运作,公司所代理的全系列高端IT产品的销售。<br />3:参与制定项目方案、项目推广活动，配合公司各部门完成项目的实施工作,负责公司和相关政府部门的对外联络工作。<br />4:协助经理制定总体市场策划方案，参与产品的分析预测及推广规划部署。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2004.11 - 2005.08&nbsp;&nbsp;北京鸿阳飞锐科技有限公司&nbsp;&nbsp;（9个月）</h2>
+            <h5>销售部 | 客户代表 | 4001-6000元/月</h5>
+            <div class="resume-preview-dl">
+                计算机硬件 | 企业性质：民营 | 规模：20-99人
+            </div>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">工作描述：</td>
+                        <td>1:公司是IBM,SUN,惠普(白金级代理)等高端IT产品的核心代理商,从事惠普,IBM等IT产品以及全系列UPS的全国渠道销售。<br />2:负责公司产品在北京、天津、山西等地区的渠道销售，制订季度销售计划，拓展客户群并保持良好合作关系，跟踪销售情况，完成预计售目标。<br />3:很好的执行了公司上级下达的指示，完成分配的任务，在个别月份还超额完成。<br />4:在维系原有客户的基础上努力开发新的直接用户，朝着20%的客户带来80%的利益的目标努力。</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">教育经历</h3>
+        <div class="resume-preview-dl educationContent">
+2002.09 - 2004.09&nbsp;&nbsp;中国人民大学成人教育学院&nbsp;&nbsp;法学&nbsp;&nbsp;大专<br />
+        </div>
+    </div>
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">培训经历</h3>
+            <h2>2014.06 - 2014.06&nbsp;&nbsp;总经理培训  务实创新-专营店经营管理</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>东风日产</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>石家庄</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>考试通过</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2012.09 - 2012.09&nbsp;&nbsp;销售经理培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>东风日产</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>郑州</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>考试通过</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2011.08 - 2011.08&nbsp;&nbsp;东风日产楼兰上市营销培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>东风日产</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>珠海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2011.07 - 2011.07&nbsp;&nbsp;新天籁的市场营销培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>东风日产</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>成都</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2010.01 - 2010.01&nbsp;&nbsp;别克英朗上市</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2009.10 - 2009.10&nbsp;&nbsp;上海通用市场营销部内训师大赛</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>2009年度别克市场营销部优秀内训师</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2009.08 - 2009.08&nbsp;&nbsp;别克新君威专业试乘试驾培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>兰州</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2009.06 - 2009.06&nbsp;&nbsp;别克新君威销售管理培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>参加上海通用汽车别克新一代君越上市的销售管理的培训以及产品知识的培训。</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2008.10 - 2008.10&nbsp;&nbsp;别克销售先锋营第二期培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>西安</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>参加上海通用组织的由营销大师孙璐弘老师的：高档车销售管理的培训。</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2008.07 - 2008.07&nbsp;&nbsp;别克销售先锋营第一期培训</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>参加上海通用组织的由营销大师孙璐弘老师的：高档车销售管理的培训。</td>
+                        </tr>
+                </table>
+            </div> 
+            <h2>2008.06 - 2008.06&nbsp;&nbsp;别克新凯越上市</h2>    
+            <div class="resume-preview-top resume-line-height">
+                <table cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                            <td width="60">培训机构：</td>
+                            <td>上海通用市场营销部</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">培训地点：</td>
+                            <td>上海</td>
+                        </tr>   
+                        <tr valign="top">
+                            <td width="60">所获证书：</td>
+                            <td>合格</td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="60">培训描述：</td>
+                            <td>参加上海通用新车型别克新凯越上市的产品知识培训。</td>
+                        </tr>
+                </table>
+            </div> 
+    </div>
+
+    <div class="resume-preview-all">
+        <h3 class="fc6699cc">证书</h3>
+            <h2>2008.12&nbsp;&nbsp;2008年度销售冠军</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">证书说明：</td>
+                        <td>2008年全年销售别克车147台，保险销售62万元，在08年8个月获得月的销售冠军，同时获得08年年度销售冠军。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.12&nbsp;&nbsp;2009年度销售冠军</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">证书说明：</td>
+                        <td>2009年个人全年销售175台车，保险完成98万元，装饰销售35万元，带领销售小组完成公司制定的任务指标，个人获得年度销售冠军，公司年度优秀员工。</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.12&nbsp;&nbsp;2009年度优秀员工</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">证书说明：</td>
+                        <td>2009年度优秀员工</td>
+                    </tr>
+                </table>
+            </div>    
+            <h2>2009.12&nbsp;&nbsp;上海通用市场营销部优秀内训师</h2>
+            <div class="resume-preview-dl">
+                <table cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="60">证书说明：</td>
+                        <td>上海通用市场营销部内训师大赛，并获得别克四区优秀内训师</td>
+                    </tr>
+                </table>
+            </div>    
+    </div>
+
+
+
+
+
+
+                        <div class="previewLayer11 rd_button smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail"></div>
+                </div>
+<div class="resume-preview-right">
+        <div class="resume-preview-button previewLayer11 smpevent" data-smpaction="downloadresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon11"></span>下载简历
+        </div>
+        <div class="resume-preview-button previewLayer12 smpevent" data-smpaction="savetemporaryresume" data-smpposition="resumedetail">
+            <span class="resume-preview-button-span preview-icon12"></span>暂存简历
+        </div>
+    <a class="similar-button-gray previewLayer_xsjl" style="display: none" target="_blank">
+        <span class="preview-icon_xsjl resume-preview-button-span preview-icon-similar-gray"></span>
+        <span id="xsjl_count">相似简历(<img id="xsjldd" src="http://img02.zhaopin.cn/2012/img/rd/xsjldd.gif" />)</span>
+        <span class="new-icon"></span>
+    </a>
+    <!--<div class="resume-preview-button previewLayer10"><span class="resume-preview-button-span preview-icon10"></span>返回顶部</div>-->
+</div>
+<div class="back-to">
+</div>
+<div class="szmr_over">
+    <div class="szmr_overts">
+        <div id="subWindowMain" class="tanchuang_main">
+        </div>
+    </div>
+</div>
+<div id="downfile" style="display: none">
+</div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="AppId=1&amp;Id=615452324&amp;Timestamp=635871577426235476&amp;Callback=&amp;signature=3ba7dd46283e195e79487e858ab43c99&amp;comid=75144724&amp;comname=长沙思美电子科技有限公司" id="neturlparam">
+    <!--随手聘-->
+    <input type="hidden" name="posttype" id="posttype" value="0" />
+    <input type="hidden" name="labeltype" id="labeltype" value="0" />
+    <input type="hidden" name="positionid" id="positionid" value="0" />
+    <!--反馈通D期-->
+    <input type="hidden" name="tt_username" id="tt_username" value="龙飞" />
+    <input type="hidden" name="tt_sourceid" id="tt_sourceid" value="8" />
+    <input type="hidden" name="resume_id" id="resume_id" value="193304497" />
+    <input type="hidden" name="extId" id="extId" value="JM154523241R90250000000" />
+    <input type="hidden" name="resume_version" id="resume_version" value="1" />
+    <input type="hidden" name="resume_language" id="resume_language" value="1" />
+    <input type="hidden" name="resume_Name" id="resume_Name" value="销售管理 8年 银川" />
+    <input type="hidden" name="resumeUserId" id="resumeUserId" value="615452324" />
+    <input type="hidden" name="currentCompanyName" id="currentCompanyName" value="长沙思美电子科技有限公司" />
+    <input type="hidden" name="currentDepartmentName" value="长沙思美电子科技有限公司"/>
+    <input type="hidden" name="PositionNumber" id="PositionNumber" value="" />
+    <input type="hidden" name="gltype" id="gltype" value="0" />
+    <input type="hidden" name="GlStatus" id="GlStatus" value="0" />
+    <input type="hidden" name="ApplyResume" id="ApplyResume" value="" />
+    <input type="hidden" name="rootCompanyId" id="rootCompanyId" value="75144724" />
+    <!-- Trace Data Block Start -->
+    <input type="hidden" name="dda_kpi" id="dda_kpi" value="M1" />
+    <input type="hidden" name="dda_operatorid" id="dda_operatorid" value="656561310" />
+    <input type="hidden" name="dda_companyid" id="dda_companyid" value="75144724" />
+    <input type="hidden" name="dda_custom" id="dda_custom" value="" />
+    <input type="hidden" name="dda_ownerid" id="dda_ownerid" value="" />
+    <input type="hidden" name="dda_cvid" id="dda_cvid" value="JM154523241R90250000000_1" />
+    <input type="hidden" name="dda_position" id="dda_position" value="resumedetail" />
+    <input type="hidden" name="dda_action" id="dda_action" value="viewdetail" />
+    <input type="hidden" name="dda_xtable" id="dda_xtable" value="" />
+    <input type="hidden" name="dda_type" id="dda_type" value="cvdownload" />
+    <!-- Trace Data Block End   -->
+    <input type="hidden" name="rewardhrresult" id="rewardhrresult" value="0" data-reward="5" />
+
+    <a id="fileLink" href="" style="display: none"></a>
+
+    <div class="moreTalented noprint" style="display: none;" id="kp_panel">
+        <p class="mtTitle">更多靠谱人才</p>
+        <div class="mtChatCon">
+            <ul>
+            </ul>
+        </div>
+        <div class="mtCheckAll"><a target="_blank" href="#" id="kp_linkall" class="__ga__JobInviteLU_clickViewAll$CV_001">查看全部&gt;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+
+        if (typeof (jobTitleInit) != 'undefined') {
+            jobTitleInit();
+        }
+
+        if (typeof (countKPJL) != 'undefined') {
+            countKPJL();
+        }
+
+        if (typeof (getKPJL) != 'undefined') {
+            getKPJL();
+        }
+
+        function switchlang(lang) {
+            $('#changeLanguageImg').show();
+            var href = location.href.replace(/&?lang=\w*/, '');
+            if (href.indexOf('?') == -1) {
+                location.href = href + '?lang=' + lang;
+            } else if (href.lastIndexOf('?') == href.length - 1) {
+                location.href = href + 'lang=' + lang;
+            } else {
+                location.href = href + '&lang=' + lang;
+            }
+        }
+    </script>
+</div>
+<input type="hidden" name="viewSource" id="viewSource" value="2" />
+<input type="hidden" name="keyword_search" id="keyword_search" value="" />
+<input type="hidden" name="college_search" id="college_search" value="" />
+<input type="hidden" name="company_search" id="company_search" value="" />
+<input type="hidden" name="dda_source" id="dda_source" value="2" />
+
+
+    </div>
+    <div class="editor-layer-add">
+        <div class="editor-layer-icon cvLabelColor1 dev_label_icon_list" dev_classname="cvLabelColor1">
+        </div>
+        <div class="editor-layer-icon cvLabelColor2 dev_label_icon_list" dev_classname="cvLabelColor2">
+        </div>
+        <div class="editor-layer-icon cvLabelColor3 dev_label_icon_list" dev_classname="cvLabelColor3">
+        </div>
+        <div class="editor-layer-icon cvLabelColor4 dev_label_icon_list" dev_classname="cvLabelColor4">
+        </div>
+        <div class="editor-layer-icon cvLabelColor5 dev_label_icon_list" dev_classname="cvLabelColor5">
+        </div>
+        <div class="editor-layer-icon cvLabelColor6 dev_label_icon_list" dev_classname="cvLabelColor6">
+        </div>
+        <div class="editor-layer-icon cvLabelColor7 dev_label_icon_list" dev_classname="cvLabelColor7">
+        </div>
+        <div class="editor-layer-icon cvLabelColor8 dev_label_icon_list" dev_classname="cvLabelColor8">
+        </div>
+        <div class="editor-layer-icon cvLabelColor9 dev_label_icon_list" dev_classname="cvLabelColor9">
+        </div>
+        <div class="editor-layer-icon cvLabelColor10 dev_label_icon_list" dev_classname="cvLabelColor10">
+        </div>
+        <div class="editor-layer-icon cvLabelColor11 dev_label_icon_list" dev_classname="cvLabelColor11">
+        </div>
+        <div class="editor-layer-icon cvLabelColor12 dev_label_icon_list" dev_classname="cvLabelColor12">
+        </div>
+    </div>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+    <!--script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/arrdata.js"></script-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zlzp.app.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupdiv.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.popupbase.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/common.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/utilscript.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/fnresuadmi.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/ui/jquery.zlzp.autocomplete.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/za/smp.min.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/rd/previewlayer.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/fktResumeActive.js"></script>
+    <!--反馈通D期-->
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/common/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img01.zhaopin.cn/2014/rd2/js/feedbackD.js?version=20151203"></script>
+    <script type="text/javascript" src="http://img00.zpin.net.cn/2014/common/js/za/ga_rd.js"></script>
+
+
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            //SMP监控
+            smppv.pageView();
+        });
+    </script>
+</body>
+</html>

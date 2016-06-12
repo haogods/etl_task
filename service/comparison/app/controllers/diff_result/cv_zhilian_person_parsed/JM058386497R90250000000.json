@@ -1,0 +1,118 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "陈柳", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "15579535889", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": "648305529@qq.com"
+    }, 
+    "baseInfo": {
+        "updateTime": "", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JM058386497R90250000000", 
+        "recentMajorName": "英语", 
+        "nowPoliStatus": "团员", 
+        "nowAddress": "宜春", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "大专", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "宜春", 
+        "dob": "1990年11月", 
+        "gender": "女", 
+        "age": "26岁", 
+        "recentSchName": "江西省宜春市宜春职业技术学院", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "6年工作经验"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力熟练 | 听说能力熟练", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "热情随和，活波开朗，具有进取精神和团队精神，有较强的动手能力。良好协调沟通能力，适应力强，反应快、积极、灵活，爱创新！提高自己，适应工作的需要。具有一定的社会交往能力，具有优秀的组织和协调能力。", 
+        "socialActie": "", 
+        "workLoc": "深圳", 
+        "stuPractice": "", 
+        "jobPositionFor": "人事专员", 
+        "jobIncNameFor": "深圳市柏威国际货运代理有限公司", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "交通/运输、政府/公共事业/非盈利机构、物流/仓储", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "行政/后勤/文秘、物流/仓储、人力资源", 
+        "expLocations": "深圳", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2011.06", 
+            "schName": "江西省宜春市宜春职业技术学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "英语", 
+            "eduDiploma": "大专"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "招商局物流集团有限公司", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "2014.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2011.04", 
+            "incIndustrys": "物流/仓储", 
+            "jobDuration": "3年8个月", 
+            "incEmployee": "10000人以上", 
+            "incType": "国企", 
+            "jobPosition": "人事行政", 
+            "jobDesc": "\n      1、负责招聘工作，应聘人员的预约，接待及面试;　　2、员工入职手续办理，员工劳动合同的签订、续签与管理;　　3、公司内部员工档案的建立与管理;　　4、负责与其他部门的协调工作，做好信息的上传下达;　　5、负责公司各部门的行政后勤类相关工作;　　6、负责考勤及工资绩效的核算;　　7、负责部门一些日常行政事务，配合上级做好行政人事方面的工作;", 
+            "witness": ""
+        }
+    ]
+}

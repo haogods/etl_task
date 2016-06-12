@@ -1,0 +1,310 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-02-29", 
+        "overSea": "", 
+        "height": "162", 
+        "nowSalary": "", 
+        "cvId": "306060347", 
+        "recentMajorName": "英语", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京-东城区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "首席执行官CEO/总裁/总经理", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "酒店/旅游", 
+        "nowInc": "广汇恒润酒店管理有限公司", 
+        "nowHukou": "北京", 
+        "dob": "1977年6月", 
+        "gender": "女", 
+        "age": "38岁", 
+        "recentSchName": "北京市", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "", 
+        "nowWorkAge": "10年以上工作经验 "
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2011.5", 
+            "certName": "第二届金龙奖最具职业精神荣誉证书及奖杯", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "2", 
+            "certTime": "2010.12", 
+            "certName": "北京市东城区涉外酒店先进工作个人荣誉证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "3", 
+            "certTime": "2010.12", 
+            "certName": "2010年中国最佳风尚女性荣誉证书及奖杯", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "4", 
+            "certTime": "2010.12", 
+            "certName": "最高人民法院机关服务中心2009年度先进工作者荣誉证书", 
+            "certLevel": ""
+        }, 
+        {
+            "itemId": "5", 
+            "certTime": "2009.12", 
+            "certName": "最高人民法院机关服务中心2009年度先进工作者荣誉证书", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "IHMA国际饭店职业经理人协会", 
+            "trainCert": "", 
+            "trainStart": "2011.6", 
+            "trainTitle": "国际饭店高级职业经理人", 
+            "trainEnd": "至今："
+        }, 
+        {
+            "itemId": "2", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "绿色饭店协会", 
+            "trainCert": "高级评审员", 
+            "trainStart": "2010.7", 
+            "trainTitle": "绿色饭店评审员", 
+            "trainEnd": "2010.8"
+        }, 
+        {
+            "itemId": "3", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "中央国家机关后勤部", 
+            "trainCert": "不取证", 
+            "trainStart": "2010.5", 
+            "trainTitle": "中央国家机关宾馆营销管理知识", 
+            "trainEnd": "2010.5"
+        }, 
+        {
+            "itemId": "4", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "钰泰.巨思特", 
+            "trainCert": "不取证", 
+            "trainStart": "2010.5", 
+            "trainTitle": "GPS核能赢利总裁研修", 
+            "trainEnd": "2010.5"
+        }, 
+        {
+            "itemId": "5", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "上海锦江国际酒店管理学院", 
+            "trainCert": "", 
+            "trainStart": "2006.4", 
+            "trainTitle": "酒店管理提升", 
+            "trainEnd": "2006.5"
+        }, 
+        {
+            "itemId": "6", 
+            "trainLoc": "", 
+            "trainDesc": "", 
+            "trainAgency": "北京市劳动局", 
+            "trainCert": "", 
+            "trainStart": "1995.7", 
+            "trainTitle": "北京市旅游管理局专业技术培训班", 
+            "trainEnd": "1995.8"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "听说（良好），读写（良好）", 
+            "languageName": "英语（良好）"
+        }, 
+        {
+            "itemId": "2", 
+            "languageLevel": "听说（精通），读写（精通）", 
+            "languageName": "普通话（精通）"
+        }
+    ], 
+    "proList": [], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "1、具备高度职业操守和责任感，品质干净，热衷并全身心投入酒店事业；\r2、思维清晰敏捷，分析能力强，性格开朗处事稳重； \r3、了解国家法律法规，熟悉星级酒店、私人会所和经济型酒店筹备及经营管理，开业经历超过10家（宏远酒店-4星私企、枫情山水度假酒店-外资私企、MAPLE INN-《李春天的春天》拍摄场地、东方盛酒店-4星私企、美吉利宾馆-4星私企、凤凰公社-私人会所、有机农园 高端养生素食餐饮等、万松别墅-中西）；\r4、考取绿色饭店协会《高级评审员》资质，了解并致力于低碳环保酒店建设与推广； \r5、建立并维护良好的企业员工关系和客户关系，能够带领团队出色完成各项任务；\r6、与饭店协会、四川省饭店业女总经理协会及业内数家杂志社保持联络及良好的沟通。酒店管理总经理法律筹备", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "酒店/旅游", 
+        "dutyTime": "一周以内", 
+        "notes": "", 
+        "workStatus": "观望有好的机会再考虑", 
+        "expSalary": "", 
+        "ignoreIncs": "", 
+        "expJobCates": "酒店/宾馆经理", 
+        "expLocations": "北京", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "51job", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "1999.10", 
+            "schName": "北京市", 
+            "eduTongZhao": "", 
+            "eduStart": "1995.3", 
+            "majorName": "英语", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "广汇恒润酒店管理有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "总办", 
+            "jobStart": "2013.10", 
+            "incIndustrys": "酒店/旅游", 
+            "jobDuration": "2年4个月", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "首席执行官CEO/总裁/总经理", 
+            "jobDesc": "酒店管理", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "北京共济国际酒店有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2013.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "总经理", 
+            "jobStart": "2011.10", 
+            "incIndustrys": "酒店/旅游", 
+            "jobDuration": "2年", 
+            "incEmployee": "500-1000人", 
+            "incType": "", 
+            "jobPosition": "酒店/宾馆经理", 
+            "jobDesc": "北京共济国际酒店隶属国务院扶贫办由国宾友谊集团管理，四星级涉外、政府采购单位，拥有标准间、商务单人房、行政套房等二百间，大堂吧、中餐厅、西餐厅、宴会厅及豪华包房，并具有大小会议室4个，健身房、美发中心、商务中心、按摩中心、商品部等 。\r工作职责：\r1、短期工作重点：成本控制、客源开发、团队建设；\r2、餐饮重新定位管理改革增收；\r3、与国务院扶贫办、中国国际扶贫中心、培训中心的沟通协调等 ；\r4、重新修改人员编制，降低人工成本。\r工作业绩：\r1、实施了垃圾和废品回收再利用制度改革，降低运营成本；\r2、分析设计酒店照明方案，更换后节约照明电能70%以上；\r3、完成了危机管理教育，编写了紧急预案并组织数次全员学习和演练；\r4、策划组织员工业务培训、竞赛及业余活动，增强企业凝聚力；\r5、总值制度改革，减少自用房70%。服务水平提升，增加了客人满意度和回头率，降低了投诉率；\r6、建立了各部门计划卫生制度，提高酒店卫生标准。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "最高人民法院法官之家酒店", 
+            "jobSalary": "", 
+            "jobEnd": "2011.5", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "总经理", 
+            "jobStart": "2009.5", 
+            "incIndustrys": "酒店/旅游", 
+            "jobDuration": "2年", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "酒店/宾馆经理", 
+            "jobDesc": "法官之家酒店隶属最高人民法院机关服务中心，四星涉外，拥有标准客房、商务单人房、行政套房、家庭房、三人房及总统套房167间，大堂茶吧、海鲜酒楼、咖啡厅、多功能厅及豪华包房，会议室4个，棋牌室，美发中心、商务中心、商品部、健身房等 。\r工作职责：\r1、主抓团队建设、提高营收和成本控制。  \r工作业绩：\r1、2009年5月前经营状况较差，年末报表赤字，入职后编制了全套法官之家管理模式及流程 一年时间人工成本降低超过30%，截至2011年4月能源费用降低超过50%，团队和谐高效；\r2、出色完成了最高院内外各级别接待任务；\r3、工作期间稳定经营成本和团队的同时着手调整客源结构，第一年基本偿清酒店债务并超额完成经营指标，第二年债务全部清理并超额完成经营指标， 客人好评不计其数；\r4、多次获得团队及个人荣誉证书和锦旗，为最高院收获良好的声誉和效益。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "4", 
+            "incName": "锦江之星（北京、天津）", 
+            "jobSalary": "", 
+            "jobEnd": "2008.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "1", 
+            "jobStart": "2005.6", 
+            "incIndustrys": "酒店/旅游", 
+            "jobDuration": "3年4个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "营业部经理/店总/区域筹备负责人", 
+            "jobDesc": "锦江之星是国内知名的快捷酒店品牌，创立于1996年。至今，旗下各品牌酒店总数已超550家，分布在全国31个省、直辖市，140多个城市。客房总数超67000间。\r工作职责：\r1、筹备、管理 ； \r2、2005-2006任北京旗舰店营业部经理，296间客房，主要负责单店经营管理；\r3、2006-2008赴天津负责新店筹备及管理，包括物资准备、招聘及培训、开业及门店管理工作。\r工作业绩：\r出色完成总部下达的各项经营指标及任务，五家门店耗时一年顺利开业并正常运营，团队活跃战斗力强。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "5", 
+            "incName": "中国儿童中心全脑教学中心", 
+            "jobSalary": "", 
+            "jobEnd": "2004.4", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "1", 
+            "jobStart": "2000.12", 
+            "incIndustrys": "教育/培训/院校", 
+            "jobDuration": "3年4个月", 
+            "incEmployee": "50-150人", 
+            "incType": "", 
+            "jobPosition": "副总/工程师", 
+            "jobDesc": "校区、科技馆、社区科普工作室建设 科普教具设计研发 少儿科普 策划组织并亲自带队多次大型科普活动、少儿科普夏令营 \r2003年应邀录制中央电视台少儿科普十一特别节目", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "6", 
+            "incName": "赛特集团", 
+            "jobSalary": "", 
+            "jobEnd": "2000.8", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "1", 
+            "jobStart": "1995.3", 
+            "incIndustrys": "", 
+            "jobDuration": "5年5个月", 
+            "incEmployee": "None", 
+            "incType": "", 
+            "jobPosition": "其他", 
+            "jobDesc": "赛特国际集团，是一家集金融投资和实业投资于一体，经营机构遍布欧美、东南亚、港澳台及中国大陆的多元化经营的跨国企业。集团依靠自身在实业领域的强大实力和资本市场的大手笔运作，不断发展子公司，目前涉及领域包括金融投资、信息技术、新材料开发、生物工程、化工、纺织、印染、防腐工程、建设工程、工贸、水务资源等。 工作职责： 工程机房话务员。", 
+            "witness": ""
+        }
+    ]
+}

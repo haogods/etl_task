@@ -1,0 +1,256 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-01-17", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "27619751", 
+        "recentMajorName": "工业外贸", 
+        "nowPoliStatus": "", 
+        "nowAddress": "马来西亚", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "董事副行长", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "银行", 
+        "nowInc": "亚太开发投资（纳闽）银行有限公司（筹建）", 
+        "nowHukou": "", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "50 岁", 
+        "recentSchName": "湖南大学", 
+        "credit": "", 
+        "marriage": "保密", 
+        "country": "中国", 
+        "nowWorkAge": "27 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "英语(专业八级)、普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "海外现金管理", 
+            "proStart": "2012.06", 
+            "devTool": "", 
+            "proRole": "项目发起人，协调人。负责与义乌小商品城公司联系，进而与中国商人在中东欧海外网络联系，介绍给当地奥行机构。进行资金汇集。", 
+            "proIncName": "奥地利奥合国际银行股份有限公司哈尔滨代表处", 
+            "proDesc": "把义乌小商品城出口到中东欧和独联体的海外销售收入由奥合国际银行在当地国家的分行管理汇兑。", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "为奥行在中东欧和俄罗斯最强大的银行网络注入中国商人在当地批发市场产生的众多现金流。", 
+            "proEnd": "2015.05"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "大学毕业到现在26年了换了三份工作，外贸、工行、奥地利银行。外贸时还在荷兰、巴基斯坦工作各一年多。我认为自己真正立起来的时刻，是从事工行清收不良贷款开始的。这个岗位＂关系＂、＂地位＂不起任何作用，完全要靠对当时政治形势的把握、矛盾的运用，情、理、法的平??以及坚强的意志。只有经历过激烈对抗并战胜了的人，才能理解人、工作和价值。有此基础才能完成从国有银行到外资银行的转变，从＂干活＂到＂找活＂然后交给别人＂干活＂的转变。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "银行;信托/担保/拍卖/典当;贸易/进出口", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "在职，看看新机会", 
+        "expSalary": "面议", 
+        "ignoreIncs": "", 
+        "expJobCates": "分公司/代表处负责人;部门/事业部管理;部门/事业部管理", 
+        "expLocations": "北京;上海;亚洲", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "1989.07", 
+            "schName": "湖南大学", 
+            "eduTongZhao": "", 
+            "eduStart": "1985.07", 
+            "majorName": "工业外贸", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": " ", 
+            "incName": "亚太开发投资（纳闽）银行有限公司（筹建）", 
+            "jobSalary": "", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.09", 
+            "incIndustrys": "银行", 
+            "jobDuration": "1年6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "至今", 
+                    "subTimeSize": "12 ", 
+                    "location": "马来西亚", 
+                    "positionStart": "2014/09", 
+                    "jobPosition": "董事副行长", 
+                    "jobDesc": "负责筹建具体事宜。负责国内企业去马来西亚、印度尼西亚等东盟国家投资的咨询，寻找项目，国内外融资，投资及运营工作。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "奥地利奥合国际银行股份有限公司哈尔滨代表处", 
+            "jobSalary": "", 
+            "jobEnd": "2014.08", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2008.07", 
+            "incIndustrys": "银行", 
+            "jobDuration": "6年1个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2014/08", 
+                    "subTimeSize": "2 ", 
+                    "location": "哈尔滨", 
+                    "positionStart": "2008/07", 
+                    "jobPosition": "巿场调查代表", 
+                    "jobDesc": "探寻贸易融资及流动资金贷款客户需求、介绍本行产品，然后將信息传给分行，协助客户经理完成贷前、贷中及贷后工作。向我俄罗斯分行--该国最大外资银行，乌克兰子行--该国最大银行，以及中东欧分行介绍当地中国企业现金管理业务。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "中国工商银行股份有限公司哈尔滨开发区分行", 
+            "jobSalary": "", 
+            "jobEnd": "2008.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1997.04", 
+            "incIndustrys": "银行", 
+            "jobDuration": "11年2个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "2008/06", 
+                    "subTimeSize": "25 ", 
+                    "location": "哈尔滨", 
+                    "positionStart": "1997/04", 
+                    "jobPosition": "副行长、公司业务部经理、资产风险部经理、信贷员、国际结算员", 
+                    "jobDesc": "十一年来先后从事了国际结算员、信贷员，资产风险部经理、公司业务经理、副行长，负责公司业务，风险资产业务、投行业务。组织了工行二次不良贷款剥离。"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "中国机械设备进出口公司黑龙江分公司", 
+            "jobSalary": "", 
+            "jobEnd": "1997.07", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "1989.07", 
+            "incIndustrys": "贸易/进出口", 
+            "jobDuration": "8年", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "positionEnd": "1997/07", 
+                    "subTimeSize": "10 ", 
+                    "location": "哈尔滨", 
+                    "positionStart": "1989/07", 
+                    "jobPosition": "出口二部经理", 
+                    "jobDesc": "出口业务，国际投标。"
+                }, 
+                {
+                    "itemId": 2, 
+                    "positionEnd": "1994/12", 
+                    "subTimeSize": "2 ", 
+                    "location": "巴基斯坦", 
+                    "positionStart": "1993/12", 
+                    "jobPosition": "巴基斯坦代表处首席代表", 
+                    "jobDesc": "已中标项目维护及投标。"
+                }, 
+                {
+                    "itemId": 3, 
+                    "positionEnd": "1993/12", 
+                    "subTimeSize": "0 ", 
+                    "location": "荷兰", 
+                    "positionStart": "1992/08", 
+                    "jobPosition": "荷兰代表处首席代表助理", 
+                    "jobDesc": "开发欧洲手工具、电动工具市场。市场调研。"
+                }
+            ]
+        }
+    ]
+}

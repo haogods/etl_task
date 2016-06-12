@@ -1,0 +1,238 @@
+{
+    "skillList": [], 
+    "privateInfo": {
+        "userName": "******", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016-03-22", 
+        "overSea": "", 
+        "height": "", 
+        "nowSalary": "保密", 
+        "cvId": "37306518", 
+        "recentMajorName": "艺术设计", 
+        "nowPoliStatus": "", 
+        "nowAddress": "北京", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "UI设计师", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "互联网/移动互联网/电子商务", 
+        "nowInc": "无止净（北京）科技有限公司", 
+        "nowHukou": "北京", 
+        "dob": "", 
+        "gender": "男", 
+        "age": "28 岁", 
+        "recentSchName": "北京工商学院", 
+        "credit": "", 
+        "marriage": "已婚", 
+        "country": "中国", 
+        "nowWorkAge": "4 年"
+    }, 
+    "certList": [], 
+    "trainList": [], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "", 
+            "languageName": "普通话"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "视觉设计", 
+            "proStart": "2012.03", 
+            "devTool": "", 
+            "proRole": "独立完成专题的选题、策划和采编工作，进行专题页面的规划及制作；管理网站内所负责栏目内容的及时更新与完善。完成名片、易拉宝等物料设计制作，根据商家要求不断修改完善", 
+            "proIncName": "", 
+            "proDesc": "1. 独立完成产品的cps广告投放设计 广点通图片设计 商品主图设计 优爆单产品设计及制作 2. 独立完成专题的选题、策划和采编工作，进行专题页面的规划及制作；管理网站内所负责栏目内容的及时更新与完善。 3. 独立完成名片、易拉宝等物料设计制作，根据商家要求不断修改完善", 
+            "softwareEnv": "", 
+            "proDuty": "", 
+            "proAchievement": "", 
+            "proEnd": "2014.09"
+        }
+    ], 
+    "others": {
+        "otherHobby": "", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "", 
+        "gainHoner": "", 
+        "schoolExp": "", 
+        "religion": "", 
+        "selfIntro": "有创造性、建设性的工作思维，具有一定的摄影基础和拍摄经验，喜欢尝试一些新颖的题材，对艺术及设计一直很热衷，具有敏锐的观察能力，对工作态度，既严肃、认真又充满激情，活跃思维、热情性格，在工作中认识到商业设计应注重用户体验，努力学习并应用各种设计相关知识，对平面设计及广告投放资源的布局设计有了更好的认识。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "互联网/移动互联网/电子商务;食品/饮料/烟酒/日化;工艺品/珠宝/玩具", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "离职，正在找工作", 
+        "expSalary": "保密", 
+        "ignoreIncs": "", 
+        "expJobCates": "电子商务经理/主管;产品经理/主管", 
+        "expLocations": "北京", 
+        "expJobTypes": ""
+    }, 
+    "cvFrom": "liepin", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2012.07", 
+            "schName": "北京工商学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2008.09", 
+            "majorName": "艺术设计", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incDesc": "", 
+            "incName": "无止净（北京）科技有限公司", 
+            "jobSalary": "", 
+            "jobEnd": "2016.02", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2015.07", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "7个月", 
+            "incEmployee": "100-499人", 
+            "incType": "中外合营(合资?合作)", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2016/02", 
+                    "location": "不限", 
+                    "positionStart": "2015/07", 
+                    "jobPosition": "UI设计师", 
+                    "jobDesc": "1． 负责物料设计支持 2． 负责相关活动专题页制作 3． 负责手机端产品设计制作 4． 负责品牌专栏制作 5． 负责微信端专题活动 6． 负责淘宝端专题活动"
+                }
+            ]
+        }, 
+        {
+            "itemId": "2", 
+            "incDesc": "", 
+            "incName": "国美在线", 
+            "jobSalary": "", 
+            "jobEnd": "2015.07", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.10", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "9个月", 
+            "incEmployee": "1-49人", 
+            "incType": "", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2015/07", 
+                    "location": "不限", 
+                    "positionStart": "2014/10", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "1． 负责首页2-6帧轮播手焦图制作 2． 负责相关活动专题页制作 3． 参与618大促制作 4． 负责品牌专栏制作 5． 负责首页GIF图制作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "3", 
+            "incDesc": "", 
+            "incName": "凡客诚品", 
+            "jobSalary": "", 
+            "jobEnd": "2014.10", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.07", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年3个月", 
+            "incEmployee": "5000-10000人", 
+            "incType": "中外合营(合资?合作)", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2014/10", 
+                    "location": "不限", 
+                    "positionStart": "2013/07", 
+                    "jobPosition": "网页设计师", 
+                    "jobDesc": "1．负责相关频道页改版事宜，参与在线客服UI改版制作 2．负责凡客诚品牛仔裤，100支卡其裤，帆布鞋以及80支吉國武衬衫频道相关专题制作 3．负责凡客诚品牛仔裤，100支卡其裤，帆布鞋以及80支吉國武衬衫频道相关单品页制作 4．制作凡客诚品超轻羽绒服抢购专题以及凡客空气层外套专题制作 5．负责凡客诚品促销频道专题制作 6．参与凡客诚品“一件衬衫”发布会的设计制作"
+                }
+            ]
+        }, 
+        {
+            "itemId": "4", 
+            "incDesc": "", 
+            "incName": "高朋网", 
+            "jobSalary": "", 
+            "jobEnd": "2013.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2012.03", 
+            "incIndustrys": "互联网/移动互联网/电子商务", 
+            "jobDuration": "1年3个月", 
+            "incEmployee": "100-499人", 
+            "incType": "中外合营(合资?合作)", 
+            "jobPosition": "", 
+            "jobDesc": "", 
+            "witness": "", 
+            "positionList": [
+                {
+                    "itemId": 1, 
+                    "salary": "保密", 
+                    "positionEnd": "2013/06", 
+                    "location": "不限", 
+                    "positionStart": "2012/03", 
+                    "jobPosition": "视觉设计师", 
+                    "jobDesc": "1. 设计制作产品图片，Banner，广点通图片。 2. 独立完成专题的选题、策划和采编工作，进行专题页面的规划及制作； 3. cps广告投放设计 广点通图片设计 商品主图设计 优爆单产品设计及制作 4. 线下推广如易拉宝，展位等设计，与各分站运营&PM沟通并负责设计。"
+                }
+            ]
+        }
+    ]
+}

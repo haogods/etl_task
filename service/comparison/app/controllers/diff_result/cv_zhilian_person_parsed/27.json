@@ -1,0 +1,234 @@
+{
+    "skillList": [
+        {
+            "itemId": "1", 
+            "skillDuration": "10个月", 
+            "skillName": "计算机硬件维修", 
+            "skillLevel": "精通"
+        }
+    ], 
+    "privateInfo": {
+        "userName": "", 
+        "qq": "", 
+        "idNumber": "", 
+        "wechatNum": "", 
+        "phoneNumber": "", 
+        "keyWords": "", 
+        "homePage": "", 
+        "email": ""
+    }, 
+    "baseInfo": {
+        "updateTime": "2016年03月03日", 
+        "overSea": "0", 
+        "height": "", 
+        "nowSalary": "", 
+        "cvId": "JR264238444R90250000000", 
+        "recentMajorName": "计算机科学与技术", 
+        "nowPoliStatus": "无党派人士", 
+        "nowAddress": "天津 河西区", 
+        "annuallncome": "", 
+        "subsidy": "", 
+        "nowZipCode": "", 
+        "nowPosition": "", 
+        "nowAddressDetail": "", 
+        "stock": "", 
+        "bonus": "", 
+        "nowDiploma": "本科", 
+        "baseSalary": "", 
+        "nowIndustry": "", 
+        "nowInc": "", 
+        "nowHukou": "天津", 
+        "dob": "1983年4月", 
+        "gender": "男", 
+        "age": "33岁", 
+        "recentSchName": "天津城市建设学院", 
+        "credit": "", 
+        "marriage": "未婚", 
+        "country": "", 
+        "nowWorkAge": "9年工作经验"
+    }, 
+    "certList": [
+        {
+            "itemId": "1", 
+            "certTime": "2006.09", 
+            "certName": "大学英语四级", 
+            "certLevel": ""
+        }
+    ], 
+    "trainList": [
+        {
+            "itemId": "1", 
+            "trainLoc": "广州", 
+            "trainDesc": "学习惠普各类服务器产品线的相关知识和维修的技巧。", 
+            "trainAgency": "惠普公司", 
+            "trainCert": "服务器初级授权", 
+            "trainStart": "2011.10", 
+            "trainTitle": "服务器相关知识和设备维修", 
+            "trainEnd": "2011.11"
+        }
+    ], 
+    "languageList": [
+        {
+            "itemId": "1", 
+            "languageLevel": "读写能力熟练 | 听说能力熟练", 
+            "languageName": "英语"
+        }
+    ], 
+    "proList": [
+        {
+            "itemId": "1", 
+            "hardwareEnv": "", 
+            "proName": "海泰环境监控系统", 
+            "proStart": "2013.06", 
+            "devTool": "", 
+            "proRole": "", 
+            "proIncName": "", 
+            "proDesc": "海泰环境监控系统负责各个化工单位污水排放的监测。", 
+            "softwareEnv": "", 
+            "proDuty": "全程监控项目的进度。", 
+            "proAchievement": "", 
+            "proEnd": "2013.07"
+        }
+    ], 
+    "others": {
+        "otherHobby": "足球", 
+        "pubWork": "", 
+        "specialSkill": "", 
+        "professionOrg": "", 
+        "otherInfo": "", 
+        "patent": "", 
+        "longCareerGoal": "", 
+        "cvName": "计算机软、硬件/互联网/IT 8年 天津", 
+        "gainHoner": "", 
+        "schoolExp": "\n2005.09 曾获 院校级 象棋冠军\n\n\n\n奖项描述：\n获得学院组织的象棋比赛的冠军\n\n\n\n\n\n\n活动描述：\n学校外联部成员 计算机系足球队队长", 
+        "religion": "", 
+        "selfIntro": "踏实肯干，任劳任怨。活泼开朗，认真努力。有很好的适应能力和学习能力。", 
+        "socialActie": "", 
+        "workLoc": "", 
+        "stuPractice": "", 
+        "jobPositionFor": "", 
+        "jobIncNameFor": "", 
+        "recommendLetter": "", 
+        "attachment": ""
+    }, 
+    "jobExp": {
+        "expIndustrys": "IT服务(系统/数据/维护)", 
+        "dutyTime": "", 
+        "notes": "", 
+        "workStatus": "我目前处于离职状态，可立即上岗", 
+        "expSalary": "不显示职位月薪范围", 
+        "ignoreIncs": "", 
+        "expJobCates": "IT技术支持/维护工程师、IT技术支持/维护经理、计算机硬件维护工程师", 
+        "expLocations": "天津", 
+        "expJobTypes": "全职"
+    }, 
+    "cvFrom": "zhilian", 
+    "eduList": [
+        {
+            "itemId": "1", 
+            "eduEnd": "2007.07", 
+            "schName": "天津城市建设学院", 
+            "eduTongZhao": "", 
+            "eduStart": "2003.09", 
+            "majorName": "计算机科学与技术", 
+            "eduDiploma": "本科"
+        }
+    ], 
+    "jobList": [
+        {
+            "itemId": "1", 
+            "incName": "达思云安", 
+            "jobSalary": "4001-6000元/月", 
+            "jobEnd": "至今", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2014.06", 
+            "incIndustrys": "IT服务(系统/数据/维护)", 
+            "jobDuration": "1年9个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "IT技术支持/维护经理", 
+            "jobDesc": "\n硬盘服务器和优盘等存储介质的数据恢复", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "2", 
+            "incName": "艾默生", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2014.06", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "", 
+            "jobStart": "2013.12", 
+            "incIndustrys": "计算机硬件", 
+            "jobDuration": "6个月", 
+            "incEmployee": "", 
+            "incType": "", 
+            "jobPosition": "IT技术支持/维护经理", 
+            "jobDesc": "\n计算机及办公设备的软硬件维护", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "3", 
+            "incName": "天津蓝狐科技发展有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2013.12", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "技术部", 
+            "jobStart": "2013.04", 
+            "incIndustrys": "房地产/建筑/建材/工程", 
+            "jobDuration": "8个月", 
+            "incEmployee": "20人以下", 
+            "incType": "其它", 
+            "jobPosition": "IT技术支持/维护工程师", 
+            "jobDesc": "\n音视频工程中的设备安装与维护", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "4", 
+            "incName": "安华易科技发展有限公司", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2013.04", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "技术服务部", 
+            "jobStart": "2012.03", 
+            "incIndustrys": "计算机硬件", 
+            "jobDuration": "1年1个月", 
+            "incEmployee": "20-99人", 
+            "incType": "民营", 
+            "jobPosition": "计算机硬件维护工程师", 
+            "jobDesc": "\n涉密设备的维修和维护，硬盘和服务器的数据恢复，以及各种打印机的维修。", 
+            "witness": ""
+        }, 
+        {
+            "itemId": "5", 
+            "incName": "华普", 
+            "jobSalary": "2001-4000元/月", 
+            "jobEnd": "2012.01", 
+            "leaveReason": "", 
+            "underNum": "", 
+            "achieveDesc": "", 
+            "reportTo": "", 
+            "jobDepartment": "笔记本", 
+            "jobStart": "2007.07", 
+            "incIndustrys": "IT服务(系统/数据/维护)", 
+            "jobDuration": "4年6个月", 
+            "incEmployee": "20-99人", 
+            "incType": "民营", 
+            "jobPosition": "工程师", 
+            "jobDesc": "\n与客户沟通，技术支持", 
+            "witness": ""
+        }
+    ]
+}
